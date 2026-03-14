@@ -30,10 +30,60 @@ End-to-end data analytics project on 1,000 e-commerce orders across 7 product ca
 | `ecommerce_dashboard.png` | 8-chart visual dashboard |
 
 ## How to Run
-```bash
-pip install pandas matplotlib openpyxl
-python ecommerce_analysis.py
-```
+
+### Windows
+1. **Clone the repository:**
+   ```cmd
+   git clone https://github.com/sachanlabs/ecommerce-sales-analytics.git
+   cd ecommerce-sales-analytics
+   ```
+2. **Create a virtual environment:**
+   ```cmd
+   python -m venv venv
+   ```
+3. **Activate the virtual environment:**
+   ```cmd
+   venv\Scripts\activate
+   ```
+4. **Install dependencies:**
+   ```cmd
+   pip install pandas matplotlib openpyxl streamlit
+   ```
+5. **Run the analysis script (generates output files):**
+   ```cmd
+   python ecommerce_analysis.py
+   ```
+6. **Run the interactive Streamlit dashboard:**
+   ```cmd
+   streamlit run app.py
+   ```
+
+### Linux / macOS
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/sachanlabs/ecommerce-sales-analytics.git
+   cd ecommerce-sales-analytics
+   ```
+2. **Create a virtual environment:**
+   ```bash
+   python3 -m venv venv
+   ```
+3. **Activate the virtual environment:**
+   ```bash
+   source venv/bin/activate
+   ```
+4. **Install dependencies:**
+   ```bash
+   pip install pandas matplotlib openpyxl streamlit
+   ```
+5. **Run the analysis script (generates output files):**
+   ```bash
+   python3 ecommerce_analysis.py
+   ```
+6. **Run the interactive Streamlit dashboard:**
+   ```bash
+   streamlit run app.py
+   ```
 
 ## Tools Used
 Python 3 · Pandas · Matplotlib · OpenPyXL
