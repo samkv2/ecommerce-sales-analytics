@@ -1,0 +1,1001 @@
+order_id,date,month,month_num,quarter,category,product,state,city,quantity,unit_price,discount_pct,revenue,profit,channel,payment,device,returned,rating,cost
+ORD10001,2024-07-25,July,7,Q3,Beauty,Moisturiser,Telangana,Hyderabad,2,337,5,640.3,240.3,Organic Search,UPI,Mobile,0,4,400
+ORD10002,2024-11-15,November,11,Q4,Books,Data Science Book,Telangana,Hyderabad,1,863,15,733.55,233.55,Social Media,Net Banking,Desktop,0,4,500
+ORD10003,2024-04-01,April,4,Q2,Groceries,Dry Fruits 500g,West Bengal,Kolkata,1,655,15,556.75,206.75,Organic Search,Credit Card,Mobile,0,1,350
+ORD10004,2024-04-14,April,4,Q2,Beauty,Face Serum,Haryana,Gurugram,2,803,10,1445.4,845.4,Paid Ad,Debit Card,Tablet,0,3,600
+ORD10005,2024-03-23,March,3,Q1,Books,UPSC Guide,Uttar Pradesh,Bareilly,4,485,25,1455.0,-145.0,Referral,UPI,Mobile,0,5,1600
+ORD10006,2024-08-02,August,8,Q3,Electronics,Earbuds,Haryana,Gurugram,1,1496,0,1496.0,296.0,Direct,UPI,Mobile,0,3,1200
+ORD10007,2024-01-29,January,1,Q1,Fashion,Saree,Rajasthan,Jaipur,1,2975,20,2380.0,1180.0,Paid Ad,Credit Card,Desktop,1,3,1200
+ORD10008,2024-11-03,November,11,Q4,Fashion,Kurta Set,Uttar Pradesh,Bareilly,4,787,0,3148.0,748.0,Paid Ad,UPI,Tablet,0,5,2400
+ORD10009,2024-10-14,October,10,Q4,Home & Kitchen,Bedsheet Set,Odisha,Bhubaneswar,1,679,20,543.2,143.2,Organic Search,Cash on Delivery,Mobile,0,4,400
+ORD10010,2024-01-06,January,1,Q1,Groceries,Dry Fruits 500g,Kerala,Kochi,1,495,10,445.5,95.5,Social Media,Net Banking,Mobile,0,4,350
+ORD10011,2024-02-17,February,2,Q1,Fashion,Jeans,Haryana,Gurugram,1,1643,20,1314.4,514.4,Email Campaign,Net Banking,Mobile,0,3,800
+ORD10012,2024-06-08,June,6,Q2,Electronics,Smartwatch,Kerala,Kochi,2,5135,5,9756.5,2756.5,Referral,Debit Card,Mobile,0,5,7000
+ORD10013,2024-02-11,February,2,Q1,Books,UPSC Guide,Gujarat,Ahmedabad,5,505,0,2525.0,525.0,Social Media,Cash on Delivery,Desktop,0,4,2000
+ORD10014,2024-05-11,May,5,Q2,Beauty,Hair Oil,Haryana,Gurugram,1,333,20,266.4,116.4,Paid Ad,UPI,Desktop,0,5,150
+ORD10015,2024-12-07,December,12,Q4,Books,UPSC Guide,Telangana,Hyderabad,1,490,5,465.5,65.5,Referral,Credit Card,Mobile,0,5,400
+ORD10016,2024-12-07,December,12,Q4,Fashion,Jeans,Odisha,Bhubaneswar,2,1733,20,2772.8,1172.8,Referral,UPI,Desktop,0,4,1600
+ORD10017,2024-02-27,February,2,Q1,Sports,Yoga Mat,Uttar Pradesh,Lucknow,1,974,5,925.3,525.3,Referral,Wallet,Tablet,0,5,400
+ORD10018,2024-04-15,April,4,Q2,Home & Kitchen,Pressure Cooker,Madhya Pradesh,Bhopal,3,1733,10,4679.1,2279.1,Direct,Debit Card,Desktop,0,4,2400
+ORD10019,2024-05-27,May,5,Q2,Fashion,Saree,Madhya Pradesh,Bhopal,1,1750,20,1400.0,200.0,Organic Search,Debit Card,Tablet,0,4,1200
+ORD10020,2024-10-12,October,10,Q4,Groceries,Dry Fruits 500g,Uttar Pradesh,Bareilly,1,436,30,305.2,-44.8,Email Campaign,Credit Card,Mobile,0,3,350
+ORD10021,2024-03-07,March,3,Q1,Books,UPSC Guide,Kerala,Kochi,3,619,10,1671.3,471.3,Direct,Wallet,Mobile,0,4,1200
+ORD10022,2024-10-20,October,10,Q4,Beauty,Moisturiser,Karnataka,Bengaluru,3,465,15,1185.75,585.75,Referral,Cash on Delivery,Mobile,0,2,600
+ORD10023,2024-05-02,May,5,Q2,Books,UPSC Guide,Uttar Pradesh,Lucknow,1,524,20,419.2,19.2,Organic Search,UPI,Desktop,0,4,400
+ORD10024,2024-11-20,November,11,Q4,Electronics,Smartphone,Uttar Pradesh,Bareilly,1,20785,0,20785.0,5785.0,Direct,Cash on Delivery,Mobile,0,4,15000
+ORD10025,2024-10-11,October,10,Q4,Home & Kitchen,Air Fryer,Karnataka,Bengaluru,3,2985,15,7611.75,111.75,Email Campaign,UPI,Mobile,0,4,7500
+ORD10026,2024-12-02,December,12,Q4,Beauty,Face Serum,Delhi,Delhi,2,532,20,851.2,251.2,Paid Ad,Debit Card,Desktop,0,3,600
+ORD10027,2024-12-13,December,12,Q4,Electronics,Smartwatch,Madhya Pradesh,Bhopal,1,4410,0,4410.0,910.0,Organic Search,UPI,Mobile,0,4,3500
+ORD10028,2024-04-28,April,4,Q2,Groceries,Organic Honey,Uttar Pradesh,Bareilly,3,390,5,1111.5,271.5,Organic Search,Cash on Delivery,Desktop,0,4,840
+ORD10029,2024-02-26,February,2,Q1,Fashion,Kurta Set,Rajasthan,Jaipur,2,1193,20,1908.8,708.8,Organic Search,UPI,Desktop,0,5,1200
+ORD10030,2024-04-30,April,4,Q2,Groceries,Dry Fruits 500g,Rajasthan,Jaipur,2,693,25,1039.5,339.5,Organic Search,Cash on Delivery,Mobile,0,3,700
+ORD10031,2024-08-15,August,8,Q3,Beauty,Face Serum,Tamil Nadu,Chennai,1,376,15,319.6,19.6,Organic Search,UPI,Mobile,1,5,300
+ORD10032,2024-10-11,October,10,Q4,Home & Kitchen,Air Fryer,Tamil Nadu,Chennai,1,4501,20,3600.8,1100.8,Organic Search,Credit Card,Mobile,0,4,2500
+ORD10033,2024-06-16,June,6,Q2,Electronics,Laptop,Gujarat,Ahmedabad,3,58497,5,166716.45,61716.45,Paid Ad,Debit Card,Mobile,0,4,105000
+ORD10034,2024-07-23,July,7,Q3,Beauty,Hair Oil,Uttar Pradesh,Lucknow,2,223,0,446.0,146.0,Email Campaign,Wallet,Mobile,0,3,300
+ORD10035,2024-10-17,October,10,Q4,Electronics,Smartwatch,Gujarat,Ahmedabad,1,3967,20,3173.6,-326.4,Paid Ad,Cash on Delivery,Mobile,0,5,3500
+ORD10036,2024-05-10,May,5,Q2,Fashion,Jeans,Uttar Pradesh,Bareilly,3,1184,0,3552.0,1152.0,Referral,UPI,Mobile,1,4,2400
+ORD10037,2024-03-25,March,3,Q1,Groceries,Dry Fruits 500g,Telangana,Hyderabad,1,452,10,406.8,56.8,Direct,UPI,Mobile,0,4,350
+ORD10038,2024-04-16,April,4,Q2,Electronics,Smartwatch,Gujarat,Ahmedabad,2,7129,0,14258.0,7258.0,Email Campaign,Net Banking,Mobile,0,4,7000
+ORD10039,2024-11-29,November,11,Q4,Sports,Yoga Mat,Punjab,Chandigarh,3,996,0,2988.0,1788.0,Paid Ad,Credit Card,Desktop,0,4,1200
+ORD10040,2024-02-07,February,2,Q1,Fashion,Sneakers,Tamil Nadu,Chennai,1,3962,5,3763.9,2263.9,Paid Ad,UPI,Mobile,1,4,1500
+ORD10041,2024-06-10,June,6,Q2,Fashion,Saree,Haryana,Gurugram,1,2519,0,2519.0,1319.0,Referral,UPI,Mobile,0,5,1200
+ORD10042,2024-02-28,February,2,Q1,Fashion,Jeans,West Bengal,Kolkata,1,1504,10,1353.6,553.6,Paid Ad,Credit Card,Tablet,0,4,800
+ORD10043,2024-11-07,November,11,Q4,Electronics,Earbuds,Kerala,Kochi,3,1356,10,3661.2,61.2,Social Media,Cash on Delivery,Mobile,0,2,3600
+ORD10044,2024-01-15,January,1,Q1,Fashion,Jeans,Telangana,Hyderabad,1,1404,20,1123.2,323.2,Organic Search,Debit Card,Mobile,0,3,800
+ORD10045,2024-07-08,July,7,Q3,Books,Data Science Book,Gujarat,Ahmedabad,2,742,20,1187.2,187.2,Referral,UPI,Desktop,0,4,1000
+ORD10046,2024-05-04,May,5,Q2,Electronics,Earbuds,Haryana,Gurugram,1,1866,5,1772.7,572.7,Organic Search,UPI,Mobile,0,3,1200
+ORD10047,2024-12-06,December,12,Q4,Books,UPSC Guide,Uttar Pradesh,Lucknow,1,630,5,598.5,198.5,Email Campaign,UPI,Mobile,0,5,400
+ORD10048,2024-12-26,December,12,Q4,Books,UPSC Guide,Gujarat,Ahmedabad,3,633,5,1804.05,604.05,Paid Ad,Debit Card,Mobile,0,3,1200
+ORD10049,2024-05-26,May,5,Q2,Beauty,Moisturiser,Odisha,Bhubaneswar,1,522,25,391.5,191.5,Email Campaign,Net Banking,Mobile,0,5,200
+ORD10050,2024-01-25,January,1,Q1,Groceries,Dry Fruits 500g,Delhi,Delhi,2,594,0,1188.0,488.0,Referral,Debit Card,Mobile,0,5,700
+ORD10051,2024-04-21,April,4,Q2,Fashion,Saree,Punjab,Chandigarh,2,1757,0,3514.0,1114.0,Email Campaign,Cash on Delivery,Desktop,0,3,2400
+ORD10052,2024-12-19,December,12,Q4,Home & Kitchen,Air Fryer,Karnataka,Bengaluru,2,3178,5,6038.2,1038.2,Paid Ad,Net Banking,Mobile,0,4,5000
+ORD10053,2024-09-26,September,9,Q3,Home & Kitchen,Air Fryer,Tamil Nadu,Chennai,3,3398,20,8155.2,655.2,Referral,UPI,Desktop,0,4,7500
+ORD10054,2024-07-19,July,7,Q3,Fashion,Kurta Set,Haryana,Gurugram,1,1155,5,1097.25,497.25,Direct,UPI,Mobile,0,5,600
+ORD10055,2024-08-23,August,8,Q3,Home & Kitchen,Air Fryer,Karnataka,Bengaluru,1,4840,0,4840.0,2340.0,Direct,UPI,Mobile,0,3,2500
+ORD10056,2024-08-10,August,8,Q3,Fashion,Kurta Set,Uttar Pradesh,Bareilly,1,1069,15,908.65,308.65,Organic Search,UPI,Mobile,0,3,600
+ORD10057,2024-04-09,April,4,Q2,Electronics,Earbuds,Odisha,Bhubaneswar,1,1712,0,1712.0,512.0,Referral,UPI,Mobile,0,5,1200
+ORD10058,2024-04-07,April,4,Q2,Electronics,Earbuds,Uttar Pradesh,Bareilly,1,1371,30,959.7,-240.3,Paid Ad,UPI,Mobile,0,5,1200
+ORD10059,2024-05-08,May,5,Q2,Books,Data Science Book,Uttar Pradesh,Lucknow,2,661,5,1255.9,255.9,Organic Search,Debit Card,Desktop,0,5,1000
+ORD10060,2024-04-28,April,4,Q2,Fashion,Saree,Odisha,Bhubaneswar,3,3462,15,8828.1,5228.1,Referral,Credit Card,Mobile,0,3,3600
+ORD10061,2024-09-22,September,9,Q3,Sports,Dumbbell Set,Tamil Nadu,Chennai,1,2120,15,1802.0,1002.0,Paid Ad,UPI,Mobile,0,5,800
+ORD10062,2024-10-12,October,10,Q4,Home & Kitchen,Air Fryer,Kerala,Kochi,1,5017,5,4766.15,2266.15,Referral,UPI,Mobile,0,5,2500
+ORD10063,2024-08-04,August,8,Q3,Fashion,Saree,Punjab,Chandigarh,1,2039,15,1733.15,533.15,Email Campaign,Credit Card,Desktop,0,4,1200
+ORD10064,2024-11-24,November,11,Q4,Beauty,Moisturiser,Tamil Nadu,Chennai,1,324,30,226.8,26.8,Social Media,UPI,Mobile,0,1,200
+ORD10065,2024-07-18,July,7,Q3,Home & Kitchen,Bedsheet Set,Uttar Pradesh,Bareilly,1,567,15,481.95,81.95,Social Media,Wallet,Mobile,0,3,400
+ORD10066,2024-03-07,March,3,Q1,Home & Kitchen,Air Fryer,Madhya Pradesh,Bhopal,2,2860,10,5148.0,148.0,Direct,UPI,Mobile,0,3,5000
+ORD10067,2024-06-04,June,6,Q2,Beauty,Hair Oil,Madhya Pradesh,Bhopal,1,253,0,253.0,103.0,Email Campaign,UPI,Desktop,0,4,150
+ORD10068,2024-09-16,September,9,Q3,Electronics,Laptop,Karnataka,Bengaluru,1,64451,0,64451.0,29451.0,Social Media,Debit Card,Mobile,0,5,35000
+ORD10069,2024-10-01,October,10,Q4,Electronics,Laptop,Delhi,Delhi,1,45581,20,36464.8,1464.8,Organic Search,Credit Card,Mobile,0,4,35000
+ORD10070,2024-01-02,January,1,Q1,Fashion,Saree,Madhya Pradesh,Bhopal,1,2221,0,2221.0,1021.0,Referral,Credit Card,Desktop,1,5,1200
+ORD10071,2024-10-08,October,10,Q4,Books,UPSC Guide,Tamil Nadu,Chennai,3,445,20,1068.0,-132.0,Referral,Net Banking,Mobile,0,5,1200
+ORD10072,2024-10-18,October,10,Q4,Beauty,Moisturiser,Kerala,Kochi,1,475,20,380.0,180.0,Social Media,Debit Card,Desktop,0,5,200
+ORD10073,2024-06-17,June,6,Q2,Groceries,Dry Fruits 500g,Kerala,Kochi,1,487,15,413.95,63.95,Referral,UPI,Mobile,0,2,350
+ORD10074,2024-12-28,December,12,Q4,Beauty,Hair Oil,Madhya Pradesh,Bhopal,5,320,5,1520.0,770.0,Organic Search,Debit Card,Desktop,0,4,750
+ORD10075,2024-03-29,March,3,Q1,Electronics,Smartphone,Karnataka,Bengaluru,2,20143,5,38271.7,8271.7,Social Media,Credit Card,Mobile,0,4,30000
+ORD10076,2024-03-25,March,3,Q1,Electronics,Smartphone,Karnataka,Bengaluru,2,24112,5,45812.8,15812.8,Email Campaign,Debit Card,Desktop,0,4,30000
+ORD10077,2024-12-19,December,12,Q4,Groceries,Organic Honey,Maharashtra,Mumbai,2,386,20,617.6,57.6,Email Campaign,UPI,Mobile,0,5,560
+ORD10078,2024-08-04,August,8,Q3,Sports,Dumbbell Set,West Bengal,Kolkata,1,1321,20,1056.8,256.8,Organic Search,UPI,Mobile,0,5,800
+ORD10079,2024-03-21,March,3,Q1,Fashion,Sneakers,Madhya Pradesh,Bhopal,1,2592,5,2462.4,962.4,Paid Ad,UPI,Mobile,0,4,1500
+ORD10080,2024-05-14,May,5,Q2,Books,UPSC Guide,West Bengal,Kolkata,2,486,15,826.2,26.2,Referral,Credit Card,Desktop,0,4,800
+ORD10081,2024-03-27,March,3,Q1,Groceries,Organic Honey,Haryana,Gurugram,1,499,15,424.15,144.15,Paid Ad,Wallet,Tablet,0,4,280
+ORD10082,2024-09-22,September,9,Q3,Books,Data Science Book,Uttar Pradesh,Bareilly,2,824,10,1483.2,483.2,Email Campaign,Net Banking,Mobile,1,5,1000
+ORD10083,2024-08-20,August,8,Q3,Fashion,Saree,Delhi,Delhi,1,1367,10,1230.3,30.3,Social Media,Net Banking,Desktop,0,5,1200
+ORD10084,2024-10-07,October,10,Q4,Beauty,Hair Oil,Uttar Pradesh,Lucknow,4,165,0,660.0,60.0,Direct,Net Banking,Mobile,0,5,600
+ORD10085,2024-01-11,January,1,Q1,Beauty,Face Serum,Madhya Pradesh,Bhopal,5,374,20,1496.0,-4.0,Organic Search,UPI,Tablet,1,3,1500
+ORD10086,2024-01-04,January,1,Q1,Fashion,Jeans,Rajasthan,Jaipur,1,1601,20,1280.8,480.8,Social Media,Cash on Delivery,Mobile,0,5,800
+ORD10087,2024-02-23,February,2,Q1,Fashion,Jeans,Uttar Pradesh,Bareilly,5,1317,20,5268.0,1268.0,Email Campaign,Cash on Delivery,Mobile,0,4,4000
+ORD10088,2024-04-05,April,4,Q2,Books,Data Science Book,West Bengal,Kolkata,2,880,10,1584.0,584.0,Email Campaign,UPI,Mobile,0,3,1000
+ORD10089,2024-02-25,February,2,Q1,Electronics,Smartphone,Gujarat,Ahmedabad,2,22612,15,38440.4,8440.4,Referral,UPI,Mobile,0,4,30000
+ORD10090,2024-05-18,May,5,Q2,Home & Kitchen,Bedsheet Set,Haryana,Gurugram,2,711,10,1279.8,479.8,Direct,Net Banking,Desktop,0,5,800
+ORD10091,2024-02-10,February,2,Q1,Electronics,Earbuds,Punjab,Chandigarh,1,1487,15,1263.95,63.95,Organic Search,UPI,Desktop,1,5,1200
+ORD10092,2024-01-28,January,1,Q1,Fashion,Kurta Set,Uttar Pradesh,Lucknow,1,1235,10,1111.5,511.5,Referral,UPI,Mobile,0,4,600
+ORD10093,2024-04-01,April,4,Q2,Fashion,Jeans,Haryana,Gurugram,2,926,15,1574.2,-25.8,Paid Ad,UPI,Tablet,0,2,1600
+ORD10094,2024-05-27,May,5,Q2,Beauty,Face Serum,Uttar Pradesh,Bareilly,1,652,25,489.0,189.0,Organic Search,UPI,Mobile,0,4,300
+ORD10095,2024-10-13,October,10,Q4,Fashion,Jeans,Maharashtra,Mumbai,2,1274,5,2420.6,820.6,Email Campaign,Credit Card,Tablet,0,5,1600
+ORD10096,2024-04-29,April,4,Q2,Fashion,Saree,Haryana,Gurugram,1,3407,10,3066.3,1866.3,Email Campaign,Wallet,Desktop,0,3,1200
+ORD10097,2024-05-24,May,5,Q2,Sports,Yoga Mat,Maharashtra,Mumbai,2,788,30,1103.2,303.2,Referral,UPI,Mobile,0,3,800
+ORD10098,2024-04-11,April,4,Q2,Home & Kitchen,Pressure Cooker,Kerala,Kochi,3,910,0,2730.0,330.0,Paid Ad,UPI,Mobile,0,2,2400
+ORD10099,2024-05-17,May,5,Q2,Beauty,Face Serum,Odisha,Bhubaneswar,1,785,10,706.5,406.5,Organic Search,Credit Card,Mobile,0,4,300
+ORD10100,2024-02-09,February,2,Q1,Beauty,Face Serum,Karnataka,Bengaluru,2,644,15,1094.8,494.8,Referral,UPI,Mobile,0,4,600
+ORD10101,2024-11-29,November,11,Q4,Fashion,Sneakers,Uttar Pradesh,Bareilly,1,2755,25,2066.25,566.25,Email Campaign,Net Banking,Mobile,0,5,1500
+ORD10102,2024-04-03,April,4,Q2,Fashion,Saree,Karnataka,Bengaluru,1,3065,20,2452.0,1252.0,Direct,Cash on Delivery,Desktop,0,4,1200
+ORD10103,2024-09-21,September,9,Q3,Sports,Dumbbell Set,Maharashtra,Mumbai,2,1782,15,3029.4,1429.4,Email Campaign,Debit Card,Desktop,1,4,1600
+ORD10104,2024-03-07,March,3,Q1,Sports,Dumbbell Set,Odisha,Bhubaneswar,2,1831,10,3295.8,1695.8,Email Campaign,Net Banking,Desktop,0,3,1600
+ORD10105,2024-03-10,March,3,Q1,Electronics,Earbuds,Kerala,Kochi,4,1462,0,5848.0,1048.0,Paid Ad,Cash on Delivery,Mobile,0,4,4800
+ORD10106,2024-12-03,December,12,Q4,Home & Kitchen,Air Fryer,Odisha,Bhubaneswar,1,4327,0,4327.0,1827.0,Social Media,Cash on Delivery,Mobile,0,3,2500
+ORD10107,2024-09-17,September,9,Q3,Home & Kitchen,Pressure Cooker,West Bengal,Kolkata,1,1196,15,1016.6,216.6,Email Campaign,UPI,Desktop,1,4,800
+ORD10108,2024-12-10,December,12,Q4,Fashion,Sneakers,Telangana,Hyderabad,2,2788,5,5297.2,2297.2,Direct,Debit Card,Desktop,0,4,3000
+ORD10109,2024-08-31,August,8,Q3,Home & Kitchen,Pressure Cooker,Punjab,Chandigarh,1,1234,5,1172.3,372.3,Direct,UPI,Mobile,0,1,800
+ORD10110,2024-07-05,July,7,Q3,Electronics,Smartphone,Odisha,Bhubaneswar,4,18588,15,63199.2,3199.2,Social Media,Debit Card,Mobile,0,5,60000
+ORD10111,2024-11-06,November,11,Q4,Fashion,Jeans,Uttar Pradesh,Lucknow,1,1199,20,959.2,159.2,Direct,UPI,Mobile,0,4,800
+ORD10112,2024-09-15,September,9,Q3,Beauty,Moisturiser,Odisha,Bhubaneswar,2,486,20,777.6,377.6,Organic Search,Debit Card,Mobile,0,4,400
+ORD10113,2024-05-05,May,5,Q2,Beauty,Face Serum,West Bengal,Kolkata,1,355,15,301.75,1.75,Organic Search,Net Banking,Desktop,0,5,300
+ORD10114,2024-04-16,April,4,Q2,Fashion,Sneakers,Uttar Pradesh,Bareilly,1,1831,5,1739.45,239.45,Email Campaign,Net Banking,Mobile,0,5,1500
+ORD10115,2024-01-30,January,1,Q1,Fashion,Jeans,Telangana,Hyderabad,2,1051,10,1891.8,291.8,Direct,Credit Card,Mobile,0,4,1600
+ORD10116,2024-06-01,June,6,Q2,Electronics,Smartwatch,Delhi,Delhi,4,7242,5,27519.6,13519.6,Email Campaign,UPI,Desktop,1,2,14000
+ORD10117,2024-05-06,May,5,Q2,Sports,Yoga Mat,Tamil Nadu,Chennai,1,1013,20,810.4,410.4,Social Media,Debit Card,Desktop,0,5,400
+ORD10118,2024-08-17,August,8,Q3,Fashion,Kurta Set,Madhya Pradesh,Bhopal,1,1077,10,969.3,369.3,Social Media,Cash on Delivery,Desktop,0,4,600
+ORD10119,2024-01-24,January,1,Q1,Fashion,Saree,Rajasthan,Jaipur,2,1407,10,2532.6,132.6,Email Campaign,Credit Card,Desktop,1,4,2400
+ORD10120,2024-11-16,November,11,Q4,Beauty,Hair Oil,Rajasthan,Jaipur,1,222,0,222.0,72.0,Direct,Debit Card,Mobile,0,4,150
+ORD10121,2024-11-28,November,11,Q4,Beauty,Face Serum,Madhya Pradesh,Bhopal,1,820,0,820.0,520.0,Paid Ad,Credit Card,Mobile,0,5,300
+ORD10122,2024-01-06,January,1,Q1,Home & Kitchen,Bedsheet Set,Uttar Pradesh,Lucknow,1,716,10,644.4,244.4,Paid Ad,Credit Card,Mobile,0,4,400
+ORD10123,2024-12-12,December,12,Q4,Fashion,Jeans,Haryana,Gurugram,5,1031,20,4124.0,124.0,Direct,Credit Card,Mobile,0,4,4000
+ORD10124,2024-05-28,May,5,Q2,Books,UPSC Guide,Maharashtra,Mumbai,3,628,0,1884.0,684.0,Paid Ad,UPI,Mobile,0,4,1200
+ORD10125,2024-04-08,April,4,Q2,Home & Kitchen,Pressure Cooker,Uttar Pradesh,Bareilly,1,1691,0,1691.0,891.0,Direct,Cash on Delivery,Mobile,0,3,800
+ORD10126,2024-08-31,August,8,Q3,Home & Kitchen,Bedsheet Set,Delhi,Delhi,1,552,10,496.8,96.8,Referral,Debit Card,Desktop,0,3,400
+ORD10127,2024-09-27,September,9,Q3,Fashion,Kurta Set,Gujarat,Ahmedabad,1,891,5,846.45,246.45,Referral,UPI,Mobile,0,4,600
+ORD10128,2024-04-11,April,4,Q2,Beauty,Moisturiser,Rajasthan,Jaipur,2,378,0,756.0,356.0,Email Campaign,Cash on Delivery,Desktop,0,5,400
+ORD10129,2024-04-26,April,4,Q2,Fashion,Kurta Set,West Bengal,Kolkata,1,1365,0,1365.0,765.0,Direct,UPI,Mobile,0,5,600
+ORD10130,2024-07-13,July,7,Q3,Beauty,Face Serum,Kerala,Kochi,1,398,5,378.1,78.1,Referral,UPI,Desktop,0,5,300
+ORD10131,2024-10-06,October,10,Q4,Beauty,Face Serum,Gujarat,Ahmedabad,1,626,25,469.5,169.5,Paid Ad,Debit Card,Mobile,0,3,300
+ORD10132,2024-02-13,February,2,Q1,Groceries,Organic Honey,Kerala,Kochi,1,362,5,343.9,63.9,Organic Search,Cash on Delivery,Mobile,0,3,280
+ORD10133,2024-07-03,July,7,Q3,Electronics,Smartwatch,West Bengal,Kolkata,5,4910,25,18412.5,912.5,Email Campaign,UPI,Desktop,1,5,17500
+ORD10134,2024-12-20,December,12,Q4,Fashion,Jeans,West Bengal,Kolkata,2,1990,15,3383.0,1783.0,Email Campaign,Cash on Delivery,Mobile,0,4,1600
+ORD10135,2024-02-04,February,2,Q1,Fashion,Sneakers,West Bengal,Kolkata,2,3802,5,7223.8,4223.8,Direct,Debit Card,Desktop,0,3,3000
+ORD10136,2024-09-12,September,9,Q3,Groceries,Organic Honey,West Bengal,Kolkata,1,537,25,402.75,122.75,Organic Search,Wallet,Mobile,0,5,280
+ORD10137,2024-06-02,June,6,Q2,Home & Kitchen,Air Fryer,Madhya Pradesh,Bhopal,1,3278,15,2786.3,286.3,Organic Search,UPI,Desktop,0,5,2500
+ORD10138,2024-04-02,April,4,Q2,Fashion,Sneakers,Madhya Pradesh,Bhopal,1,2354,5,2236.3,736.3,Direct,UPI,Desktop,0,5,1500
+ORD10139,2024-08-17,August,8,Q3,Home & Kitchen,Pressure Cooker,Madhya Pradesh,Bhopal,1,1978,5,1879.1,1079.1,Email Campaign,UPI,Desktop,0,5,800
+ORD10140,2024-02-24,February,2,Q1,Home & Kitchen,Bedsheet Set,Maharashtra,Mumbai,1,524,0,524.0,124.0,Referral,Debit Card,Desktop,0,3,400
+ORD10141,2024-10-03,October,10,Q4,Groceries,Dry Fruits 500g,Delhi,Delhi,3,750,25,1687.5,637.5,Social Media,Credit Card,Mobile,0,4,1050
+ORD10142,2024-08-17,August,8,Q3,Home & Kitchen,Air Fryer,Gujarat,Ahmedabad,1,3818,5,3627.1,1127.1,Direct,Debit Card,Mobile,0,5,2500
+ORD10143,2024-03-12,March,3,Q1,Beauty,Face Serum,Telangana,Hyderabad,2,758,25,1137.0,537.0,Social Media,Credit Card,Mobile,0,4,600
+ORD10144,2024-05-13,May,5,Q2,Fashion,Jeans,Tamil Nadu,Chennai,1,982,5,932.9,132.9,Email Campaign,Debit Card,Mobile,0,5,800
+ORD10145,2024-03-03,March,3,Q1,Beauty,Moisturiser,Karnataka,Bengaluru,1,456,15,387.6,187.6,Paid Ad,UPI,Mobile,0,5,200
+ORD10146,2024-11-06,November,11,Q4,Fashion,Saree,Maharashtra,Mumbai,1,2614,10,2352.6,1152.6,Paid Ad,Debit Card,Mobile,0,5,1200
+ORD10147,2024-10-24,October,10,Q4,Beauty,Moisturiser,Delhi,Delhi,1,455,0,455.0,255.0,Paid Ad,Debit Card,Desktop,0,4,200
+ORD10148,2024-09-16,September,9,Q3,Fashion,Saree,Madhya Pradesh,Bhopal,5,1935,5,9191.25,3191.25,Organic Search,Credit Card,Mobile,0,4,6000
+ORD10149,2024-11-21,November,11,Q4,Home & Kitchen,Air Fryer,Gujarat,Ahmedabad,4,5311,0,21244.0,11244.0,Social Media,Credit Card,Desktop,0,4,10000
+ORD10150,2024-02-18,February,2,Q1,Home & Kitchen,Bedsheet Set,Uttar Pradesh,Bareilly,1,1011,25,758.25,358.25,Social Media,UPI,Desktop,0,4,400
+ORD10151,2024-07-23,July,7,Q3,Fashion,Jeans,Rajasthan,Jaipur,1,1536,10,1382.4,582.4,Email Campaign,UPI,Mobile,0,3,800
+ORD10152,2024-12-04,December,12,Q4,Fashion,Kurta Set,Rajasthan,Jaipur,3,961,0,2883.0,1083.0,Email Campaign,Credit Card,Mobile,0,4,1800
+ORD10153,2024-01-01,January,1,Q1,Electronics,Earbuds,Uttar Pradesh,Bareilly,1,2191,10,1971.9,771.9,Social Media,Debit Card,Desktop,0,5,1200
+ORD10154,2024-08-13,August,8,Q3,Electronics,Smartwatch,Gujarat,Ahmedabad,1,7275,0,7275.0,3775.0,Organic Search,Net Banking,Mobile,0,5,3500
+ORD10155,2024-01-25,January,1,Q1,Beauty,Moisturiser,Karnataka,Bengaluru,1,513,0,513.0,313.0,Paid Ad,Debit Card,Mobile,0,4,200
+ORD10156,2024-05-22,May,5,Q2,Groceries,Dry Fruits 500g,Delhi,Delhi,2,748,0,1496.0,796.0,Social Media,Wallet,Mobile,0,5,700
+ORD10157,2024-01-04,January,1,Q1,Books,UPSC Guide,Rajasthan,Jaipur,2,579,0,1158.0,358.0,Organic Search,UPI,Mobile,0,5,800
+ORD10158,2024-08-23,August,8,Q3,Beauty,Moisturiser,Telangana,Hyderabad,5,398,25,1492.5,492.5,Organic Search,UPI,Mobile,0,5,1000
+ORD10159,2024-01-30,January,1,Q1,Groceries,Organic Honey,Haryana,Gurugram,3,366,20,878.4,38.4,Direct,UPI,Mobile,0,2,840
+ORD10160,2024-07-10,July,7,Q3,Home & Kitchen,Air Fryer,Tamil Nadu,Chennai,1,4282,0,4282.0,1782.0,Paid Ad,Debit Card,Mobile,0,3,2500
+ORD10161,2024-10-08,October,10,Q4,Fashion,Saree,Haryana,Gurugram,1,3389,25,2541.75,1341.75,Paid Ad,Debit Card,Mobile,0,1,1200
+ORD10162,2024-10-12,October,10,Q4,Fashion,Jeans,Uttar Pradesh,Lucknow,1,1676,0,1676.0,876.0,Paid Ad,UPI,Mobile,0,5,800
+ORD10163,2024-05-04,May,5,Q2,Beauty,Face Serum,Gujarat,Ahmedabad,3,441,5,1256.85,356.85,Referral,Cash on Delivery,Mobile,0,4,900
+ORD10164,2024-09-16,September,9,Q3,Beauty,Hair Oil,Maharashtra,Mumbai,2,299,20,478.4,178.4,Paid Ad,Debit Card,Mobile,0,2,300
+ORD10165,2024-06-11,June,6,Q2,Electronics,Smartphone,West Bengal,Kolkata,4,19880,5,75544.0,15544.0,Paid Ad,Credit Card,Mobile,0,3,60000
+ORD10166,2024-02-18,February,2,Q1,Fashion,Saree,Rajasthan,Jaipur,1,3088,10,2779.2,1579.2,Email Campaign,Net Banking,Mobile,0,5,1200
+ORD10167,2024-03-09,March,3,Q1,Electronics,Smartphone,Madhya Pradesh,Bhopal,1,27551,20,22040.8,7040.8,Social Media,UPI,Mobile,0,5,15000
+ORD10168,2024-01-12,January,1,Q1,Sports,Dumbbell Set,Kerala,Kochi,2,1369,10,2464.2,864.2,Referral,Net Banking,Mobile,0,4,1600
+ORD10169,2024-02-26,February,2,Q1,Fashion,Sneakers,Madhya Pradesh,Bhopal,2,3453,25,5179.5,2179.5,Organic Search,Cash on Delivery,Mobile,0,4,3000
+ORD10170,2024-02-14,February,2,Q1,Fashion,Jeans,West Bengal,Kolkata,1,1795,10,1615.5,815.5,Paid Ad,Debit Card,Mobile,0,4,800
+ORD10171,2024-02-26,February,2,Q1,Home & Kitchen,Pressure Cooker,Kerala,Kochi,2,1151,0,2302.0,702.0,Referral,Debit Card,Mobile,0,4,1600
+ORD10172,2024-11-25,November,11,Q4,Beauty,Face Serum,Kerala,Kochi,4,392,5,1489.6,289.6,Paid Ad,Credit Card,Mobile,0,4,1200
+ORD10173,2024-12-05,December,12,Q4,Beauty,Hair Oil,Karnataka,Bengaluru,1,285,25,213.75,63.75,Paid Ad,UPI,Mobile,0,5,150
+ORD10174,2024-01-28,January,1,Q1,Electronics,Smartwatch,Telangana,Hyderabad,3,7133,10,19259.1,8759.1,Referral,Cash on Delivery,Desktop,0,5,10500
+ORD10175,2024-06-10,June,6,Q2,Electronics,Smartphone,Punjab,Chandigarh,5,22814,20,91256.0,16256.0,Organic Search,UPI,Desktop,0,2,75000
+ORD10176,2024-08-07,August,8,Q3,Books,UPSC Guide,Telangana,Hyderabad,1,524,0,524.0,124.0,Social Media,Cash on Delivery,Mobile,0,3,400
+ORD10177,2024-04-11,April,4,Q2,Beauty,Hair Oil,Punjab,Chandigarh,1,245,10,220.5,70.5,Email Campaign,Cash on Delivery,Mobile,0,4,150
+ORD10178,2024-01-19,January,1,Q1,Fashion,Kurta Set,Maharashtra,Mumbai,4,1240,5,4712.0,2312.0,Paid Ad,Credit Card,Desktop,0,4,2400
+ORD10179,2024-01-20,January,1,Q1,Home & Kitchen,Pressure Cooker,Haryana,Gurugram,1,1429,30,1000.3,200.3,Social Media,Credit Card,Mobile,0,5,800
+ORD10180,2024-04-18,April,4,Q2,Beauty,Moisturiser,Uttar Pradesh,Lucknow,1,287,15,243.95,43.95,Referral,UPI,Mobile,0,4,200
+ORD10181,2024-09-03,September,9,Q3,Electronics,Smartphone,Uttar Pradesh,Lucknow,1,27756,30,19429.2,4429.2,Referral,Net Banking,Mobile,0,4,15000
+ORD10182,2024-10-11,October,10,Q4,Fashion,Jeans,Haryana,Gurugram,2,1325,5,2517.5,917.5,Paid Ad,Net Banking,Mobile,0,5,1600
+ORD10183,2024-01-16,January,1,Q1,Fashion,Saree,Odisha,Bhubaneswar,2,1531,20,2449.6,49.6,Direct,Wallet,Mobile,0,2,2400
+ORD10184,2024-05-05,May,5,Q2,Electronics,Earbuds,Gujarat,Ahmedabad,1,1556,5,1478.2,278.2,Email Campaign,UPI,Mobile,0,2,1200
+ORD10185,2024-02-23,February,2,Q1,Books,Data Science Book,Telangana,Hyderabad,3,663,20,1591.2,91.2,Paid Ad,UPI,Desktop,0,3,1500
+ORD10186,2024-03-31,March,3,Q1,Books,Data Science Book,Kerala,Kochi,2,809,15,1375.3,375.3,Organic Search,Debit Card,Mobile,0,4,1000
+ORD10187,2024-04-14,April,4,Q2,Fashion,Saree,West Bengal,Kolkata,1,2091,0,2091.0,891.0,Direct,Wallet,Mobile,0,3,1200
+ORD10188,2024-09-24,September,9,Q3,Beauty,Face Serum,Punjab,Chandigarh,2,637,15,1082.9,482.9,Direct,Debit Card,Mobile,0,5,600
+ORD10189,2024-10-30,October,10,Q4,Beauty,Face Serum,Telangana,Hyderabad,2,893,0,1786.0,1186.0,Paid Ad,Credit Card,Desktop,0,5,600
+ORD10190,2024-05-26,May,5,Q2,Books,Data Science Book,Kerala,Kochi,1,774,10,696.6,196.6,Referral,Cash on Delivery,Mobile,0,3,500
+ORD10191,2024-11-08,November,11,Q4,Beauty,Hair Oil,Maharashtra,Mumbai,1,267,20,213.6,63.6,Email Campaign,UPI,Mobile,0,4,150
+ORD10192,2024-12-15,December,12,Q4,Books,Data Science Book,Uttar Pradesh,Lucknow,3,737,25,1658.25,158.25,Email Campaign,Wallet,Desktop,0,5,1500
+ORD10193,2024-03-11,March,3,Q1,Fashion,Saree,Haryana,Gurugram,1,2874,10,2586.6,1386.6,Direct,Credit Card,Mobile,0,5,1200
+ORD10194,2024-10-12,October,10,Q4,Books,UPSC Guide,Tamil Nadu,Chennai,1,455,10,409.5,9.5,Email Campaign,Debit Card,Desktop,0,4,400
+ORD10195,2024-11-17,November,11,Q4,Books,Data Science Book,Delhi,Delhi,4,639,5,2428.2,428.2,Direct,Debit Card,Mobile,1,5,2000
+ORD10196,2024-05-01,May,5,Q2,Electronics,Smartphone,Punjab,Chandigarh,5,18877,10,84946.5,9946.5,Direct,Cash on Delivery,Tablet,0,5,75000
+ORD10197,2024-08-14,August,8,Q3,Groceries,Dry Fruits 500g,Haryana,Gurugram,2,698,0,1396.0,696.0,Email Campaign,Net Banking,Desktop,0,3,700
+ORD10198,2024-08-05,August,8,Q3,Home & Kitchen,Bedsheet Set,Telangana,Hyderabad,1,762,0,762.0,362.0,Social Media,UPI,Mobile,0,5,400
+ORD10199,2024-09-12,September,9,Q3,Fashion,Jeans,Uttar Pradesh,Lucknow,1,1671,10,1503.9,703.9,Organic Search,UPI,Tablet,0,3,800
+ORD10200,2024-09-23,September,9,Q3,Home & Kitchen,Pressure Cooker,Uttar Pradesh,Lucknow,5,1458,20,5832.0,1832.0,Direct,Credit Card,Desktop,1,4,4000
+ORD10201,2024-08-05,August,8,Q3,Fashion,Saree,Delhi,Delhi,1,3491,15,2967.35,1767.35,Organic Search,UPI,Mobile,0,5,1200
+ORD10202,2024-08-30,August,8,Q3,Fashion,Jeans,Tamil Nadu,Chennai,1,1960,10,1764.0,964.0,Social Media,UPI,Mobile,0,5,800
+ORD10203,2024-11-17,November,11,Q4,Fashion,Jeans,Gujarat,Ahmedabad,3,1302,10,3515.4,1115.4,Referral,Cash on Delivery,Desktop,0,5,2400
+ORD10204,2024-10-13,October,10,Q4,Fashion,Saree,Rajasthan,Jaipur,1,1899,0,1899.0,699.0,Direct,Debit Card,Mobile,1,4,1200
+ORD10205,2024-11-13,November,11,Q4,Home & Kitchen,Bedsheet Set,Maharashtra,Mumbai,1,713,5,677.35,277.35,Paid Ad,Debit Card,Desktop,0,3,400
+ORD10206,2024-05-18,May,5,Q2,Groceries,Dry Fruits 500g,Gujarat,Ahmedabad,3,429,25,965.25,-84.75,Email Campaign,Debit Card,Desktop,0,4,1050
+ORD10207,2024-05-30,May,5,Q2,Sports,Yoga Mat,Uttar Pradesh,Lucknow,4,1005,30,2814.0,1214.0,Direct,Cash on Delivery,Mobile,0,5,1600
+ORD10208,2024-01-15,January,1,Q1,Sports,Dumbbell Set,Telangana,Hyderabad,1,896,20,716.8,-83.2,Organic Search,Credit Card,Mobile,0,4,800
+ORD10209,2024-02-04,February,2,Q1,Electronics,Earbuds,Delhi,Delhi,1,2231,15,1896.35,696.35,Direct,Credit Card,Mobile,0,4,1200
+ORD10210,2024-06-19,June,6,Q2,Beauty,Moisturiser,Uttar Pradesh,Lucknow,1,533,10,479.7,279.7,Social Media,Cash on Delivery,Mobile,0,4,200
+ORD10211,2024-07-27,July,7,Q3,Groceries,Dry Fruits 500g,Kerala,Kochi,4,746,10,2685.6,1285.6,Direct,Cash on Delivery,Mobile,0,1,1400
+ORD10212,2024-12-20,December,12,Q4,Groceries,Organic Honey,Delhi,Delhi,5,422,15,1793.5,393.5,Direct,UPI,Mobile,1,4,1400
+ORD10213,2024-02-29,February,2,Q1,Fashion,Kurta Set,Odisha,Bhubaneswar,1,752,20,601.6,1.6,Organic Search,Net Banking,Mobile,0,5,600
+ORD10214,2024-09-29,September,9,Q3,Home & Kitchen,Air Fryer,West Bengal,Kolkata,5,5480,15,23290.0,10790.0,Email Campaign,Debit Card,Mobile,0,3,12500
+ORD10215,2024-02-06,February,2,Q1,Fashion,Kurta Set,Kerala,Kochi,2,680,10,1224.0,24.0,Referral,Credit Card,Mobile,0,5,1200
+ORD10216,2024-12-06,December,12,Q4,Fashion,Sneakers,Punjab,Chandigarh,2,2042,15,3471.4,471.4,Referral,Credit Card,Mobile,1,3,3000
+ORD10217,2024-04-12,April,4,Q2,Electronics,Smartwatch,Uttar Pradesh,Lucknow,5,6614,10,29763.0,12263.0,Referral,Net Banking,Desktop,0,5,17500
+ORD10218,2024-08-08,August,8,Q3,Fashion,Jeans,Uttar Pradesh,Bareilly,2,1161,20,1857.6,257.6,Direct,Wallet,Desktop,0,5,1600
+ORD10219,2024-11-25,November,11,Q4,Fashion,Saree,Haryana,Gurugram,1,1719,0,1719.0,519.0,Social Media,UPI,Desktop,0,3,1200
+ORD10220,2024-11-30,November,11,Q4,Books,UPSC Guide,Tamil Nadu,Chennai,5,551,0,2755.0,755.0,Organic Search,Cash on Delivery,Mobile,0,4,2000
+ORD10221,2024-01-03,January,1,Q1,Electronics,Earbuds,Delhi,Delhi,5,2495,0,12475.0,6475.0,Email Campaign,Debit Card,Mobile,0,4,6000
+ORD10222,2024-01-11,January,1,Q1,Electronics,Smartwatch,Odisha,Bhubaneswar,1,5343,15,4541.55,1041.55,Direct,UPI,Tablet,0,5,3500
+ORD10223,2024-07-31,July,7,Q3,Fashion,Sneakers,West Bengal,Kolkata,3,2474,25,5566.5,1066.5,Referral,Cash on Delivery,Mobile,0,5,4500
+ORD10224,2024-12-06,December,12,Q4,Electronics,Laptop,Punjab,Chandigarh,1,48256,20,38604.8,3604.8,Direct,Wallet,Mobile,1,4,35000
+ORD10225,2024-07-21,July,7,Q3,Groceries,Organic Honey,Kerala,Kochi,1,493,15,419.05,139.05,Paid Ad,UPI,Desktop,0,4,280
+ORD10226,2024-10-13,October,10,Q4,Books,UPSC Guide,Odisha,Bhubaneswar,2,446,0,892.0,92.0,Referral,Net Banking,Mobile,0,5,800
+ORD10227,2024-10-22,October,10,Q4,Electronics,Earbuds,Tamil Nadu,Chennai,2,1614,0,3228.0,828.0,Referral,Debit Card,Mobile,0,4,2400
+ORD10228,2024-08-19,August,8,Q3,Fashion,Saree,Rajasthan,Jaipur,1,1493,15,1269.05,69.05,Paid Ad,Net Banking,Desktop,0,4,1200
+ORD10229,2024-12-13,December,12,Q4,Beauty,Hair Oil,Odisha,Bhubaneswar,2,341,0,682.0,382.0,Email Campaign,Cash on Delivery,Mobile,0,3,300
+ORD10230,2024-06-16,June,6,Q2,Books,UPSC Guide,Odisha,Bhubaneswar,1,494,0,494.0,94.0,Email Campaign,Net Banking,Mobile,0,4,400
+ORD10231,2024-04-01,April,4,Q2,Fashion,Sneakers,Gujarat,Ahmedabad,1,2446,0,2446.0,946.0,Organic Search,Debit Card,Mobile,0,3,1500
+ORD10232,2024-11-21,November,11,Q4,Electronics,Earbuds,Karnataka,Bengaluru,2,2097,10,3774.6,1374.6,Organic Search,Cash on Delivery,Mobile,0,5,2400
+ORD10233,2024-02-21,February,2,Q1,Sports,Yoga Mat,Delhi,Delhi,2,867,0,1734.0,934.0,Referral,UPI,Desktop,0,4,800
+ORD10234,2024-09-22,September,9,Q3,Books,UPSC Guide,West Bengal,Kolkata,3,626,25,1408.5,208.5,Social Media,UPI,Desktop,0,5,1200
+ORD10235,2024-04-21,April,4,Q2,Fashion,Kurta Set,Haryana,Gurugram,4,1289,25,3867.0,1467.0,Direct,Credit Card,Mobile,0,5,2400
+ORD10236,2024-01-04,January,1,Q1,Electronics,Laptop,Uttar Pradesh,Lucknow,2,52781,0,105562.0,35562.0,Organic Search,Debit Card,Mobile,1,5,70000
+ORD10237,2024-08-02,August,8,Q3,Electronics,Smartphone,Maharashtra,Mumbai,4,21589,20,69084.8,9084.8,Paid Ad,Net Banking,Desktop,0,4,60000
+ORD10238,2024-03-01,March,3,Q1,Electronics,Smartphone,Odisha,Bhubaneswar,3,24696,20,59270.4,14270.4,Referral,Cash on Delivery,Desktop,0,5,45000
+ORD10239,2024-05-15,May,5,Q2,Sports,Dumbbell Set,Gujarat,Ahmedabad,1,1943,20,1554.4,754.4,Paid Ad,Debit Card,Mobile,0,4,800
+ORD10240,2024-08-13,August,8,Q3,Books,Data Science Book,Haryana,Gurugram,3,819,0,2457.0,957.0,Email Campaign,Cash on Delivery,Mobile,0,5,1500
+ORD10241,2024-09-30,September,9,Q3,Electronics,Laptop,Maharashtra,Mumbai,2,61945,20,99112.0,29112.0,Referral,Net Banking,Mobile,0,5,70000
+ORD10242,2024-05-09,May,5,Q2,Fashion,Sneakers,Haryana,Gurugram,3,2298,25,5170.5,670.5,Social Media,UPI,Mobile,0,4,4500
+ORD10243,2024-06-07,June,6,Q2,Beauty,Face Serum,Telangana,Hyderabad,1,865,5,821.75,521.75,Social Media,UPI,Tablet,0,4,300
+ORD10244,2024-12-21,December,12,Q4,Home & Kitchen,Bedsheet Set,Punjab,Chandigarh,1,507,20,405.6,5.6,Email Campaign,UPI,Mobile,0,4,400
+ORD10245,2024-06-11,June,6,Q2,Home & Kitchen,Bedsheet Set,Gujarat,Ahmedabad,4,750,15,2550.0,950.0,Social Media,UPI,Mobile,0,5,1600
+ORD10246,2024-04-23,April,4,Q2,Electronics,Laptop,Uttar Pradesh,Bareilly,1,63421,10,57078.9,22078.9,Email Campaign,Credit Card,Mobile,0,4,35000
+ORD10247,2024-04-30,April,4,Q2,Fashion,Kurta Set,Madhya Pradesh,Bhopal,5,660,15,2805.0,-195.0,Email Campaign,UPI,Mobile,0,4,3000
+ORD10248,2024-11-25,November,11,Q4,Sports,Dumbbell Set,Odisha,Bhubaneswar,2,1495,15,2541.5,941.5,Email Campaign,Debit Card,Desktop,0,5,1600
+ORD10249,2024-10-17,October,10,Q4,Groceries,Organic Honey,Telangana,Hyderabad,3,532,25,1197.0,357.0,Email Campaign,UPI,Mobile,0,3,840
+ORD10250,2024-09-28,September,9,Q3,Electronics,Earbuds,Kerala,Kochi,2,2608,30,3651.2,1251.2,Paid Ad,Debit Card,Mobile,0,4,2400
+ORD10251,2024-02-25,February,2,Q1,Electronics,Smartwatch,West Bengal,Kolkata,3,7086,10,19132.2,8632.2,Paid Ad,Debit Card,Mobile,1,5,10500
+ORD10252,2024-07-24,July,7,Q3,Groceries,Organic Honey,Kerala,Kochi,4,386,10,1389.6,269.6,Direct,Net Banking,Mobile,0,4,1120
+ORD10253,2024-11-05,November,11,Q4,Sports,Yoga Mat,Rajasthan,Jaipur,1,736,15,625.6,225.6,Organic Search,Credit Card,Desktop,0,3,400
+ORD10254,2024-01-24,January,1,Q1,Beauty,Moisturiser,Uttar Pradesh,Lucknow,1,518,15,440.3,240.3,Direct,UPI,Desktop,0,4,200
+ORD10255,2024-05-28,May,5,Q2,Fashion,Saree,Karnataka,Bengaluru,1,1748,0,1748.0,548.0,Organic Search,UPI,Mobile,0,5,1200
+ORD10256,2024-03-03,March,3,Q1,Electronics,Earbuds,Uttar Pradesh,Bareilly,2,2425,20,3880.0,1480.0,Social Media,Debit Card,Mobile,0,5,2400
+ORD10257,2024-05-19,May,5,Q2,Books,Data Science Book,Delhi,Delhi,1,679,0,679.0,179.0,Direct,Debit Card,Tablet,0,5,500
+ORD10258,2024-06-02,June,6,Q2,Electronics,Smartphone,Tamil Nadu,Chennai,1,24163,25,18122.25,3122.25,Organic Search,UPI,Desktop,0,4,15000
+ORD10259,2024-09-30,September,9,Q3,Electronics,Smartphone,Gujarat,Ahmedabad,3,17121,20,41090.4,-3909.6,Referral,Net Banking,Mobile,1,5,45000
+ORD10260,2024-05-28,May,5,Q2,Home & Kitchen,Bedsheet Set,Telangana,Hyderabad,1,766,0,766.0,366.0,Paid Ad,UPI,Desktop,1,4,400
+ORD10261,2024-03-29,March,3,Q1,Fashion,Jeans,Madhya Pradesh,Bhopal,2,1869,10,3364.2,1764.2,Organic Search,Debit Card,Mobile,0,5,1600
+ORD10262,2024-03-28,March,3,Q1,Groceries,Dry Fruits 500g,Madhya Pradesh,Bhopal,1,676,5,642.2,292.2,Social Media,Credit Card,Desktop,0,5,350
+ORD10263,2024-02-02,February,2,Q1,Groceries,Dry Fruits 500g,West Bengal,Kolkata,1,429,0,429.0,79.0,Email Campaign,Debit Card,Mobile,0,3,350
+ORD10264,2024-05-20,May,5,Q2,Electronics,Laptop,Madhya Pradesh,Bhopal,2,55487,20,88779.2,18779.2,Email Campaign,UPI,Mobile,0,5,70000
+ORD10265,2024-11-21,November,11,Q4,Books,UPSC Guide,Uttar Pradesh,Lucknow,5,520,10,2340.0,340.0,Paid Ad,Debit Card,Mobile,0,2,2000
+ORD10266,2024-08-12,August,8,Q3,Books,UPSC Guide,Karnataka,Bengaluru,1,620,15,527.0,127.0,Referral,UPI,Mobile,0,2,400
+ORD10267,2024-09-13,September,9,Q3,Beauty,Face Serum,Rajasthan,Jaipur,1,549,5,521.55,221.55,Direct,Credit Card,Mobile,0,5,300
+ORD10268,2024-04-22,April,4,Q2,Sports,Dumbbell Set,Punjab,Chandigarh,1,1950,10,1755.0,955.0,Organic Search,UPI,Mobile,1,2,800
+ORD10269,2024-04-16,April,4,Q2,Home & Kitchen,Air Fryer,Madhya Pradesh,Bhopal,1,4941,10,4446.9,1946.9,Organic Search,UPI,Mobile,0,5,2500
+ORD10270,2024-08-09,August,8,Q3,Beauty,Moisturiser,Uttar Pradesh,Lucknow,3,440,10,1188.0,588.0,Social Media,Cash on Delivery,Desktop,0,4,600
+ORD10271,2024-07-21,July,7,Q3,Electronics,Laptop,Rajasthan,Jaipur,2,54426,0,108852.0,38852.0,Paid Ad,Credit Card,Mobile,0,5,70000
+ORD10272,2024-10-18,October,10,Q4,Fashion,Sneakers,Maharashtra,Mumbai,1,3266,5,3102.7,1602.7,Direct,UPI,Mobile,0,5,1500
+ORD10273,2024-02-22,February,2,Q1,Electronics,Smartwatch,Karnataka,Bengaluru,1,6834,5,6492.3,2992.3,Direct,UPI,Desktop,0,5,3500
+ORD10274,2024-11-16,November,11,Q4,Electronics,Smartwatch,Delhi,Delhi,1,4858,0,4858.0,1358.0,Referral,UPI,Mobile,0,4,3500
+ORD10275,2024-08-31,August,8,Q3,Sports,Yoga Mat,Rajasthan,Jaipur,2,519,0,1038.0,238.0,Organic Search,UPI,Desktop,0,4,800
+ORD10276,2024-09-27,September,9,Q3,Groceries,Dry Fruits 500g,Uttar Pradesh,Lucknow,2,389,5,739.1,39.1,Email Campaign,UPI,Mobile,0,5,700
+ORD10277,2024-06-26,June,6,Q2,Home & Kitchen,Air Fryer,Odisha,Bhubaneswar,2,3817,0,7634.0,2634.0,Direct,Debit Card,Mobile,0,4,5000
+ORD10278,2024-02-02,February,2,Q1,Electronics,Smartwatch,Rajasthan,Jaipur,3,4596,20,11030.4,530.4,Email Campaign,Debit Card,Desktop,0,4,10500
+ORD10279,2024-10-14,October,10,Q4,Electronics,Smartwatch,Karnataka,Bengaluru,2,6595,0,13190.0,6190.0,Email Campaign,Debit Card,Desktop,0,4,7000
+ORD10280,2024-11-14,November,11,Q4,Electronics,Laptop,Uttar Pradesh,Lucknow,2,62091,0,124182.0,54182.0,Referral,Wallet,Mobile,0,5,70000
+ORD10281,2024-04-12,April,4,Q2,Groceries,Organic Honey,Karnataka,Bengaluru,1,336,15,285.6,5.6,Social Media,Net Banking,Mobile,0,5,280
+ORD10282,2024-09-23,September,9,Q3,Electronics,Earbuds,Telangana,Hyderabad,1,2617,20,2093.6,893.6,Direct,Debit Card,Mobile,0,4,1200
+ORD10283,2024-07-23,July,7,Q3,Fashion,Kurta Set,Odisha,Bhubaneswar,2,831,30,1163.4,-36.6,Referral,Credit Card,Mobile,0,4,1200
+ORD10284,2024-03-31,March,3,Q1,Groceries,Organic Honey,Rajasthan,Jaipur,5,447,25,1676.25,276.25,Social Media,Debit Card,Mobile,0,4,1400
+ORD10285,2024-11-02,November,11,Q4,Electronics,Smartphone,Telangana,Hyderabad,1,22846,0,22846.0,7846.0,Direct,UPI,Desktop,0,4,15000
+ORD10286,2024-08-16,August,8,Q3,Electronics,Smartwatch,West Bengal,Kolkata,1,4242,20,3393.6,-106.4,Social Media,UPI,Mobile,0,4,3500
+ORD10287,2024-05-11,May,5,Q2,Home & Kitchen,Air Fryer,Uttar Pradesh,Lucknow,3,4045,5,11528.25,4028.25,Social Media,Credit Card,Mobile,0,4,7500
+ORD10288,2024-12-01,December,12,Q4,Home & Kitchen,Air Fryer,Tamil Nadu,Chennai,1,4657,5,4424.15,1924.15,Organic Search,Credit Card,Mobile,0,4,2500
+ORD10289,2024-06-01,June,6,Q2,Fashion,Jeans,Rajasthan,Jaipur,1,1280,0,1280.0,480.0,Email Campaign,Wallet,Mobile,0,5,800
+ORD10290,2024-09-24,September,9,Q3,Beauty,Moisturiser,Uttar Pradesh,Bareilly,1,255,30,178.5,-21.5,Email Campaign,UPI,Desktop,0,1,200
+ORD10291,2024-01-06,January,1,Q1,Books,Data Science Book,Haryana,Gurugram,2,607,0,1214.0,214.0,Social Media,Credit Card,Desktop,0,4,1000
+ORD10292,2024-05-24,May,5,Q2,Books,UPSC Guide,Haryana,Gurugram,2,495,15,841.5,41.5,Email Campaign,Debit Card,Mobile,0,5,800
+ORD10293,2024-07-16,July,7,Q3,Home & Kitchen,Pressure Cooker,Madhya Pradesh,Bhopal,2,1781,15,3027.7,1427.7,Paid Ad,Credit Card,Desktop,0,1,1600
+ORD10294,2024-01-04,January,1,Q1,Home & Kitchen,Pressure Cooker,West Bengal,Kolkata,1,1753,5,1665.35,865.35,Direct,Debit Card,Tablet,0,5,800
+ORD10295,2024-03-02,March,3,Q1,Sports,Yoga Mat,Odisha,Bhubaneswar,1,957,15,813.45,413.45,Social Media,Cash on Delivery,Desktop,0,5,400
+ORD10296,2024-03-27,March,3,Q1,Home & Kitchen,Pressure Cooker,Karnataka,Bengaluru,1,1186,20,948.8,148.8,Referral,UPI,Mobile,0,4,800
+ORD10297,2024-12-24,December,12,Q4,Home & Kitchen,Air Fryer,Odisha,Bhubaneswar,1,4879,25,3659.25,1159.25,Direct,UPI,Mobile,1,5,2500
+ORD10298,2024-01-23,January,1,Q1,Fashion,Saree,Madhya Pradesh,Bhopal,3,2239,10,6045.3,2445.3,Referral,Debit Card,Desktop,0,4,3600
+ORD10299,2024-01-01,January,1,Q1,Sports,Yoga Mat,West Bengal,Kolkata,1,700,0,700.0,300.0,Email Campaign,Debit Card,Desktop,0,4,400
+ORD10300,2024-04-16,April,4,Q2,Electronics,Laptop,Punjab,Chandigarh,1,49334,0,49334.0,14334.0,Social Media,Net Banking,Mobile,0,5,35000
+ORD10301,2024-08-26,August,8,Q3,Beauty,Face Serum,Tamil Nadu,Chennai,3,556,25,1251.0,351.0,Social Media,UPI,Desktop,0,5,900
+ORD10302,2024-03-24,March,3,Q1,Books,UPSC Guide,Rajasthan,Jaipur,1,643,30,450.1,50.1,Paid Ad,Debit Card,Desktop,0,5,400
+ORD10303,2024-10-07,October,10,Q4,Home & Kitchen,Bedsheet Set,Madhya Pradesh,Bhopal,1,500,15,425.0,25.0,Paid Ad,Debit Card,Mobile,0,3,400
+ORD10304,2024-02-04,February,2,Q1,Books,UPSC Guide,Uttar Pradesh,Bareilly,1,646,10,581.4,181.4,Referral,Debit Card,Tablet,0,4,400
+ORD10305,2024-07-24,July,7,Q3,Books,Data Science Book,Madhya Pradesh,Bhopal,1,886,15,753.1,253.1,Direct,UPI,Mobile,0,3,500
+ORD10306,2024-01-06,January,1,Q1,Groceries,Organic Honey,Odisha,Bhubaneswar,1,572,10,514.8,234.8,Direct,Net Banking,Desktop,0,5,280
+ORD10307,2024-03-06,March,3,Q1,Sports,Dumbbell Set,Haryana,Gurugram,2,906,0,1812.0,212.0,Organic Search,Cash on Delivery,Mobile,0,1,1600
+ORD10308,2024-06-12,June,6,Q2,Fashion,Sneakers,Madhya Pradesh,Bhopal,1,2470,15,2099.5,599.5,Referral,Debit Card,Mobile,0,4,1500
+ORD10309,2024-05-11,May,5,Q2,Beauty,Face Serum,Gujarat,Ahmedabad,1,413,0,413.0,113.0,Social Media,Credit Card,Mobile,0,5,300
+ORD10310,2024-06-02,June,6,Q2,Beauty,Moisturiser,Maharashtra,Mumbai,1,316,0,316.0,116.0,Organic Search,Credit Card,Desktop,0,4,200
+ORD10311,2024-02-07,February,2,Q1,Fashion,Saree,Gujarat,Ahmedabad,3,2811,25,6324.75,2724.75,Referral,Credit Card,Mobile,0,4,3600
+ORD10312,2024-10-18,October,10,Q4,Fashion,Sneakers,West Bengal,Kolkata,5,3590,20,14360.0,6860.0,Organic Search,Cash on Delivery,Desktop,0,3,7500
+ORD10313,2024-07-06,July,7,Q3,Groceries,Dry Fruits 500g,West Bengal,Kolkata,2,590,10,1062.0,362.0,Referral,Credit Card,Mobile,0,5,700
+ORD10314,2024-12-13,December,12,Q4,Home & Kitchen,Air Fryer,Karnataka,Bengaluru,3,3830,10,10341.0,2841.0,Referral,Net Banking,Mobile,0,4,7500
+ORD10315,2024-12-01,December,12,Q4,Groceries,Dry Fruits 500g,Delhi,Delhi,3,661,0,1983.0,933.0,Direct,Wallet,Mobile,0,1,1050
+ORD10316,2024-02-11,February,2,Q1,Groceries,Dry Fruits 500g,Madhya Pradesh,Bhopal,3,640,15,1632.0,582.0,Social Media,Credit Card,Mobile,1,5,1050
+ORD10317,2024-11-28,November,11,Q4,Electronics,Earbuds,Karnataka,Bengaluru,1,1587,15,1348.95,148.95,Direct,Net Banking,Desktop,0,5,1200
+ORD10318,2024-10-23,October,10,Q4,Fashion,Kurta Set,Telangana,Hyderabad,4,1060,20,3392.0,992.0,Email Campaign,Net Banking,Mobile,0,4,2400
+ORD10319,2024-01-12,January,1,Q1,Electronics,Smartwatch,Telangana,Hyderabad,3,5040,10,13608.0,3108.0,Social Media,Credit Card,Desktop,0,4,10500
+ORD10320,2024-02-21,February,2,Q1,Beauty,Moisturiser,Tamil Nadu,Chennai,1,511,0,511.0,311.0,Email Campaign,UPI,Tablet,0,5,200
+ORD10321,2024-05-04,May,5,Q2,Beauty,Moisturiser,Telangana,Hyderabad,1,289,0,289.0,89.0,Organic Search,UPI,Mobile,0,3,200
+ORD10322,2024-07-12,July,7,Q3,Electronics,Earbuds,Karnataka,Bengaluru,1,2795,0,2795.0,1595.0,Paid Ad,Debit Card,Mobile,1,5,1200
+ORD10323,2024-03-11,March,3,Q1,Beauty,Face Serum,Kerala,Kochi,2,572,25,858.0,258.0,Email Campaign,Cash on Delivery,Mobile,0,4,600
+ORD10324,2024-07-03,July,7,Q3,Sports,Dumbbell Set,Haryana,Gurugram,1,1369,5,1300.55,500.55,Paid Ad,Debit Card,Tablet,0,4,800
+ORD10325,2024-12-04,December,12,Q4,Home & Kitchen,Air Fryer,Gujarat,Ahmedabad,1,4360,5,4142.0,1642.0,Email Campaign,Debit Card,Desktop,1,3,2500
+ORD10326,2024-08-31,August,8,Q3,Fashion,Sneakers,Madhya Pradesh,Bhopal,1,2222,5,2110.9,610.9,Paid Ad,Credit Card,Mobile,0,3,1500
+ORD10327,2024-05-26,May,5,Q2,Electronics,Smartwatch,Rajasthan,Jaipur,2,6484,15,11022.8,4022.8,Email Campaign,Debit Card,Mobile,0,5,7000
+ORD10328,2024-09-19,September,9,Q3,Fashion,Saree,Tamil Nadu,Chennai,1,3382,10,3043.8,1843.8,Direct,Credit Card,Desktop,0,4,1200
+ORD10329,2024-11-30,November,11,Q4,Home & Kitchen,Pressure Cooker,Punjab,Chandigarh,2,1546,5,2937.4,1337.4,Direct,UPI,Tablet,0,5,1600
+ORD10330,2024-03-31,March,3,Q1,Home & Kitchen,Air Fryer,West Bengal,Kolkata,3,3255,0,9765.0,2265.0,Email Campaign,Credit Card,Tablet,0,2,7500
+ORD10331,2024-12-11,December,12,Q4,Fashion,Saree,Maharashtra,Mumbai,1,2797,30,1957.9,757.9,Paid Ad,UPI,Tablet,1,5,1200
+ORD10332,2024-01-11,January,1,Q1,Fashion,Saree,Rajasthan,Jaipur,1,1597,20,1277.6,77.6,Organic Search,Net Banking,Tablet,0,4,1200
+ORD10333,2024-08-14,August,8,Q3,Beauty,Face Serum,Uttar Pradesh,Lucknow,4,407,25,1221.0,21.0,Organic Search,Debit Card,Mobile,0,5,1200
+ORD10334,2024-06-14,June,6,Q2,Groceries,Dry Fruits 500g,West Bengal,Kolkata,1,461,10,414.9,64.9,Organic Search,Cash on Delivery,Desktop,0,4,350
+ORD10335,2024-10-03,October,10,Q4,Books,UPSC Guide,Tamil Nadu,Chennai,1,563,10,506.7,106.7,Referral,Cash on Delivery,Desktop,0,5,400
+ORD10336,2024-05-01,May,5,Q2,Fashion,Saree,Kerala,Kochi,1,2580,0,2580.0,1380.0,Direct,Debit Card,Mobile,0,1,1200
+ORD10337,2024-07-10,July,7,Q3,Electronics,Smartwatch,Punjab,Chandigarh,1,4684,20,3747.2,247.2,Email Campaign,Net Banking,Mobile,0,1,3500
+ORD10338,2024-01-28,January,1,Q1,Fashion,Kurta Set,Telangana,Hyderabad,1,786,10,707.4,107.4,Referral,UPI,Desktop,0,4,600
+ORD10339,2024-02-14,February,2,Q1,Fashion,Saree,Telangana,Hyderabad,1,2832,0,2832.0,1632.0,Organic Search,UPI,Mobile,0,5,1200
+ORD10340,2024-10-21,October,10,Q4,Electronics,Earbuds,Rajasthan,Jaipur,2,2525,0,5050.0,2650.0,Referral,Debit Card,Desktop,0,5,2400
+ORD10341,2024-04-21,April,4,Q2,Beauty,Face Serum,Karnataka,Bengaluru,1,640,5,608.0,308.0,Paid Ad,Credit Card,Desktop,0,5,300
+ORD10342,2024-12-05,December,12,Q4,Fashion,Jeans,Delhi,Delhi,5,913,5,4336.75,336.75,Paid Ad,UPI,Mobile,0,5,4000
+ORD10343,2024-04-10,April,4,Q2,Fashion,Saree,West Bengal,Kolkata,4,1636,10,5889.6,1089.6,Social Media,Cash on Delivery,Mobile,0,3,4800
+ORD10344,2024-05-06,May,5,Q2,Beauty,Hair Oil,Punjab,Chandigarh,1,338,20,270.4,120.4,Social Media,UPI,Mobile,0,5,150
+ORD10345,2024-10-07,October,10,Q4,Fashion,Sneakers,West Bengal,Kolkata,1,3983,20,3186.4,1686.4,Paid Ad,UPI,Mobile,0,3,1500
+ORD10346,2024-05-21,May,5,Q2,Electronics,Earbuds,Gujarat,Ahmedabad,1,1753,30,1227.1,27.1,Referral,Debit Card,Mobile,0,5,1200
+ORD10347,2024-10-18,October,10,Q4,Electronics,Smartwatch,West Bengal,Kolkata,1,6704,10,6033.6,2533.6,Social Media,UPI,Mobile,0,4,3500
+ORD10348,2024-09-15,September,9,Q3,Groceries,Dry Fruits 500g,Karnataka,Bengaluru,5,612,0,3060.0,1310.0,Social Media,UPI,Tablet,0,4,1750
+ORD10349,2024-11-16,November,11,Q4,Fashion,Kurta Set,Telangana,Hyderabad,4,663,5,2519.4,119.4,Paid Ad,UPI,Desktop,0,4,2400
+ORD10350,2024-08-09,August,8,Q3,Home & Kitchen,Pressure Cooker,Odisha,Bhubaneswar,2,963,10,1733.4,133.4,Email Campaign,Debit Card,Mobile,0,5,1600
+ORD10351,2024-05-14,May,5,Q2,Books,UPSC Guide,Delhi,Delhi,1,490,0,490.0,90.0,Organic Search,UPI,Mobile,0,3,400
+ORD10352,2024-09-25,September,9,Q3,Home & Kitchen,Air Fryer,Karnataka,Bengaluru,2,3462,0,6924.0,1924.0,Paid Ad,Wallet,Desktop,0,4,5000
+ORD10353,2024-10-02,October,10,Q4,Home & Kitchen,Bedsheet Set,West Bengal,Kolkata,1,556,5,528.2,128.2,Paid Ad,UPI,Mobile,0,4,400
+ORD10354,2024-05-16,May,5,Q2,Electronics,Smartwatch,West Bengal,Kolkata,3,5219,0,15657.0,5157.0,Social Media,Credit Card,Mobile,0,4,10500
+ORD10355,2024-05-12,May,5,Q2,Electronics,Laptop,Delhi,Delhi,1,42716,5,40580.2,5580.2,Organic Search,UPI,Tablet,0,4,35000
+ORD10356,2024-10-12,October,10,Q4,Home & Kitchen,Bedsheet Set,Kerala,Kochi,1,1083,5,1028.85,628.85,Referral,UPI,Desktop,0,5,400
+ORD10357,2024-09-19,September,9,Q3,Groceries,Dry Fruits 500g,Rajasthan,Jaipur,1,680,5,646.0,296.0,Paid Ad,Credit Card,Mobile,0,4,350
+ORD10358,2024-01-02,January,1,Q1,Beauty,Hair Oil,Kerala,Kochi,3,248,10,669.6,219.6,Email Campaign,Cash on Delivery,Mobile,0,5,450
+ORD10359,2024-05-25,May,5,Q2,Fashion,Jeans,Madhya Pradesh,Bhopal,1,1471,0,1471.0,671.0,Paid Ad,UPI,Mobile,0,5,800
+ORD10360,2024-04-25,April,4,Q2,Sports,Yoga Mat,West Bengal,Kolkata,3,994,0,2982.0,1782.0,Organic Search,UPI,Mobile,0,5,1200
+ORD10361,2024-10-09,October,10,Q4,Beauty,Moisturiser,Rajasthan,Jaipur,2,539,25,808.5,408.5,Referral,Debit Card,Mobile,1,3,400
+ORD10362,2024-11-06,November,11,Q4,Home & Kitchen,Pressure Cooker,Tamil Nadu,Chennai,3,1268,20,3043.2,643.2,Paid Ad,UPI,Mobile,0,5,2400
+ORD10363,2024-06-04,June,6,Q2,Home & Kitchen,Air Fryer,Delhi,Delhi,1,4573,0,4573.0,2073.0,Direct,Net Banking,Desktop,0,4,2500
+ORD10364,2024-04-30,April,4,Q2,Electronics,Smartphone,Odisha,Bhubaneswar,5,24125,15,102531.25,27531.25,Paid Ad,Credit Card,Desktop,0,5,75000
+ORD10365,2024-10-01,October,10,Q4,Beauty,Hair Oil,Karnataka,Bengaluru,4,184,0,736.0,136.0,Social Media,UPI,Mobile,0,5,600
+ORD10366,2024-02-10,February,2,Q1,Fashion,Kurta Set,Gujarat,Ahmedabad,1,1182,0,1182.0,582.0,Organic Search,Net Banking,Tablet,1,5,600
+ORD10367,2024-03-28,March,3,Q1,Beauty,Face Serum,Punjab,Chandigarh,3,461,30,968.1,68.1,Direct,Credit Card,Mobile,0,4,900
+ORD10368,2024-12-29,December,12,Q4,Sports,Yoga Mat,Gujarat,Ahmedabad,5,701,20,2804.0,804.0,Social Media,UPI,Mobile,0,5,2000
+ORD10369,2024-10-06,October,10,Q4,Fashion,Saree,West Bengal,Kolkata,2,2116,5,4020.4,1620.4,Social Media,Cash on Delivery,Desktop,0,5,2400
+ORD10370,2024-01-11,January,1,Q1,Home & Kitchen,Bedsheet Set,West Bengal,Kolkata,2,547,10,984.6,184.6,Referral,UPI,Mobile,0,5,800
+ORD10371,2024-06-28,June,6,Q2,Fashion,Saree,Madhya Pradesh,Bhopal,1,2574,10,2316.6,1116.6,Social Media,Credit Card,Desktop,0,4,1200
+ORD10372,2024-05-10,May,5,Q2,Electronics,Smartphone,Madhya Pradesh,Bhopal,1,23086,15,19623.1,4623.1,Social Media,UPI,Mobile,0,4,15000
+ORD10373,2024-04-15,April,4,Q2,Beauty,Hair Oil,Delhi,Delhi,1,303,10,272.7,122.7,Direct,UPI,Mobile,0,4,150
+ORD10374,2024-08-24,August,8,Q3,Sports,Dumbbell Set,Telangana,Hyderabad,4,1843,20,5897.6,2697.6,Social Media,UPI,Mobile,0,5,3200
+ORD10375,2024-01-02,January,1,Q1,Fashion,Jeans,Maharashtra,Mumbai,1,1113,5,1057.35,257.35,Direct,Cash on Delivery,Desktop,1,5,800
+ORD10376,2024-06-24,June,6,Q2,Fashion,Saree,Odisha,Bhubaneswar,3,3322,0,9966.0,6366.0,Email Campaign,UPI,Mobile,0,3,3600
+ORD10377,2024-05-11,May,5,Q2,Home & Kitchen,Pressure Cooker,Gujarat,Ahmedabad,1,1340,0,1340.0,540.0,Paid Ad,UPI,Mobile,0,5,800
+ORD10378,2024-04-02,April,4,Q2,Fashion,Kurta Set,Kerala,Kochi,1,1247,25,935.25,335.25,Direct,Debit Card,Mobile,0,5,600
+ORD10379,2024-10-26,October,10,Q4,Home & Kitchen,Pressure Cooker,Madhya Pradesh,Bhopal,4,991,15,3369.4,169.4,Social Media,UPI,Desktop,0,5,3200
+ORD10380,2024-07-30,July,7,Q3,Beauty,Hair Oil,Karnataka,Bengaluru,1,260,25,195.0,45.0,Referral,Debit Card,Desktop,0,5,150
+ORD10381,2024-06-08,June,6,Q2,Fashion,Sneakers,Tamil Nadu,Chennai,2,2387,0,4774.0,1774.0,Direct,UPI,Mobile,0,5,3000
+ORD10382,2024-12-30,December,12,Q4,Home & Kitchen,Air Fryer,Telangana,Hyderabad,1,5403,15,4592.55,2092.55,Direct,UPI,Desktop,0,5,2500
+ORD10383,2024-08-25,August,8,Q3,Home & Kitchen,Pressure Cooker,Delhi,Delhi,1,1965,10,1768.5,968.5,Organic Search,UPI,Mobile,0,4,800
+ORD10384,2024-03-15,March,3,Q1,Fashion,Kurta Set,Karnataka,Bengaluru,4,947,0,3788.0,1388.0,Social Media,Cash on Delivery,Mobile,0,4,2400
+ORD10385,2024-07-06,July,7,Q3,Fashion,Sneakers,West Bengal,Kolkata,1,2101,0,2101.0,601.0,Referral,Credit Card,Tablet,1,5,1500
+ORD10386,2024-02-27,February,2,Q1,Groceries,Organic Honey,Delhi,Delhi,1,430,10,387.0,107.0,Email Campaign,UPI,Mobile,0,4,280
+ORD10387,2024-04-21,April,4,Q2,Fashion,Jeans,Maharashtra,Mumbai,1,884,15,751.4,-48.6,Direct,UPI,Mobile,0,2,800
+ORD10388,2024-11-23,November,11,Q4,Sports,Dumbbell Set,Haryana,Gurugram,1,1917,25,1437.75,637.75,Referral,UPI,Mobile,0,4,800
+ORD10389,2024-06-25,June,6,Q2,Electronics,Laptop,Tamil Nadu,Chennai,1,60478,25,45358.5,10358.5,Direct,Credit Card,Mobile,0,5,35000
+ORD10390,2024-12-28,December,12,Q4,Groceries,Organic Honey,Haryana,Gurugram,1,554,5,526.3,246.3,Email Campaign,Cash on Delivery,Mobile,0,5,280
+ORD10391,2024-07-04,July,7,Q3,Electronics,Earbuds,Rajasthan,Jaipur,2,1856,5,3526.4,1126.4,Direct,Cash on Delivery,Mobile,0,5,2400
+ORD10392,2024-09-23,September,9,Q3,Fashion,Saree,Karnataka,Bengaluru,2,1387,20,2219.2,-180.8,Social Media,Net Banking,Desktop,0,4,2400
+ORD10393,2024-09-30,September,9,Q3,Electronics,Smartwatch,Telangana,Hyderabad,2,6092,10,10965.6,3965.6,Paid Ad,Cash on Delivery,Desktop,0,4,7000
+ORD10394,2024-08-15,August,8,Q3,Beauty,Hair Oil,Uttar Pradesh,Bareilly,1,238,5,226.1,76.1,Social Media,Wallet,Mobile,0,4,150
+ORD10395,2024-09-23,September,9,Q3,Fashion,Jeans,Karnataka,Bengaluru,1,1841,0,1841.0,1041.0,Organic Search,UPI,Mobile,0,5,800
+ORD10396,2024-12-09,December,12,Q4,Beauty,Hair Oil,West Bengal,Kolkata,1,189,10,170.1,20.1,Organic Search,UPI,Mobile,0,2,150
+ORD10397,2024-04-05,April,4,Q2,Home & Kitchen,Air Fryer,Telangana,Hyderabad,1,5393,10,4853.7,2353.7,Referral,UPI,Mobile,0,5,2500
+ORD10398,2024-02-28,February,2,Q1,Home & Kitchen,Bedsheet Set,Delhi,Delhi,2,992,10,1785.6,985.6,Paid Ad,UPI,Tablet,0,4,800
+ORD10399,2024-10-19,October,10,Q4,Electronics,Smartwatch,Punjab,Chandigarh,2,6010,0,12020.0,5020.0,Referral,Debit Card,Mobile,0,4,7000
+ORD10400,2024-05-07,May,5,Q2,Groceries,Organic Honey,Madhya Pradesh,Bhopal,1,417,10,375.3,95.3,Referral,UPI,Mobile,0,3,280
+ORD10401,2024-09-01,September,9,Q3,Fashion,Sneakers,West Bengal,Kolkata,1,2005,5,1904.75,404.75,Social Media,Cash on Delivery,Desktop,1,4,1500
+ORD10402,2024-12-18,December,12,Q4,Beauty,Hair Oil,Telangana,Hyderabad,4,245,20,784.0,184.0,Email Campaign,UPI,Mobile,0,5,600
+ORD10403,2024-12-29,December,12,Q4,Fashion,Jeans,Haryana,Gurugram,1,1955,25,1466.25,666.25,Email Campaign,UPI,Mobile,1,5,800
+ORD10404,2024-05-03,May,5,Q2,Home & Kitchen,Bedsheet Set,Uttar Pradesh,Bareilly,5,999,15,4245.75,2245.75,Direct,Cash on Delivery,Desktop,0,4,2000
+ORD10405,2024-02-21,February,2,Q1,Books,UPSC Guide,Tamil Nadu,Chennai,2,596,25,894.0,94.0,Email Campaign,Net Banking,Mobile,1,4,800
+ORD10406,2024-07-23,July,7,Q3,Sports,Yoga Mat,Delhi,Delhi,1,804,0,804.0,404.0,Social Media,UPI,Mobile,1,4,400
+ORD10407,2024-11-02,November,11,Q4,Electronics,Laptop,Punjab,Chandigarh,2,59681,0,119362.0,49362.0,Social Media,Net Banking,Desktop,0,5,70000
+ORD10408,2024-12-23,December,12,Q4,Books,Data Science Book,Madhya Pradesh,Bhopal,1,623,15,529.55,29.55,Direct,UPI,Mobile,0,5,500
+ORD10409,2024-06-22,June,6,Q2,Electronics,Laptop,Karnataka,Bengaluru,1,39008,20,31206.4,-3793.6,Social Media,Credit Card,Mobile,0,5,35000
+ORD10410,2024-12-01,December,12,Q4,Electronics,Smartwatch,Tamil Nadu,Chennai,1,6217,0,6217.0,2717.0,Organic Search,Cash on Delivery,Mobile,0,4,3500
+ORD10411,2024-11-25,November,11,Q4,Electronics,Smartphone,Delhi,Delhi,1,27476,20,21980.8,6980.8,Paid Ad,Net Banking,Mobile,0,4,15000
+ORD10412,2024-08-29,August,8,Q3,Home & Kitchen,Bedsheet Set,West Bengal,Kolkata,1,922,5,875.9,475.9,Referral,Debit Card,Tablet,0,5,400
+ORD10413,2024-07-12,July,7,Q3,Groceries,Dry Fruits 500g,Odisha,Bhubaneswar,1,395,0,395.0,45.0,Organic Search,Debit Card,Tablet,0,3,350
+ORD10414,2024-06-03,June,6,Q2,Electronics,Earbuds,Madhya Pradesh,Bhopal,1,2703,0,2703.0,1503.0,Email Campaign,UPI,Mobile,0,5,1200
+ORD10415,2024-12-05,December,12,Q4,Home & Kitchen,Pressure Cooker,Gujarat,Ahmedabad,3,1568,0,4704.0,2304.0,Email Campaign,UPI,Mobile,0,4,2400
+ORD10416,2024-04-29,April,4,Q2,Home & Kitchen,Air Fryer,Tamil Nadu,Chennai,2,5479,0,10958.0,5958.0,Organic Search,Net Banking,Mobile,0,5,5000
+ORD10417,2024-12-17,December,12,Q4,Sports,Yoga Mat,West Bengal,Kolkata,1,701,20,560.8,160.8,Social Media,UPI,Mobile,1,4,400
+ORD10418,2024-01-08,January,1,Q1,Beauty,Moisturiser,Punjab,Chandigarh,1,441,15,374.85,174.85,Email Campaign,UPI,Mobile,0,5,200
+ORD10419,2024-06-09,June,6,Q2,Groceries,Organic Honey,Delhi,Delhi,2,480,5,912.0,352.0,Paid Ad,Credit Card,Desktop,0,4,560
+ORD10420,2024-01-20,January,1,Q1,Home & Kitchen,Pressure Cooker,Odisha,Bhubaneswar,1,1736,0,1736.0,936.0,Email Campaign,Credit Card,Mobile,0,2,800
+ORD10421,2024-08-10,August,8,Q3,Home & Kitchen,Bedsheet Set,Rajasthan,Jaipur,4,1048,0,4192.0,2592.0,Referral,UPI,Mobile,0,5,1600
+ORD10422,2024-11-05,November,11,Q4,Beauty,Face Serum,Maharashtra,Mumbai,2,783,0,1566.0,966.0,Referral,Net Banking,Mobile,0,5,600
+ORD10423,2024-03-14,March,3,Q1,Fashion,Saree,Kerala,Kochi,3,3066,10,8278.2,4678.2,Paid Ad,Debit Card,Desktop,0,4,3600
+ORD10424,2024-12-29,December,12,Q4,Books,Data Science Book,Karnataka,Bengaluru,4,765,15,2601.0,601.0,Paid Ad,Debit Card,Desktop,0,3,2000
+ORD10425,2024-06-19,June,6,Q2,Beauty,Face Serum,Rajasthan,Jaipur,5,427,20,1708.0,208.0,Referral,Cash on Delivery,Mobile,0,4,1500
+ORD10426,2024-07-26,July,7,Q3,Fashion,Sneakers,Haryana,Gurugram,1,3735,0,3735.0,2235.0,Paid Ad,UPI,Mobile,0,4,1500
+ORD10427,2024-03-03,March,3,Q1,Sports,Yoga Mat,Odisha,Bhubaneswar,3,665,15,1695.75,495.75,Email Campaign,UPI,Mobile,1,2,1200
+ORD10428,2024-10-31,October,10,Q4,Home & Kitchen,Pressure Cooker,Uttar Pradesh,Lucknow,1,1625,10,1462.5,662.5,Social Media,UPI,Tablet,0,5,800
+ORD10429,2024-05-02,May,5,Q2,Books,UPSC Guide,Punjab,Chandigarh,2,512,20,819.2,19.2,Social Media,Credit Card,Mobile,0,4,800
+ORD10430,2024-05-07,May,5,Q2,Home & Kitchen,Bedsheet Set,Delhi,Delhi,1,627,0,627.0,227.0,Referral,UPI,Mobile,0,4,400
+ORD10431,2024-11-18,November,11,Q4,Fashion,Jeans,Madhya Pradesh,Bhopal,3,1680,20,4032.0,1632.0,Email Campaign,UPI,Desktop,1,4,2400
+ORD10432,2024-11-22,November,11,Q4,Home & Kitchen,Bedsheet Set,Maharashtra,Mumbai,1,1074,0,1074.0,674.0,Organic Search,Net Banking,Desktop,0,5,400
+ORD10433,2024-03-15,March,3,Q1,Electronics,Smartphone,Gujarat,Ahmedabad,1,21353,30,14947.1,-52.9,Paid Ad,Credit Card,Mobile,1,5,15000
+ORD10434,2024-09-20,September,9,Q3,Sports,Dumbbell Set,Odisha,Bhubaneswar,1,1087,0,1087.0,287.0,Referral,Debit Card,Mobile,0,3,800
+ORD10435,2024-08-05,August,8,Q3,Groceries,Organic Honey,Tamil Nadu,Chennai,2,545,5,1035.5,475.5,Paid Ad,Cash on Delivery,Desktop,0,2,560
+ORD10436,2024-02-15,February,2,Q1,Beauty,Moisturiser,Haryana,Gurugram,3,301,30,632.1,32.1,Email Campaign,UPI,Desktop,0,4,600
+ORD10437,2024-06-12,June,6,Q2,Beauty,Moisturiser,Punjab,Chandigarh,5,301,15,1279.25,279.25,Paid Ad,UPI,Mobile,0,5,1000
+ORD10438,2024-12-14,December,12,Q4,Beauty,Moisturiser,Odisha,Bhubaneswar,1,491,10,441.9,241.9,Direct,Net Banking,Desktop,0,3,200
+ORD10439,2024-10-02,October,10,Q4,Books,UPSC Guide,Telangana,Hyderabad,1,574,10,516.6,116.6,Referral,UPI,Desktop,0,4,400
+ORD10440,2024-02-27,February,2,Q1,Beauty,Face Serum,Kerala,Kochi,1,573,15,487.05,187.05,Social Media,Debit Card,Mobile,1,5,300
+ORD10441,2024-03-05,March,3,Q1,Fashion,Kurta Set,Kerala,Kochi,1,1197,15,1017.45,417.45,Paid Ad,Credit Card,Mobile,0,5,600
+ORD10442,2024-01-06,January,1,Q1,Home & Kitchen,Air Fryer,Delhi,Delhi,1,4889,20,3911.2,1411.2,Social Media,UPI,Desktop,1,4,2500
+ORD10443,2024-12-22,December,12,Q4,Electronics,Smartwatch,Tamil Nadu,Chennai,2,6048,15,10281.6,3281.6,Direct,Debit Card,Mobile,0,5,7000
+ORD10444,2024-10-20,October,10,Q4,Beauty,Moisturiser,Uttar Pradesh,Bareilly,3,423,20,1015.2,415.2,Referral,Debit Card,Mobile,0,3,600
+ORD10445,2024-02-29,February,2,Q1,Electronics,Smartphone,West Bengal,Kolkata,1,25237,0,25237.0,10237.0,Referral,Credit Card,Mobile,0,5,15000
+ORD10446,2024-11-11,November,11,Q4,Electronics,Smartphone,Madhya Pradesh,Bhopal,1,26574,10,23916.6,8916.6,Referral,Cash on Delivery,Mobile,0,5,15000
+ORD10447,2024-10-01,October,10,Q4,Groceries,Dry Fruits 500g,Punjab,Chandigarh,1,627,0,627.0,277.0,Referral,UPI,Mobile,0,4,350
+ORD10448,2024-05-28,May,5,Q2,Groceries,Organic Honey,Punjab,Chandigarh,4,473,0,1892.0,772.0,Paid Ad,UPI,Desktop,0,5,1120
+ORD10449,2024-11-08,November,11,Q4,Groceries,Organic Honey,Rajasthan,Jaipur,1,428,10,385.2,105.2,Direct,UPI,Desktop,0,5,280
+ORD10450,2024-08-15,August,8,Q3,Fashion,Jeans,Uttar Pradesh,Bareilly,4,1628,25,4884.0,1684.0,Organic Search,Credit Card,Mobile,0,4,3200
+ORD10451,2024-08-07,August,8,Q3,Electronics,Laptop,Maharashtra,Mumbai,2,44292,0,88584.0,18584.0,Organic Search,Credit Card,Desktop,0,4,70000
+ORD10452,2024-09-15,September,9,Q3,Home & Kitchen,Air Fryer,West Bengal,Kolkata,1,3745,10,3370.5,870.5,Paid Ad,Cash on Delivery,Desktop,0,5,2500
+ORD10453,2024-02-11,February,2,Q1,Beauty,Face Serum,West Bengal,Kolkata,4,425,0,1700.0,500.0,Email Campaign,UPI,Desktop,0,4,1200
+ORD10454,2024-05-01,May,5,Q2,Fashion,Jeans,Rajasthan,Jaipur,1,1880,20,1504.0,704.0,Referral,Debit Card,Mobile,1,1,800
+ORD10455,2024-06-04,June,6,Q2,Fashion,Sneakers,Uttar Pradesh,Bareilly,5,2523,0,12615.0,5115.0,Paid Ad,Cash on Delivery,Desktop,0,4,7500
+ORD10456,2024-02-19,February,2,Q1,Fashion,Sneakers,Karnataka,Bengaluru,1,3731,5,3544.45,2044.45,Paid Ad,UPI,Mobile,0,5,1500
+ORD10457,2024-07-26,July,7,Q3,Groceries,Organic Honey,Maharashtra,Mumbai,3,483,5,1376.55,536.55,Direct,Debit Card,Mobile,0,5,840
+ORD10458,2024-12-12,December,12,Q4,Beauty,Moisturiser,Telangana,Hyderabad,2,389,15,661.3,261.3,Referral,Credit Card,Mobile,0,4,400
+ORD10459,2024-07-31,July,7,Q3,Electronics,Smartphone,West Bengal,Kolkata,1,21863,15,18583.55,3583.55,Social Media,Debit Card,Mobile,0,5,15000
+ORD10460,2024-07-22,July,7,Q3,Fashion,Saree,Madhya Pradesh,Bhopal,4,2239,5,8508.2,3708.2,Organic Search,UPI,Mobile,0,4,4800
+ORD10461,2024-10-12,October,10,Q4,Fashion,Saree,Madhya Pradesh,Bhopal,2,2622,20,4195.2,1795.2,Social Media,Debit Card,Mobile,0,4,2400
+ORD10462,2024-08-20,August,8,Q3,Groceries,Organic Honey,Uttar Pradesh,Lucknow,5,432,0,2160.0,760.0,Email Campaign,Cash on Delivery,Desktop,0,5,1400
+ORD10463,2024-03-10,March,3,Q1,Beauty,Moisturiser,Gujarat,Ahmedabad,3,272,10,734.4,134.4,Organic Search,Cash on Delivery,Mobile,0,5,600
+ORD10464,2024-07-26,July,7,Q3,Fashion,Sneakers,Karnataka,Bengaluru,1,3630,5,3448.5,1948.5,Organic Search,Net Banking,Mobile,0,5,1500
+ORD10465,2024-06-24,June,6,Q2,Beauty,Hair Oil,Madhya Pradesh,Bhopal,1,221,10,198.9,48.9,Direct,Cash on Delivery,Mobile,0,4,150
+ORD10466,2024-08-26,August,8,Q3,Fashion,Sneakers,Rajasthan,Jaipur,1,2505,0,2505.0,1005.0,Email Campaign,UPI,Tablet,0,4,1500
+ORD10467,2024-08-11,August,8,Q3,Beauty,Face Serum,Delhi,Delhi,1,370,5,351.5,51.5,Paid Ad,UPI,Mobile,0,3,300
+ORD10468,2024-10-09,October,10,Q4,Beauty,Hair Oil,Gujarat,Ahmedabad,1,235,0,235.0,85.0,Referral,Debit Card,Mobile,0,4,150
+ORD10469,2024-05-15,May,5,Q2,Beauty,Hair Oil,Kerala,Kochi,1,175,10,157.5,7.5,Referral,Wallet,Mobile,1,5,150
+ORD10470,2024-09-11,September,9,Q3,Fashion,Sneakers,Punjab,Chandigarh,1,2154,15,1830.9,330.9,Organic Search,UPI,Mobile,0,4,1500
+ORD10471,2024-09-21,September,9,Q3,Groceries,Organic Honey,Madhya Pradesh,Bhopal,1,357,5,339.15,59.15,Paid Ad,Net Banking,Mobile,0,4,280
+ORD10472,2024-10-24,October,10,Q4,Beauty,Moisturiser,Rajasthan,Jaipur,1,595,10,535.5,335.5,Organic Search,Net Banking,Mobile,0,5,200
+ORD10473,2024-09-23,September,9,Q3,Electronics,Smartphone,Rajasthan,Jaipur,1,17850,5,16957.5,1957.5,Email Campaign,UPI,Mobile,0,5,15000
+ORD10474,2024-04-23,April,4,Q2,Groceries,Organic Honey,Punjab,Chandigarh,2,330,10,594.0,34.0,Social Media,UPI,Mobile,0,5,560
+ORD10475,2024-04-18,April,4,Q2,Electronics,Earbuds,Telangana,Hyderabad,2,2637,10,4746.6,2346.6,Paid Ad,Wallet,Mobile,0,4,2400
+ORD10476,2024-07-30,July,7,Q3,Fashion,Sneakers,Kerala,Kochi,3,2411,10,6509.7,2009.7,Referral,Cash on Delivery,Desktop,0,2,4500
+ORD10477,2024-09-23,September,9,Q3,Groceries,Dry Fruits 500g,Tamil Nadu,Chennai,2,581,5,1103.9,403.9,Referral,Credit Card,Desktop,0,4,700
+ORD10478,2024-03-10,March,3,Q1,Fashion,Sneakers,Uttar Pradesh,Lucknow,1,3893,15,3309.05,1809.05,Paid Ad,Debit Card,Mobile,0,5,1500
+ORD10479,2024-12-16,December,12,Q4,Groceries,Dry Fruits 500g,Madhya Pradesh,Bhopal,1,430,10,387.0,37.0,Organic Search,Debit Card,Mobile,0,4,350
+ORD10480,2024-05-23,May,5,Q2,Groceries,Dry Fruits 500g,Delhi,Delhi,1,630,5,598.5,248.5,Direct,Credit Card,Mobile,0,5,350
+ORD10481,2024-07-10,July,7,Q3,Home & Kitchen,Bedsheet Set,Punjab,Chandigarh,1,1049,10,944.1,544.1,Email Campaign,Debit Card,Desktop,0,4,400
+ORD10482,2024-06-11,June,6,Q2,Fashion,Saree,Maharashtra,Mumbai,5,2236,5,10621.0,4621.0,Referral,Debit Card,Mobile,0,5,6000
+ORD10483,2024-04-29,April,4,Q2,Fashion,Sneakers,Kerala,Kochi,1,2443,0,2443.0,943.0,Direct,Debit Card,Desktop,0,5,1500
+ORD10484,2024-02-27,February,2,Q1,Sports,Yoga Mat,Rajasthan,Jaipur,4,526,0,2104.0,504.0,Social Media,Credit Card,Mobile,0,5,1600
+ORD10485,2024-11-26,November,11,Q4,Sports,Dumbbell Set,Uttar Pradesh,Lucknow,1,1711,20,1368.8,568.8,Direct,UPI,Desktop,1,5,800
+ORD10486,2024-12-25,December,12,Q4,Sports,Yoga Mat,Uttar Pradesh,Bareilly,1,743,10,668.7,268.7,Paid Ad,UPI,Mobile,0,4,400
+ORD10487,2024-06-10,June,6,Q2,Electronics,Smartwatch,Karnataka,Bengaluru,4,6502,20,20806.4,6806.4,Organic Search,UPI,Mobile,0,4,14000
+ORD10488,2024-01-02,January,1,Q1,Electronics,Earbuds,Uttar Pradesh,Lucknow,2,1965,10,3537.0,1137.0,Direct,Credit Card,Mobile,0,4,2400
+ORD10489,2024-01-28,January,1,Q1,Home & Kitchen,Bedsheet Set,Telangana,Hyderabad,2,1007,25,1510.5,710.5,Organic Search,Debit Card,Mobile,0,2,800
+ORD10490,2024-03-15,March,3,Q1,Home & Kitchen,Bedsheet Set,Kerala,Kochi,1,754,5,716.3,316.3,Social Media,Credit Card,Mobile,0,4,400
+ORD10491,2024-01-30,January,1,Q1,Groceries,Dry Fruits 500g,Delhi,Delhi,2,611,5,1160.9,460.9,Email Campaign,Debit Card,Tablet,0,4,700
+ORD10492,2024-08-13,August,8,Q3,Beauty,Hair Oil,Gujarat,Ahmedabad,1,267,25,200.25,50.25,Direct,Cash on Delivery,Desktop,0,4,150
+ORD10493,2024-06-16,June,6,Q2,Home & Kitchen,Pressure Cooker,Uttar Pradesh,Lucknow,2,1678,5,3188.2,1588.2,Social Media,UPI,Mobile,0,1,1600
+ORD10494,2024-08-09,August,8,Q3,Beauty,Moisturiser,Punjab,Chandigarh,2,566,0,1132.0,732.0,Paid Ad,Cash on Delivery,Mobile,0,5,400
+ORD10495,2024-05-27,May,5,Q2,Groceries,Organic Honey,Odisha,Bhubaneswar,1,454,0,454.0,174.0,Direct,Wallet,Desktop,0,3,280
+ORD10496,2024-02-09,February,2,Q1,Sports,Dumbbell Set,Karnataka,Bengaluru,3,1800,5,5130.0,2730.0,Paid Ad,Credit Card,Mobile,0,5,2400
+ORD10497,2024-08-08,August,8,Q3,Electronics,Earbuds,Telangana,Hyderabad,3,2299,20,5517.6,1917.6,Email Campaign,Credit Card,Mobile,0,1,3600
+ORD10498,2024-12-23,December,12,Q4,Sports,Dumbbell Set,Uttar Pradesh,Lucknow,3,2037,0,6111.0,3711.0,Direct,UPI,Tablet,0,4,2400
+ORD10499,2024-07-04,July,7,Q3,Beauty,Hair Oil,Madhya Pradesh,Bhopal,1,261,0,261.0,111.0,Paid Ad,UPI,Mobile,0,4,150
+ORD10500,2024-12-08,December,12,Q4,Groceries,Dry Fruits 500g,Punjab,Chandigarh,2,531,5,1008.9,308.9,Direct,Credit Card,Tablet,0,4,700
+ORD10501,2024-07-28,July,7,Q3,Groceries,Organic Honey,Punjab,Chandigarh,1,333,30,233.1,-46.9,Email Campaign,Credit Card,Mobile,0,5,280
+ORD10502,2024-03-23,March,3,Q1,Groceries,Organic Honey,Telangana,Hyderabad,3,436,10,1177.2,337.2,Email Campaign,UPI,Mobile,0,5,840
+ORD10503,2024-08-20,August,8,Q3,Books,Data Science Book,Tamil Nadu,Chennai,1,660,0,660.0,160.0,Referral,Credit Card,Mobile,0,3,500
+ORD10504,2024-03-15,March,3,Q1,Home & Kitchen,Bedsheet Set,Madhya Pradesh,Bhopal,1,491,25,368.25,-31.75,Social Media,UPI,Tablet,0,4,400
+ORD10505,2024-12-16,December,12,Q4,Fashion,Sneakers,Karnataka,Bengaluru,2,3317,20,5307.2,2307.2,Referral,Credit Card,Mobile,0,5,3000
+ORD10506,2024-01-08,January,1,Q1,Fashion,Saree,Karnataka,Bengaluru,1,3286,0,3286.0,2086.0,Referral,UPI,Tablet,0,5,1200
+ORD10507,2024-07-31,July,7,Q3,Groceries,Organic Honey,Tamil Nadu,Chennai,1,497,0,497.0,217.0,Social Media,Credit Card,Mobile,0,3,280
+ORD10508,2024-03-26,March,3,Q1,Fashion,Kurta Set,Punjab,Chandigarh,3,774,10,2089.8,289.8,Referral,Cash on Delivery,Mobile,0,4,1800
+ORD10509,2024-10-17,October,10,Q4,Electronics,Smartwatch,Odisha,Bhubaneswar,2,5408,30,7571.2,571.2,Direct,Net Banking,Desktop,0,3,7000
+ORD10510,2024-12-20,December,12,Q4,Home & Kitchen,Bedsheet Set,Uttar Pradesh,Lucknow,1,695,10,625.5,225.5,Social Media,Debit Card,Mobile,0,2,400
+ORD10511,2024-11-13,November,11,Q4,Electronics,Smartphone,Haryana,Gurugram,2,27632,20,44211.2,14211.2,Direct,UPI,Mobile,0,4,30000
+ORD10512,2024-06-15,June,6,Q2,Electronics,Smartphone,Kerala,Kochi,1,18425,15,15661.25,661.25,Paid Ad,Debit Card,Mobile,0,4,15000
+ORD10513,2024-05-12,May,5,Q2,Electronics,Earbuds,West Bengal,Kolkata,1,2307,10,2076.3,876.3,Social Media,Debit Card,Mobile,0,1,1200
+ORD10514,2024-12-06,December,12,Q4,Electronics,Smartphone,Tamil Nadu,Chennai,2,17719,15,30122.3,122.3,Referral,UPI,Mobile,0,4,30000
+ORD10515,2024-09-29,September,9,Q3,Fashion,Kurta Set,Madhya Pradesh,Bhopal,1,1142,5,1084.9,484.9,Direct,UPI,Desktop,0,3,600
+ORD10516,2024-09-28,September,9,Q3,Home & Kitchen,Bedsheet Set,Maharashtra,Mumbai,4,955,0,3820.0,2220.0,Email Campaign,Credit Card,Mobile,0,5,1600
+ORD10517,2024-04-16,April,4,Q2,Books,UPSC Guide,Odisha,Bhubaneswar,2,541,0,1082.0,282.0,Email Campaign,Debit Card,Mobile,0,4,800
+ORD10518,2024-09-24,September,9,Q3,Electronics,Smartphone,Tamil Nadu,Chennai,3,19060,20,45744.0,744.0,Email Campaign,UPI,Mobile,0,5,45000
+ORD10519,2024-10-31,October,10,Q4,Electronics,Smartwatch,Maharashtra,Mumbai,1,6549,0,6549.0,3049.0,Organic Search,Cash on Delivery,Mobile,0,5,3500
+ORD10520,2024-10-19,October,10,Q4,Beauty,Hair Oil,Delhi,Delhi,2,222,15,377.4,77.4,Paid Ad,Wallet,Mobile,1,4,300
+ORD10521,2024-03-18,March,3,Q1,Fashion,Saree,Tamil Nadu,Chennai,1,3259,10,2933.1,1733.1,Direct,UPI,Desktop,0,4,1200
+ORD10522,2024-12-25,December,12,Q4,Groceries,Dry Fruits 500g,Karnataka,Bengaluru,4,529,10,1904.4,504.4,Email Campaign,Wallet,Desktop,1,5,1400
+ORD10523,2024-04-22,April,4,Q2,Electronics,Earbuds,Uttar Pradesh,Bareilly,4,2694,20,8620.8,3820.8,Paid Ad,Debit Card,Desktop,0,4,4800
+ORD10524,2024-10-27,October,10,Q4,Home & Kitchen,Air Fryer,Punjab,Chandigarh,1,3739,5,3552.05,1052.05,Paid Ad,Credit Card,Desktop,0,4,2500
+ORD10525,2024-06-30,June,6,Q2,Books,Data Science Book,Delhi,Delhi,1,686,20,548.8,48.8,Email Campaign,Debit Card,Desktop,0,2,500
+ORD10526,2024-01-13,January,1,Q1,Books,UPSC Guide,Tamil Nadu,Chennai,1,612,20,489.6,89.6,Email Campaign,Net Banking,Mobile,0,1,400
+ORD10527,2024-10-02,October,10,Q4,Books,UPSC Guide,Maharashtra,Mumbai,5,459,0,2295.0,295.0,Referral,Debit Card,Mobile,0,4,2000
+ORD10528,2024-06-17,June,6,Q2,Books,UPSC Guide,Uttar Pradesh,Lucknow,2,615,10,1107.0,307.0,Social Media,Debit Card,Mobile,0,3,800
+ORD10529,2024-07-12,July,7,Q3,Sports,Yoga Mat,Rajasthan,Jaipur,1,986,0,986.0,586.0,Email Campaign,UPI,Mobile,0,5,400
+ORD10530,2024-11-20,November,11,Q4,Home & Kitchen,Air Fryer,Gujarat,Ahmedabad,1,3186,20,2548.8,48.8,Email Campaign,Net Banking,Mobile,0,4,2500
+ORD10531,2024-01-28,January,1,Q1,Fashion,Sneakers,Haryana,Gurugram,1,2517,10,2265.3,765.3,Referral,UPI,Mobile,0,4,1500
+ORD10532,2024-09-07,September,9,Q3,Electronics,Earbuds,Kerala,Kochi,4,2116,5,8040.8,3240.8,Social Media,Net Banking,Mobile,0,5,4800
+ORD10533,2024-09-02,September,9,Q3,Beauty,Hair Oil,Uttar Pradesh,Lucknow,3,306,0,918.0,468.0,Organic Search,Cash on Delivery,Mobile,0,3,450
+ORD10534,2024-04-24,April,4,Q2,Home & Kitchen,Bedsheet Set,Delhi,Delhi,1,1070,10,963.0,563.0,Referral,Cash on Delivery,Desktop,0,5,400
+ORD10535,2024-07-25,July,7,Q3,Sports,Dumbbell Set,Odisha,Bhubaneswar,3,1221,10,3296.7,896.7,Referral,Cash on Delivery,Mobile,0,4,2400
+ORD10536,2024-07-22,July,7,Q3,Books,Data Science Book,Kerala,Kochi,1,737,10,663.3,163.3,Direct,Credit Card,Mobile,0,5,500
+ORD10537,2024-06-27,June,6,Q2,Books,Data Science Book,Uttar Pradesh,Bareilly,1,789,10,710.1,210.1,Direct,UPI,Desktop,0,5,500
+ORD10538,2024-08-09,August,8,Q3,Sports,Dumbbell Set,Gujarat,Ahmedabad,4,2200,5,8360.0,5160.0,Referral,UPI,Desktop,0,5,3200
+ORD10539,2024-05-21,May,5,Q2,Fashion,Kurta Set,Uttar Pradesh,Bareilly,1,959,0,959.0,359.0,Social Media,Credit Card,Mobile,0,5,600
+ORD10540,2024-03-13,March,3,Q1,Beauty,Face Serum,Punjab,Chandigarh,1,419,0,419.0,119.0,Direct,UPI,Desktop,0,5,300
+ORD10541,2024-04-29,April,4,Q2,Electronics,Earbuds,Punjab,Chandigarh,2,1584,5,3009.6,609.6,Direct,Net Banking,Mobile,1,4,2400
+ORD10542,2024-06-24,June,6,Q2,Books,UPSC Guide,Uttar Pradesh,Bareilly,2,585,15,994.5,194.5,Email Campaign,UPI,Mobile,1,3,800
+ORD10543,2024-09-03,September,9,Q3,Home & Kitchen,Bedsheet Set,Telangana,Hyderabad,2,692,20,1107.2,307.2,Email Campaign,Credit Card,Mobile,1,4,800
+ORD10544,2024-10-07,October,10,Q4,Groceries,Dry Fruits 500g,Uttar Pradesh,Lucknow,3,448,5,1276.8,226.8,Referral,Cash on Delivery,Mobile,0,3,1050
+ORD10545,2024-06-17,June,6,Q2,Electronics,Smartwatch,Punjab,Chandigarh,1,6863,5,6519.85,3019.85,Email Campaign,Net Banking,Mobile,0,5,3500
+ORD10546,2024-12-19,December,12,Q4,Books,UPSC Guide,Rajasthan,Jaipur,1,645,10,580.5,180.5,Email Campaign,Credit Card,Mobile,0,5,400
+ORD10547,2024-11-04,November,11,Q4,Sports,Dumbbell Set,Madhya Pradesh,Bhopal,2,1507,0,3014.0,1414.0,Social Media,Debit Card,Mobile,0,3,1600
+ORD10548,2024-12-15,December,12,Q4,Books,Data Science Book,Delhi,Delhi,1,695,10,625.5,125.5,Organic Search,UPI,Mobile,0,3,500
+ORD10549,2024-06-23,June,6,Q2,Electronics,Earbuds,Kerala,Kochi,1,1668,10,1501.2,301.2,Paid Ad,Cash on Delivery,Tablet,0,4,1200
+ORD10550,2024-03-11,March,3,Q1,Fashion,Jeans,Maharashtra,Mumbai,3,1035,10,2794.5,394.5,Referral,Net Banking,Mobile,1,2,2400
+ORD10551,2024-06-30,June,6,Q2,Groceries,Organic Honey,Haryana,Gurugram,1,423,0,423.0,143.0,Paid Ad,Credit Card,Mobile,0,5,280
+ORD10552,2024-06-21,June,6,Q2,Groceries,Dry Fruits 500g,Telangana,Hyderabad,2,465,5,883.5,183.5,Referral,Cash on Delivery,Mobile,0,4,700
+ORD10553,2024-02-12,February,2,Q1,Groceries,Dry Fruits 500g,Telangana,Hyderabad,4,683,0,2732.0,1332.0,Organic Search,UPI,Mobile,0,4,1400
+ORD10554,2024-01-08,January,1,Q1,Electronics,Earbuds,Uttar Pradesh,Bareilly,5,1808,5,8588.0,2588.0,Referral,Cash on Delivery,Mobile,1,4,6000
+ORD10555,2024-03-18,March,3,Q1,Fashion,Kurta Set,Karnataka,Bengaluru,1,693,15,589.05,-10.95,Referral,UPI,Desktop,0,5,600
+ORD10556,2024-12-30,December,12,Q4,Home & Kitchen,Pressure Cooker,Kerala,Kochi,3,1757,30,3689.7,1289.7,Organic Search,UPI,Desktop,0,5,2400
+ORD10557,2024-07-01,July,7,Q3,Beauty,Hair Oil,Maharashtra,Mumbai,1,291,5,276.45,126.45,Email Campaign,UPI,Tablet,0,5,150
+ORD10558,2024-02-19,February,2,Q1,Groceries,Dry Fruits 500g,Kerala,Kochi,2,432,15,734.4,34.4,Direct,Cash on Delivery,Mobile,0,3,700
+ORD10559,2024-11-04,November,11,Q4,Electronics,Smartphone,Gujarat,Ahmedabad,5,26142,15,111103.5,36103.5,Referral,Cash on Delivery,Mobile,0,4,75000
+ORD10560,2024-04-17,April,4,Q2,Home & Kitchen,Air Fryer,Punjab,Chandigarh,1,5471,25,4103.25,1603.25,Referral,UPI,Mobile,0,1,2500
+ORD10561,2024-01-11,January,1,Q1,Electronics,Smartwatch,Uttar Pradesh,Lucknow,5,6067,5,28818.25,11318.25,Referral,UPI,Mobile,0,5,17500
+ORD10562,2024-05-17,May,5,Q2,Beauty,Face Serum,Odisha,Bhubaneswar,1,678,20,542.4,242.4,Direct,Net Banking,Desktop,0,2,300
+ORD10563,2024-07-24,July,7,Q3,Sports,Dumbbell Set,Maharashtra,Mumbai,1,1829,5,1737.55,937.55,Direct,Cash on Delivery,Mobile,0,2,800
+ORD10564,2024-01-13,January,1,Q1,Groceries,Dry Fruits 500g,Delhi,Delhi,1,511,15,434.35,84.35,Referral,Net Banking,Mobile,1,5,350
+ORD10565,2024-05-23,May,5,Q2,Electronics,Smartwatch,Haryana,Gurugram,1,7385,5,7015.75,3515.75,Email Campaign,Cash on Delivery,Mobile,0,5,3500
+ORD10566,2024-06-11,June,6,Q2,Home & Kitchen,Air Fryer,Haryana,Gurugram,2,4755,0,9510.0,4510.0,Direct,Wallet,Desktop,0,4,5000
+ORD10567,2024-10-21,October,10,Q4,Sports,Yoga Mat,Rajasthan,Jaipur,1,457,25,342.75,-57.25,Referral,Debit Card,Desktop,0,2,400
+ORD10568,2024-12-01,December,12,Q4,Home & Kitchen,Pressure Cooker,Punjab,Chandigarh,1,1197,0,1197.0,397.0,Email Campaign,UPI,Mobile,0,4,800
+ORD10569,2024-02-14,February,2,Q1,Beauty,Hair Oil,West Bengal,Kolkata,3,172,10,464.4,14.4,Referral,Debit Card,Desktop,0,4,450
+ORD10570,2024-06-27,June,6,Q2,Electronics,Smartphone,Gujarat,Ahmedabad,1,20256,20,16204.8,1204.8,Email Campaign,Debit Card,Desktop,0,3,15000
+ORD10571,2024-01-06,January,1,Q1,Beauty,Moisturiser,Haryana,Gurugram,2,264,0,528.0,128.0,Email Campaign,UPI,Mobile,0,4,400
+ORD10572,2024-03-28,March,3,Q1,Home & Kitchen,Pressure Cooker,West Bengal,Kolkata,2,1838,0,3676.0,2076.0,Organic Search,Cash on Delivery,Mobile,0,2,1600
+ORD10573,2024-02-24,February,2,Q1,Electronics,Smartwatch,Kerala,Kochi,1,5259,20,4207.2,707.2,Email Campaign,UPI,Mobile,0,5,3500
+ORD10574,2024-11-26,November,11,Q4,Electronics,Earbuds,West Bengal,Kolkata,1,1668,10,1501.2,301.2,Paid Ad,Credit Card,Mobile,0,5,1200
+ORD10575,2024-04-30,April,4,Q2,Electronics,Laptop,Telangana,Hyderabad,1,55446,0,55446.0,20446.0,Organic Search,Net Banking,Mobile,0,3,35000
+ORD10576,2024-11-27,November,11,Q4,Sports,Dumbbell Set,Delhi,Delhi,1,1231,0,1231.0,431.0,Direct,Credit Card,Tablet,0,5,800
+ORD10577,2024-04-16,April,4,Q2,Fashion,Kurta Set,Haryana,Gurugram,3,766,5,2183.1,383.1,Direct,Credit Card,Mobile,0,4,1800
+ORD10578,2024-11-14,November,11,Q4,Electronics,Smartphone,Haryana,Gurugram,1,20592,20,16473.6,1473.6,Direct,Wallet,Mobile,0,4,15000
+ORD10579,2024-11-26,November,11,Q4,Sports,Yoga Mat,Rajasthan,Jaipur,3,624,0,1872.0,672.0,Referral,UPI,Desktop,0,5,1200
+ORD10580,2024-10-08,October,10,Q4,Fashion,Sneakers,West Bengal,Kolkata,2,1833,0,3666.0,666.0,Referral,UPI,Mobile,0,5,3000
+ORD10581,2024-11-19,November,11,Q4,Home & Kitchen,Air Fryer,Madhya Pradesh,Bhopal,2,5411,0,10822.0,5822.0,Paid Ad,Credit Card,Mobile,0,5,5000
+ORD10582,2024-09-23,September,9,Q3,Beauty,Hair Oil,Haryana,Gurugram,3,279,25,627.75,177.75,Social Media,Cash on Delivery,Mobile,0,5,450
+ORD10583,2024-08-20,August,8,Q3,Fashion,Sneakers,Odisha,Bhubaneswar,2,2909,5,5527.1,2527.1,Organic Search,Debit Card,Mobile,0,4,3000
+ORD10584,2024-07-10,July,7,Q3,Beauty,Face Serum,Karnataka,Bengaluru,2,885,0,1770.0,1170.0,Social Media,Net Banking,Desktop,0,5,600
+ORD10585,2024-04-08,April,4,Q2,Fashion,Jeans,Maharashtra,Mumbai,1,1078,30,754.6,-45.4,Email Campaign,UPI,Mobile,1,4,800
+ORD10586,2024-06-29,June,6,Q2,Beauty,Moisturiser,Rajasthan,Jaipur,4,558,0,2232.0,1432.0,Referral,Credit Card,Mobile,0,5,800
+ORD10587,2024-05-09,May,5,Q2,Electronics,Earbuds,Madhya Pradesh,Bhopal,1,1666,20,1332.8,132.8,Paid Ad,Wallet,Mobile,0,4,1200
+ORD10588,2024-01-18,January,1,Q1,Groceries,Dry Fruits 500g,Madhya Pradesh,Bhopal,1,436,0,436.0,86.0,Paid Ad,Debit Card,Mobile,0,4,350
+ORD10589,2024-01-03,January,1,Q1,Groceries,Dry Fruits 500g,Haryana,Gurugram,2,739,25,1108.5,408.5,Referral,UPI,Mobile,0,5,700
+ORD10590,2024-12-12,December,12,Q4,Home & Kitchen,Air Fryer,Telangana,Hyderabad,1,5459,15,4640.15,2140.15,Referral,UPI,Mobile,0,4,2500
+ORD10591,2024-06-12,June,6,Q2,Fashion,Sneakers,Kerala,Kochi,1,2533,5,2406.35,906.35,Direct,Credit Card,Mobile,0,5,1500
+ORD10592,2024-06-05,June,6,Q2,Groceries,Dry Fruits 500g,Odisha,Bhubaneswar,1,424,20,339.2,-10.8,Organic Search,UPI,Desktop,0,3,350
+ORD10593,2024-07-04,July,7,Q3,Fashion,Jeans,Uttar Pradesh,Bareilly,4,1884,20,6028.8,2828.8,Paid Ad,Credit Card,Desktop,0,5,3200
+ORD10594,2024-04-12,April,4,Q2,Beauty,Face Serum,Karnataka,Bengaluru,5,648,20,2592.0,1092.0,Email Campaign,Net Banking,Desktop,0,4,1500
+ORD10595,2024-02-06,February,2,Q1,Fashion,Kurta Set,West Bengal,Kolkata,1,1177,5,1118.15,518.15,Direct,UPI,Mobile,0,4,600
+ORD10596,2024-03-07,March,3,Q1,Fashion,Kurta Set,Karnataka,Bengaluru,2,1098,5,2086.2,886.2,Paid Ad,Debit Card,Mobile,0,2,1200
+ORD10597,2024-02-09,February,2,Q1,Groceries,Organic Honey,Madhya Pradesh,Bhopal,1,387,5,367.65,87.65,Email Campaign,UPI,Mobile,0,4,280
+ORD10598,2024-05-12,May,5,Q2,Electronics,Earbuds,Haryana,Gurugram,4,2424,0,9696.0,4896.0,Direct,Wallet,Mobile,0,5,4800
+ORD10599,2024-12-25,December,12,Q4,Electronics,Laptop,Gujarat,Ahmedabad,2,53988,10,97178.4,27178.4,Paid Ad,UPI,Mobile,0,4,70000
+ORD10600,2024-04-11,April,4,Q2,Books,UPSC Guide,Uttar Pradesh,Lucknow,1,473,15,402.05,2.05,Direct,Cash on Delivery,Mobile,0,3,400
+ORD10601,2024-07-21,July,7,Q3,Fashion,Jeans,Delhi,Delhi,3,1660,15,4233.0,1833.0,Direct,Debit Card,Mobile,0,4,2400
+ORD10602,2024-03-24,March,3,Q1,Electronics,Earbuds,Karnataka,Bengaluru,4,1929,5,7330.2,2530.2,Organic Search,UPI,Tablet,0,4,4800
+ORD10603,2024-08-08,August,8,Q3,Fashion,Saree,Madhya Pradesh,Bhopal,1,2601,25,1950.75,750.75,Referral,Cash on Delivery,Desktop,0,4,1200
+ORD10604,2024-08-11,August,8,Q3,Fashion,Saree,Tamil Nadu,Chennai,2,2900,0,5800.0,3400.0,Social Media,Wallet,Mobile,0,3,2400
+ORD10605,2024-09-07,September,9,Q3,Electronics,Laptop,Rajasthan,Jaipur,1,48343,20,38674.4,3674.4,Paid Ad,Credit Card,Mobile,0,5,35000
+ORD10606,2024-05-04,May,5,Q2,Books,Data Science Book,Telangana,Hyderabad,1,854,25,640.5,140.5,Social Media,Credit Card,Mobile,0,4,500
+ORD10607,2024-03-02,March,3,Q1,Beauty,Face Serum,West Bengal,Kolkata,1,607,0,607.0,307.0,Social Media,UPI,Mobile,0,4,300
+ORD10608,2024-02-12,February,2,Q1,Books,UPSC Guide,Uttar Pradesh,Bareilly,1,558,30,390.6,-9.4,Social Media,Wallet,Mobile,0,4,400
+ORD10609,2024-08-11,August,8,Q3,Sports,Yoga Mat,Uttar Pradesh,Bareilly,2,463,20,740.8,-59.2,Direct,Wallet,Desktop,0,5,800
+ORD10610,2024-02-24,February,2,Q1,Groceries,Organic Honey,Uttar Pradesh,Lucknow,2,499,10,898.2,338.2,Social Media,Wallet,Mobile,0,5,560
+ORD10611,2024-01-06,January,1,Q1,Home & Kitchen,Bedsheet Set,Kerala,Kochi,2,840,20,1344.0,544.0,Referral,UPI,Mobile,0,2,800
+ORD10612,2024-12-01,December,12,Q4,Beauty,Moisturiser,Karnataka,Bengaluru,1,497,10,447.3,247.3,Organic Search,Wallet,Mobile,0,4,200
+ORD10613,2024-08-12,August,8,Q3,Home & Kitchen,Air Fryer,Odisha,Bhubaneswar,3,4773,5,13603.05,6103.05,Paid Ad,UPI,Mobile,0,5,7500
+ORD10614,2024-03-31,March,3,Q1,Electronics,Smartwatch,Maharashtra,Mumbai,1,5182,20,4145.6,645.6,Paid Ad,UPI,Mobile,0,4,3500
+ORD10615,2024-10-15,October,10,Q4,Sports,Yoga Mat,Tamil Nadu,Chennai,2,1030,10,1854.0,1054.0,Paid Ad,Net Banking,Mobile,0,3,800
+ORD10616,2024-02-12,February,2,Q1,Fashion,Saree,Telangana,Hyderabad,2,2156,0,4312.0,1912.0,Direct,UPI,Tablet,0,4,2400
+ORD10617,2024-09-12,September,9,Q3,Groceries,Organic Honey,Uttar Pradesh,Lucknow,2,459,10,826.2,266.2,Direct,Cash on Delivery,Mobile,0,4,560
+ORD10618,2024-10-07,October,10,Q4,Sports,Dumbbell Set,Karnataka,Bengaluru,3,1194,10,3223.8,823.8,Email Campaign,UPI,Tablet,0,5,2400
+ORD10619,2024-08-17,August,8,Q3,Fashion,Saree,Odisha,Bhubaneswar,2,3281,10,5905.8,3505.8,Social Media,UPI,Desktop,0,4,2400
+ORD10620,2024-02-24,February,2,Q1,Electronics,Smartphone,Uttar Pradesh,Bareilly,1,21450,20,17160.0,2160.0,Referral,Debit Card,Mobile,0,2,15000
+ORD10621,2024-02-28,February,2,Q1,Books,Data Science Book,Punjab,Chandigarh,1,842,10,757.8,257.8,Referral,Cash on Delivery,Tablet,0,4,500
+ORD10622,2024-09-14,September,9,Q3,Electronics,Smartwatch,Uttar Pradesh,Bareilly,2,4403,30,6164.2,-835.8,Direct,Cash on Delivery,Mobile,0,4,7000
+ORD10623,2024-11-27,November,11,Q4,Electronics,Smartphone,Punjab,Chandigarh,1,19278,0,19278.0,4278.0,Social Media,Debit Card,Desktop,0,4,15000
+ORD10624,2024-10-15,October,10,Q4,Books,UPSC Guide,Kerala,Kochi,1,488,10,439.2,39.2,Paid Ad,Debit Card,Mobile,0,4,400
+ORD10625,2024-04-19,April,4,Q2,Beauty,Moisturiser,Karnataka,Bengaluru,3,385,15,981.75,381.75,Direct,UPI,Desktop,0,3,600
+ORD10626,2024-11-18,November,11,Q4,Fashion,Saree,Uttar Pradesh,Bareilly,1,2055,15,1746.75,546.75,Organic Search,Wallet,Mobile,0,4,1200
+ORD10627,2024-09-26,September,9,Q3,Groceries,Organic Honey,West Bengal,Kolkata,3,312,10,842.4,2.4,Direct,Cash on Delivery,Desktop,0,4,840
+ORD10628,2024-08-25,August,8,Q3,Beauty,Face Serum,West Bengal,Kolkata,2,794,0,1588.0,988.0,Direct,UPI,Desktop,0,5,600
+ORD10629,2024-04-14,April,4,Q2,Groceries,Organic Honey,Maharashtra,Mumbai,1,572,5,543.4,263.4,Direct,Cash on Delivery,Mobile,0,4,280
+ORD10630,2024-03-08,March,3,Q1,Books,UPSC Guide,Rajasthan,Jaipur,1,546,5,518.7,118.7,Organic Search,Credit Card,Desktop,0,4,400
+ORD10631,2024-05-15,May,5,Q2,Fashion,Saree,Telangana,Hyderabad,1,2875,10,2587.5,1387.5,Paid Ad,UPI,Tablet,0,5,1200
+ORD10632,2024-03-30,March,3,Q1,Electronics,Earbuds,Uttar Pradesh,Lucknow,1,1837,5,1745.15,545.15,Organic Search,Cash on Delivery,Mobile,0,5,1200
+ORD10633,2024-06-03,June,6,Q2,Fashion,Jeans,Uttar Pradesh,Lucknow,1,1188,10,1069.2,269.2,Referral,Wallet,Mobile,0,3,800
+ORD10634,2024-02-11,February,2,Q1,Fashion,Saree,Kerala,Kochi,1,2819,25,2114.25,914.25,Email Campaign,Debit Card,Mobile,1,5,1200
+ORD10635,2024-12-10,December,12,Q4,Electronics,Smartwatch,Karnataka,Bengaluru,1,5628,10,5065.2,1565.2,Organic Search,UPI,Mobile,0,5,3500
+ORD10636,2024-02-01,February,2,Q1,Fashion,Kurta Set,Telangana,Hyderabad,5,959,10,4315.5,1315.5,Direct,Debit Card,Mobile,0,1,3000
+ORD10637,2024-05-23,May,5,Q2,Books,Data Science Book,Haryana,Gurugram,1,610,25,457.5,-42.5,Paid Ad,UPI,Mobile,0,5,500
+ORD10638,2024-02-28,February,2,Q1,Groceries,Organic Honey,Karnataka,Bengaluru,2,574,0,1148.0,588.0,Social Media,Debit Card,Tablet,0,5,560
+ORD10639,2024-08-28,August,8,Q3,Fashion,Sneakers,Karnataka,Bengaluru,3,2729,20,6549.6,2049.6,Social Media,UPI,Mobile,0,4,4500
+ORD10640,2024-07-14,July,7,Q3,Electronics,Laptop,Gujarat,Ahmedabad,1,55037,5,52285.15,17285.15,Social Media,Debit Card,Mobile,0,3,35000
+ORD10641,2024-11-09,November,11,Q4,Electronics,Smartwatch,Telangana,Hyderabad,1,6495,0,6495.0,2995.0,Direct,UPI,Desktop,0,4,3500
+ORD10642,2024-12-12,December,12,Q4,Books,UPSC Guide,West Bengal,Kolkata,1,595,20,476.0,76.0,Organic Search,UPI,Mobile,0,3,400
+ORD10643,2024-02-17,February,2,Q1,Fashion,Kurta Set,Tamil Nadu,Chennai,5,892,20,3568.0,568.0,Email Campaign,UPI,Desktop,0,4,3000
+ORD10644,2024-01-16,January,1,Q1,Books,UPSC Guide,Maharashtra,Mumbai,2,650,0,1300.0,500.0,Referral,Wallet,Desktop,0,4,800
+ORD10645,2024-07-11,July,7,Q3,Sports,Dumbbell Set,West Bengal,Kolkata,1,1792,10,1612.8,812.8,Social Media,UPI,Mobile,0,3,800
+ORD10646,2024-01-15,January,1,Q1,Electronics,Smartwatch,Karnataka,Bengaluru,1,4305,5,4089.75,589.75,Paid Ad,Debit Card,Mobile,0,4,3500
+ORD10647,2024-05-12,May,5,Q2,Beauty,Face Serum,Maharashtra,Mumbai,3,527,5,1501.95,601.95,Paid Ad,Credit Card,Desktop,0,5,900
+ORD10648,2024-08-04,August,8,Q3,Fashion,Jeans,Telangana,Hyderabad,1,1592,10,1432.8,632.8,Direct,Debit Card,Mobile,0,5,800
+ORD10649,2024-10-12,October,10,Q4,Groceries,Organic Honey,Delhi,Delhi,3,434,30,911.4,71.4,Direct,Net Banking,Mobile,0,3,840
+ORD10650,2024-04-09,April,4,Q2,Books,Data Science Book,Haryana,Gurugram,2,895,5,1700.5,700.5,Direct,Wallet,Mobile,0,4,1000
+ORD10651,2024-06-28,June,6,Q2,Books,UPSC Guide,Uttar Pradesh,Bareilly,2,598,30,837.2,37.2,Referral,Debit Card,Desktop,0,5,800
+ORD10652,2024-05-25,May,5,Q2,Fashion,Saree,Gujarat,Ahmedabad,1,2176,10,1958.4,758.4,Social Media,Net Banking,Desktop,1,4,1200
+ORD10653,2024-06-10,June,6,Q2,Home & Kitchen,Pressure Cooker,Tamil Nadu,Chennai,2,1304,10,2347.2,747.2,Referral,Wallet,Desktop,0,4,1600
+ORD10654,2024-03-06,March,3,Q1,Sports,Dumbbell Set,Gujarat,Ahmedabad,3,940,25,2115.0,-285.0,Organic Search,UPI,Desktop,1,1,2400
+ORD10655,2024-02-27,February,2,Q1,Books,Data Science Book,Uttar Pradesh,Bareilly,4,605,25,1815.0,-185.0,Paid Ad,UPI,Mobile,0,5,2000
+ORD10656,2024-05-29,May,5,Q2,Fashion,Kurta Set,Punjab,Chandigarh,1,1296,10,1166.4,566.4,Social Media,Cash on Delivery,Mobile,0,5,600
+ORD10657,2024-12-18,December,12,Q4,Fashion,Saree,Kerala,Kochi,1,2806,15,2385.1,1185.1,Social Media,Cash on Delivery,Mobile,0,4,1200
+ORD10658,2024-11-11,November,11,Q4,Electronics,Earbuds,West Bengal,Kolkata,1,2556,25,1917.0,717.0,Referral,UPI,Tablet,0,5,1200
+ORD10659,2024-05-19,May,5,Q2,Electronics,Smartphone,Uttar Pradesh,Bareilly,2,23473,10,42251.4,12251.4,Organic Search,UPI,Mobile,0,3,30000
+ORD10660,2024-07-07,July,7,Q3,Books,Data Science Book,Maharashtra,Mumbai,3,569,30,1194.9,-305.1,Paid Ad,Debit Card,Desktop,0,4,1500
+ORD10661,2024-11-18,November,11,Q4,Electronics,Laptop,Uttar Pradesh,Lucknow,1,55022,30,38515.4,3515.4,Direct,Credit Card,Tablet,0,4,35000
+ORD10662,2024-12-07,December,12,Q4,Electronics,Earbuds,Karnataka,Bengaluru,1,2377,20,1901.6,701.6,Email Campaign,Wallet,Mobile,0,5,1200
+ORD10663,2024-06-01,June,6,Q2,Beauty,Face Serum,Telangana,Hyderabad,2,713,15,1212.1,612.1,Organic Search,Cash on Delivery,Mobile,0,4,600
+ORD10664,2024-04-28,April,4,Q2,Fashion,Sneakers,Madhya Pradesh,Bhopal,4,3810,0,15240.0,9240.0,Referral,UPI,Tablet,0,4,6000
+ORD10665,2024-10-10,October,10,Q4,Books,UPSC Guide,Tamil Nadu,Chennai,3,595,0,1785.0,585.0,Paid Ad,Net Banking,Mobile,0,5,1200
+ORD10666,2024-02-23,February,2,Q1,Beauty,Hair Oil,Madhya Pradesh,Bhopal,1,212,0,212.0,62.0,Organic Search,Net Banking,Mobile,0,4,150
+ORD10667,2024-03-18,March,3,Q1,Beauty,Moisturiser,Tamil Nadu,Chennai,3,551,15,1405.05,805.05,Direct,Credit Card,Mobile,0,5,600
+ORD10668,2024-09-28,September,9,Q3,Home & Kitchen,Bedsheet Set,West Bengal,Kolkata,1,775,20,620.0,220.0,Paid Ad,Cash on Delivery,Mobile,0,4,400
+ORD10669,2024-07-29,July,7,Q3,Groceries,Dry Fruits 500g,Uttar Pradesh,Lucknow,4,626,0,2504.0,1104.0,Social Media,Debit Card,Mobile,0,4,1400
+ORD10670,2024-02-25,February,2,Q1,Beauty,Hair Oil,Rajasthan,Jaipur,3,216,0,648.0,198.0,Referral,Debit Card,Mobile,1,4,450
+ORD10671,2024-09-11,September,9,Q3,Fashion,Kurta Set,Uttar Pradesh,Lucknow,1,1128,25,846.0,246.0,Referral,Credit Card,Desktop,0,1,600
+ORD10672,2024-02-03,February,2,Q1,Fashion,Sneakers,Kerala,Kochi,3,2201,0,6603.0,2103.0,Paid Ad,Wallet,Desktop,0,4,4500
+ORD10673,2024-09-18,September,9,Q3,Fashion,Jeans,Haryana,Gurugram,1,1088,10,979.2,179.2,Paid Ad,Debit Card,Mobile,1,5,800
+ORD10674,2024-06-01,June,6,Q2,Home & Kitchen,Pressure Cooker,Gujarat,Ahmedabad,2,1066,0,2132.0,532.0,Organic Search,Debit Card,Mobile,0,5,1600
+ORD10675,2024-06-07,June,6,Q2,Electronics,Laptop,Uttar Pradesh,Bareilly,2,60944,0,121888.0,51888.0,Direct,Credit Card,Desktop,0,4,70000
+ORD10676,2024-06-12,June,6,Q2,Fashion,Sneakers,Haryana,Gurugram,1,3440,0,3440.0,1940.0,Organic Search,Net Banking,Mobile,0,5,1500
+ORD10677,2024-10-17,October,10,Q4,Electronics,Earbuds,Punjab,Chandigarh,2,1680,10,3024.0,624.0,Email Campaign,UPI,Desktop,0,5,2400
+ORD10678,2024-11-07,November,11,Q4,Groceries,Organic Honey,Karnataka,Bengaluru,1,347,25,260.25,-19.75,Email Campaign,Wallet,Desktop,1,5,280
+ORD10679,2024-07-07,July,7,Q3,Electronics,Laptop,Odisha,Bhubaneswar,2,64917,30,90883.8,20883.8,Social Media,UPI,Desktop,1,4,70000
+ORD10680,2024-07-21,July,7,Q3,Groceries,Organic Honey,Madhya Pradesh,Bhopal,2,537,0,1074.0,514.0,Paid Ad,Cash on Delivery,Mobile,0,5,560
+ORD10681,2024-07-12,July,7,Q3,Fashion,Sneakers,Maharashtra,Mumbai,1,1778,20,1422.4,-77.6,Organic Search,Credit Card,Mobile,0,4,1500
+ORD10682,2024-01-26,January,1,Q1,Groceries,Organic Honey,Haryana,Gurugram,1,560,10,504.0,224.0,Social Media,Net Banking,Mobile,0,4,280
+ORD10683,2024-11-26,November,11,Q4,Electronics,Smartwatch,Maharashtra,Mumbai,1,5795,25,4346.25,846.25,Paid Ad,UPI,Mobile,0,5,3500
+ORD10684,2024-02-28,February,2,Q1,Groceries,Organic Honey,Karnataka,Bengaluru,1,438,15,372.3,92.3,Paid Ad,Cash on Delivery,Desktop,0,2,280
+ORD10685,2024-09-18,September,9,Q3,Home & Kitchen,Bedsheet Set,Telangana,Hyderabad,3,453,0,1359.0,159.0,Organic Search,Cash on Delivery,Mobile,0,4,1200
+ORD10686,2024-01-23,January,1,Q1,Electronics,Earbuds,Rajasthan,Jaipur,2,1463,20,2340.8,-59.2,Referral,UPI,Mobile,0,4,2400
+ORD10687,2024-02-28,February,2,Q1,Home & Kitchen,Bedsheet Set,Odisha,Bhubaneswar,2,500,20,800.0,0.0,Referral,Credit Card,Mobile,0,4,800
+ORD10688,2024-03-11,March,3,Q1,Books,UPSC Guide,Rajasthan,Jaipur,3,540,10,1458.0,258.0,Organic Search,UPI,Mobile,0,5,1200
+ORD10689,2024-10-14,October,10,Q4,Fashion,Saree,Punjab,Chandigarh,4,3017,0,12068.0,7268.0,Paid Ad,Debit Card,Desktop,0,5,4800
+ORD10690,2024-05-23,May,5,Q2,Books,UPSC Guide,Punjab,Chandigarh,2,451,15,766.7,-33.3,Direct,UPI,Desktop,0,5,800
+ORD10691,2024-06-14,June,6,Q2,Electronics,Laptop,West Bengal,Kolkata,5,45998,30,160993.0,-14007.0,Organic Search,UPI,Mobile,1,4,175000
+ORD10692,2024-04-08,April,4,Q2,Sports,Dumbbell Set,Uttar Pradesh,Bareilly,1,1954,10,1758.6,958.6,Organic Search,UPI,Tablet,0,5,800
+ORD10693,2024-11-04,November,11,Q4,Electronics,Smartwatch,Uttar Pradesh,Bareilly,3,4405,20,10572.0,72.0,Social Media,Wallet,Mobile,0,4,10500
+ORD10694,2024-12-03,December,12,Q4,Home & Kitchen,Air Fryer,Kerala,Kochi,1,2942,10,2647.8,147.8,Paid Ad,Debit Card,Mobile,0,5,2500
+ORD10695,2024-12-24,December,12,Q4,Books,UPSC Guide,Gujarat,Ahmedabad,2,588,10,1058.4,258.4,Direct,Net Banking,Mobile,0,5,800
+ORD10696,2024-08-22,August,8,Q3,Fashion,Saree,Delhi,Delhi,1,2141,15,1819.85,619.85,Organic Search,Credit Card,Mobile,0,4,1200
+ORD10697,2024-01-28,January,1,Q1,Fashion,Saree,Madhya Pradesh,Bhopal,4,3397,20,10870.4,6070.4,Organic Search,UPI,Desktop,0,4,4800
+ORD10698,2024-10-22,October,10,Q4,Electronics,Smartwatch,West Bengal,Kolkata,2,7384,15,12552.8,5552.8,Direct,UPI,Mobile,0,4,7000
+ORD10699,2024-02-09,February,2,Q1,Fashion,Sneakers,Odisha,Bhubaneswar,1,2261,20,1808.8,308.8,Direct,UPI,Mobile,0,5,1500
+ORD10700,2024-05-17,May,5,Q2,Sports,Dumbbell Set,Tamil Nadu,Chennai,1,1222,30,855.4,55.4,Social Media,Credit Card,Desktop,0,3,800
+ORD10701,2024-07-04,July,7,Q3,Fashion,Sneakers,Madhya Pradesh,Bhopal,1,2219,10,1997.1,497.1,Email Campaign,Net Banking,Desktop,0,3,1500
+ORD10702,2024-06-02,June,6,Q2,Beauty,Hair Oil,Odisha,Bhubaneswar,4,186,20,595.2,-4.8,Paid Ad,UPI,Desktop,0,4,600
+ORD10703,2024-11-08,November,11,Q4,Home & Kitchen,Air Fryer,Uttar Pradesh,Bareilly,2,3973,15,6754.1,1754.1,Social Media,UPI,Mobile,0,5,5000
+ORD10704,2024-04-10,April,4,Q2,Home & Kitchen,Bedsheet Set,Madhya Pradesh,Bhopal,2,646,15,1098.2,298.2,Organic Search,Net Banking,Mobile,0,4,800
+ORD10705,2024-02-08,February,2,Q1,Beauty,Moisturiser,Maharashtra,Mumbai,1,294,0,294.0,94.0,Direct,Net Banking,Mobile,0,4,200
+ORD10706,2024-08-11,August,8,Q3,Groceries,Organic Honey,Rajasthan,Jaipur,2,314,0,628.0,68.0,Organic Search,Cash on Delivery,Mobile,0,4,560
+ORD10707,2024-09-19,September,9,Q3,Beauty,Hair Oil,Telangana,Hyderabad,3,265,10,715.5,265.5,Paid Ad,Debit Card,Desktop,0,4,450
+ORD10708,2024-05-31,May,5,Q2,Electronics,Earbuds,West Bengal,Kolkata,1,2498,5,2373.1,1173.1,Paid Ad,Credit Card,Mobile,1,3,1200
+ORD10709,2024-11-02,November,11,Q4,Electronics,Smartphone,Haryana,Gurugram,5,22402,15,95208.5,20208.5,Paid Ad,Credit Card,Desktop,0,4,75000
+ORD10710,2024-11-18,November,11,Q4,Books,UPSC Guide,Haryana,Gurugram,4,492,20,1574.4,-25.6,Direct,Debit Card,Desktop,0,4,1600
+ORD10711,2024-08-10,August,8,Q3,Fashion,Kurta Set,Punjab,Chandigarh,1,1090,0,1090.0,490.0,Direct,Credit Card,Mobile,0,4,600
+ORD10712,2024-01-29,January,1,Q1,Home & Kitchen,Pressure Cooker,Karnataka,Bengaluru,5,1665,30,5827.5,1827.5,Referral,Net Banking,Desktop,0,5,4000
+ORD10713,2024-02-28,February,2,Q1,Sports,Dumbbell Set,West Bengal,Kolkata,2,1430,10,2574.0,974.0,Social Media,Cash on Delivery,Desktop,0,4,1600
+ORD10714,2024-09-12,September,9,Q3,Beauty,Face Serum,Maharashtra,Mumbai,5,494,0,2470.0,970.0,Email Campaign,UPI,Desktop,0,5,1500
+ORD10715,2024-12-30,December,12,Q4,Sports,Yoga Mat,Karnataka,Bengaluru,4,537,5,2040.6,440.6,Email Campaign,Debit Card,Tablet,0,3,1600
+ORD10716,2024-07-05,July,7,Q3,Electronics,Earbuds,Kerala,Kochi,2,2399,5,4558.1,2158.1,Email Campaign,UPI,Desktop,0,2,2400
+ORD10717,2024-06-19,June,6,Q2,Home & Kitchen,Bedsheet Set,Delhi,Delhi,2,972,0,1944.0,1144.0,Referral,Wallet,Desktop,1,4,800
+ORD10718,2024-08-02,August,8,Q3,Groceries,Dry Fruits 500g,Maharashtra,Mumbai,3,614,20,1473.6,423.6,Email Campaign,Wallet,Mobile,1,4,1050
+ORD10719,2024-12-17,December,12,Q4,Electronics,Earbuds,Gujarat,Ahmedabad,2,2570,20,4112.0,1712.0,Social Media,Cash on Delivery,Mobile,1,4,2400
+ORD10720,2024-06-15,June,6,Q2,Fashion,Jeans,Haryana,Gurugram,3,1233,10,3329.1,929.1,Email Campaign,Debit Card,Mobile,0,3,2400
+ORD10721,2024-09-06,September,9,Q3,Electronics,Smartwatch,Gujarat,Ahmedabad,1,6545,20,5236.0,1736.0,Referral,Credit Card,Mobile,0,4,3500
+ORD10722,2024-05-14,May,5,Q2,Fashion,Saree,West Bengal,Kolkata,4,2224,0,8896.0,4096.0,Email Campaign,Debit Card,Mobile,0,5,4800
+ORD10723,2024-10-07,October,10,Q4,Home & Kitchen,Air Fryer,Punjab,Chandigarh,3,5220,10,14094.0,6594.0,Paid Ad,Credit Card,Desktop,0,4,7500
+ORD10724,2024-06-18,June,6,Q2,Books,UPSC Guide,Punjab,Chandigarh,1,650,20,520.0,120.0,Referral,UPI,Desktop,0,4,400
+ORD10725,2024-01-11,January,1,Q1,Home & Kitchen,Pressure Cooker,Uttar Pradesh,Bareilly,1,1163,15,988.55,188.55,Referral,Credit Card,Mobile,0,3,800
+ORD10726,2024-12-06,December,12,Q4,Fashion,Sneakers,Maharashtra,Mumbai,2,1917,20,3067.2,67.2,Social Media,UPI,Mobile,0,5,3000
+ORD10727,2024-06-07,June,6,Q2,Fashion,Jeans,Kerala,Kochi,5,1206,10,5427.0,1427.0,Email Campaign,Wallet,Mobile,0,3,4000
+ORD10728,2024-05-14,May,5,Q2,Beauty,Moisturiser,Kerala,Kochi,1,458,25,343.5,143.5,Referral,Debit Card,Mobile,0,5,200
+ORD10729,2024-05-02,May,5,Q2,Home & Kitchen,Bedsheet Set,West Bengal,Kolkata,1,925,30,647.5,247.5,Direct,Credit Card,Desktop,1,3,400
+ORD10730,2024-02-02,February,2,Q1,Fashion,Kurta Set,Telangana,Hyderabad,2,1247,20,1995.2,795.2,Paid Ad,Net Banking,Mobile,0,3,1200
+ORD10731,2024-09-09,September,9,Q3,Sports,Yoga Mat,Haryana,Gurugram,1,675,10,607.5,207.5,Referral,Debit Card,Desktop,0,4,400
+ORD10732,2024-06-19,June,6,Q2,Groceries,Organic Honey,Odisha,Bhubaneswar,1,447,0,447.0,167.0,Social Media,Debit Card,Mobile,0,5,280
+ORD10733,2024-01-03,January,1,Q1,Fashion,Saree,Uttar Pradesh,Bareilly,1,2178,25,1633.5,433.5,Paid Ad,UPI,Mobile,0,3,1200
+ORD10734,2024-04-01,April,4,Q2,Electronics,Smartwatch,Delhi,Delhi,1,5678,5,5394.1,1894.1,Direct,Debit Card,Mobile,0,5,3500
+ORD10735,2024-05-01,May,5,Q2,Fashion,Sneakers,Tamil Nadu,Chennai,1,2940,5,2793.0,1293.0,Direct,Cash on Delivery,Mobile,0,4,1500
+ORD10736,2024-06-10,June,6,Q2,Beauty,Moisturiser,Maharashtra,Mumbai,3,542,10,1463.4,863.4,Direct,UPI,Desktop,0,4,600
+ORD10737,2024-11-11,November,11,Q4,Beauty,Face Serum,Uttar Pradesh,Bareilly,4,711,15,2417.4,1217.4,Direct,Net Banking,Mobile,0,4,1200
+ORD10738,2024-12-06,December,12,Q4,Electronics,Laptop,Punjab,Chandigarh,3,51256,20,123014.4,18014.4,Paid Ad,Debit Card,Mobile,0,3,105000
+ORD10739,2024-12-21,December,12,Q4,Beauty,Hair Oil,Kerala,Kochi,3,297,10,801.9,351.9,Referral,UPI,Tablet,0,5,450
+ORD10740,2024-03-08,March,3,Q1,Fashion,Saree,Uttar Pradesh,Bareilly,1,2720,25,2040.0,840.0,Referral,Credit Card,Mobile,0,5,1200
+ORD10741,2024-02-07,February,2,Q1,Fashion,Kurta Set,Maharashtra,Mumbai,3,1272,10,3434.4,1634.4,Email Campaign,Debit Card,Mobile,0,5,1800
+ORD10742,2024-04-15,April,4,Q2,Sports,Dumbbell Set,Punjab,Chandigarh,2,2018,10,3632.4,2032.4,Paid Ad,Credit Card,Mobile,0,4,1600
+ORD10743,2024-09-14,September,9,Q3,Beauty,Hair Oil,Karnataka,Bengaluru,2,337,0,674.0,374.0,Organic Search,Credit Card,Desktop,0,3,300
+ORD10744,2024-08-21,August,8,Q3,Sports,Yoga Mat,Tamil Nadu,Chennai,1,805,10,724.5,324.5,Email Campaign,UPI,Desktop,0,4,400
+ORD10745,2024-02-19,February,2,Q1,Sports,Yoga Mat,Punjab,Chandigarh,3,454,15,1157.7,-42.3,Referral,Net Banking,Desktop,0,4,1200
+ORD10746,2024-02-14,February,2,Q1,Electronics,Smartphone,Rajasthan,Jaipur,2,17857,20,28571.2,-1428.8,Email Campaign,Net Banking,Mobile,0,5,30000
+ORD10747,2024-04-24,April,4,Q2,Beauty,Face Serum,Madhya Pradesh,Bhopal,4,484,0,1936.0,736.0,Direct,Cash on Delivery,Desktop,0,4,1200
+ORD10748,2024-10-25,October,10,Q4,Groceries,Dry Fruits 500g,Gujarat,Ahmedabad,1,671,30,469.7,119.7,Organic Search,Net Banking,Mobile,0,5,350
+ORD10749,2024-02-04,February,2,Q1,Groceries,Dry Fruits 500g,Madhya Pradesh,Bhopal,1,440,10,396.0,46.0,Direct,UPI,Desktop,0,4,350
+ORD10750,2024-03-30,March,3,Q1,Sports,Yoga Mat,Maharashtra,Mumbai,2,628,15,1067.6,267.6,Social Media,Debit Card,Mobile,0,2,800
+ORD10751,2024-01-19,January,1,Q1,Sports,Yoga Mat,Delhi,Delhi,3,628,10,1695.6,495.6,Paid Ad,Debit Card,Tablet,0,5,1200
+ORD10752,2024-12-18,December,12,Q4,Electronics,Smartwatch,Odisha,Bhubaneswar,1,4817,20,3853.6,353.6,Email Campaign,Debit Card,Tablet,0,4,3500
+ORD10753,2024-11-04,November,11,Q4,Beauty,Face Serum,Kerala,Kochi,1,439,10,395.1,95.1,Email Campaign,UPI,Desktop,1,5,300
+ORD10754,2024-03-03,March,3,Q1,Home & Kitchen,Air Fryer,West Bengal,Kolkata,2,5378,10,9680.4,4680.4,Paid Ad,Net Banking,Mobile,0,4,5000
+ORD10755,2024-07-12,July,7,Q3,Electronics,Smartwatch,Madhya Pradesh,Bhopal,3,5275,0,15825.0,5325.0,Paid Ad,Net Banking,Desktop,1,5,10500
+ORD10756,2024-08-05,August,8,Q3,Books,Data Science Book,Uttar Pradesh,Bareilly,1,708,10,637.2,137.2,Social Media,UPI,Mobile,0,2,500
+ORD10757,2024-07-14,July,7,Q3,Groceries,Organic Honey,Telangana,Hyderabad,2,318,0,636.0,76.0,Organic Search,Debit Card,Mobile,0,4,560
+ORD10758,2024-10-06,October,10,Q4,Electronics,Smartwatch,Telangana,Hyderabad,1,7257,10,6531.3,3031.3,Direct,Debit Card,Mobile,0,3,3500
+ORD10759,2024-02-18,February,2,Q1,Sports,Dumbbell Set,Maharashtra,Mumbai,3,961,20,2306.4,-93.6,Paid Ad,Net Banking,Mobile,0,5,2400
+ORD10760,2024-01-14,January,1,Q1,Home & Kitchen,Pressure Cooker,Gujarat,Ahmedabad,2,1866,5,3545.4,1945.4,Social Media,UPI,Mobile,0,5,1600
+ORD10761,2024-11-26,November,11,Q4,Books,UPSC Guide,Madhya Pradesh,Bhopal,2,514,0,1028.0,228.0,Organic Search,Debit Card,Mobile,0,2,800
+ORD10762,2024-11-30,November,11,Q4,Electronics,Smartwatch,Maharashtra,Mumbai,1,4955,15,4211.75,711.75,Direct,UPI,Mobile,0,5,3500
+ORD10763,2024-10-10,October,10,Q4,Electronics,Smartwatch,West Bengal,Kolkata,2,4457,10,8022.6,1022.6,Paid Ad,Debit Card,Mobile,0,3,7000
+ORD10764,2024-09-29,September,9,Q3,Home & Kitchen,Air Fryer,Haryana,Gurugram,4,2914,15,9907.6,-92.4,Direct,Cash on Delivery,Mobile,0,5,10000
+ORD10765,2024-05-24,May,5,Q2,Home & Kitchen,Air Fryer,Rajasthan,Jaipur,1,5272,5,5008.4,2508.4,Direct,Debit Card,Mobile,0,4,2500
+ORD10766,2024-10-03,October,10,Q4,Groceries,Organic Honey,Gujarat,Ahmedabad,2,405,20,648.0,88.0,Paid Ad,UPI,Mobile,0,5,560
+ORD10767,2024-03-20,March,3,Q1,Beauty,Moisturiser,Maharashtra,Mumbai,4,401,15,1363.4,563.4,Paid Ad,Credit Card,Desktop,0,4,800
+ORD10768,2024-03-01,March,3,Q1,Books,Data Science Book,Karnataka,Bengaluru,1,873,0,873.0,373.0,Social Media,Credit Card,Desktop,0,5,500
+ORD10769,2024-03-28,March,3,Q1,Books,Data Science Book,Madhya Pradesh,Bhopal,1,571,10,513.9,13.9,Direct,Cash on Delivery,Desktop,0,4,500
+ORD10770,2024-07-24,July,7,Q3,Home & Kitchen,Air Fryer,Haryana,Gurugram,4,3394,5,12897.2,2897.2,Email Campaign,UPI,Mobile,0,4,10000
+ORD10771,2024-05-17,May,5,Q2,Electronics,Earbuds,Uttar Pradesh,Bareilly,2,1969,20,3150.4,750.4,Social Media,UPI,Mobile,0,5,2400
+ORD10772,2024-04-23,April,4,Q2,Electronics,Smartphone,Uttar Pradesh,Bareilly,2,19859,25,29788.5,-211.5,Paid Ad,UPI,Mobile,1,5,30000
+ORD10773,2024-02-13,February,2,Q1,Beauty,Face Serum,West Bengal,Kolkata,4,852,0,3408.0,2208.0,Email Campaign,Net Banking,Desktop,0,5,1200
+ORD10774,2024-04-07,April,4,Q2,Sports,Yoga Mat,Telangana,Hyderabad,3,991,10,2675.7,1475.7,Referral,Credit Card,Desktop,0,5,1200
+ORD10775,2024-04-10,April,4,Q2,Fashion,Sneakers,Uttar Pradesh,Lucknow,1,1962,30,1373.4,-126.6,Referral,Credit Card,Mobile,0,5,1500
+ORD10776,2024-10-21,October,10,Q4,Beauty,Moisturiser,Odisha,Bhubaneswar,1,570,0,570.0,370.0,Paid Ad,Debit Card,Mobile,1,3,200
+ORD10777,2024-04-30,April,4,Q2,Electronics,Laptop,West Bengal,Kolkata,1,64264,15,54624.4,19624.4,Organic Search,UPI,Mobile,0,4,35000
+ORD10778,2024-09-24,September,9,Q3,Electronics,Smartphone,Karnataka,Bengaluru,2,19523,10,35141.4,5141.4,Referral,Credit Card,Mobile,0,3,30000
+ORD10779,2024-03-26,March,3,Q1,Beauty,Moisturiser,Gujarat,Ahmedabad,1,443,5,420.85,220.85,Organic Search,Credit Card,Mobile,0,5,200
+ORD10780,2024-06-22,June,6,Q2,Electronics,Laptop,Gujarat,Ahmedabad,1,60454,0,60454.0,25454.0,Paid Ad,Credit Card,Mobile,1,2,35000
+ORD10781,2024-12-07,December,12,Q4,Books,Data Science Book,Rajasthan,Jaipur,2,889,0,1778.0,778.0,Social Media,Credit Card,Desktop,0,3,1000
+ORD10782,2024-09-19,September,9,Q3,Home & Kitchen,Pressure Cooker,Maharashtra,Mumbai,3,940,15,2397.0,-3.0,Email Campaign,Debit Card,Mobile,0,3,2400
+ORD10783,2024-12-09,December,12,Q4,Electronics,Laptop,Gujarat,Ahmedabad,1,39936,10,35942.4,942.4,Direct,UPI,Mobile,0,4,35000
+ORD10784,2024-06-16,June,6,Q2,Beauty,Moisturiser,Tamil Nadu,Chennai,4,235,30,658.0,-142.0,Direct,UPI,Mobile,1,4,800
+ORD10785,2024-03-18,March,3,Q1,Fashion,Saree,West Bengal,Kolkata,1,3214,5,3053.3,1853.3,Email Campaign,UPI,Tablet,1,4,1200
+ORD10786,2024-11-21,November,11,Q4,Groceries,Organic Honey,Gujarat,Ahmedabad,1,560,10,504.0,224.0,Social Media,Wallet,Desktop,0,4,280
+ORD10787,2024-06-05,June,6,Q2,Fashion,Saree,Odisha,Bhubaneswar,3,3022,20,7252.8,3652.8,Social Media,Wallet,Mobile,1,3,3600
+ORD10788,2024-04-17,April,4,Q2,Sports,Yoga Mat,Odisha,Bhubaneswar,1,751,20,600.8,200.8,Paid Ad,Net Banking,Mobile,0,5,400
+ORD10789,2024-02-09,February,2,Q1,Home & Kitchen,Bedsheet Set,Punjab,Chandigarh,1,570,20,456.0,56.0,Email Campaign,Debit Card,Mobile,0,2,400
+ORD10790,2024-04-07,April,4,Q2,Electronics,Smartphone,Haryana,Gurugram,1,23480,10,21132.0,6132.0,Direct,Cash on Delivery,Mobile,0,3,15000
+ORD10791,2024-01-31,January,1,Q1,Electronics,Smartwatch,Odisha,Bhubaneswar,2,4948,10,8906.4,1906.4,Paid Ad,Credit Card,Mobile,0,4,7000
+ORD10792,2024-06-10,June,6,Q2,Fashion,Kurta Set,Delhi,Delhi,1,828,15,703.8,103.8,Referral,UPI,Mobile,0,5,600
+ORD10793,2024-12-17,December,12,Q4,Home & Kitchen,Pressure Cooker,West Bengal,Kolkata,1,1167,15,991.95,191.95,Paid Ad,Credit Card,Desktop,1,4,800
+ORD10794,2024-12-07,December,12,Q4,Beauty,Moisturiser,Karnataka,Bengaluru,2,343,20,548.8,148.8,Referral,UPI,Desktop,1,4,400
+ORD10795,2024-09-17,September,9,Q3,Electronics,Smartphone,Madhya Pradesh,Bhopal,5,24931,5,118422.25,43422.25,Social Media,Net Banking,Mobile,0,5,75000
+ORD10796,2024-10-20,October,10,Q4,Fashion,Jeans,Kerala,Kochi,4,1107,0,4428.0,1228.0,Referral,Net Banking,Mobile,0,5,3200
+ORD10797,2024-07-05,July,7,Q3,Home & Kitchen,Air Fryer,West Bengal,Kolkata,1,4165,10,3748.5,1248.5,Paid Ad,UPI,Mobile,0,4,2500
+ORD10798,2024-11-10,November,11,Q4,Home & Kitchen,Air Fryer,Karnataka,Bengaluru,3,3845,10,10381.5,2881.5,Direct,UPI,Mobile,0,5,7500
+ORD10799,2024-02-29,February,2,Q1,Beauty,Moisturiser,Uttar Pradesh,Bareilly,2,285,25,427.5,27.5,Direct,Debit Card,Mobile,1,4,400
+ORD10800,2024-05-17,May,5,Q2,Sports,Yoga Mat,Delhi,Delhi,4,474,15,1611.6,11.6,Email Campaign,Debit Card,Mobile,0,4,1600
+ORD10801,2024-12-24,December,12,Q4,Groceries,Dry Fruits 500g,West Bengal,Kolkata,2,682,5,1295.8,595.8,Paid Ad,Net Banking,Desktop,0,5,700
+ORD10802,2024-02-27,February,2,Q1,Books,Data Science Book,Punjab,Chandigarh,1,654,0,654.0,154.0,Organic Search,UPI,Mobile,0,5,500
+ORD10803,2024-03-12,March,3,Q1,Beauty,Hair Oil,Uttar Pradesh,Bareilly,1,200,5,190.0,40.0,Direct,Credit Card,Desktop,0,4,150
+ORD10804,2024-11-15,November,11,Q4,Home & Kitchen,Air Fryer,Madhya Pradesh,Bhopal,1,4900,0,4900.0,2400.0,Social Media,Credit Card,Mobile,0,5,2500
+ORD10805,2024-05-12,May,5,Q2,Electronics,Smartphone,Tamil Nadu,Chennai,2,23151,20,37041.6,7041.6,Paid Ad,Debit Card,Mobile,0,5,30000
+ORD10806,2024-05-03,May,5,Q2,Home & Kitchen,Air Fryer,Punjab,Chandigarh,2,2831,0,5662.0,662.0,Paid Ad,UPI,Mobile,0,4,5000
+ORD10807,2024-06-21,June,6,Q2,Fashion,Sneakers,Uttar Pradesh,Lucknow,2,3100,0,6200.0,3200.0,Direct,UPI,Mobile,0,3,3000
+ORD10808,2024-12-25,December,12,Q4,Home & Kitchen,Air Fryer,Maharashtra,Mumbai,1,3848,20,3078.4,578.4,Paid Ad,UPI,Mobile,0,2,2500
+ORD10809,2024-12-21,December,12,Q4,Electronics,Smartphone,Uttar Pradesh,Bareilly,2,18586,25,27879.0,-2121.0,Email Campaign,Debit Card,Mobile,0,2,30000
+ORD10810,2024-11-06,November,11,Q4,Beauty,Hair Oil,Madhya Pradesh,Bhopal,1,300,15,255.0,105.0,Referral,Net Banking,Mobile,0,4,150
+ORD10811,2024-12-23,December,12,Q4,Home & Kitchen,Bedsheet Set,Tamil Nadu,Chennai,3,993,15,2532.15,1332.15,Social Media,Credit Card,Mobile,0,5,1200
+ORD10812,2024-07-18,July,7,Q3,Groceries,Dry Fruits 500g,Uttar Pradesh,Lucknow,2,410,5,779.0,79.0,Direct,Debit Card,Mobile,0,2,700
+ORD10813,2024-08-08,August,8,Q3,Groceries,Dry Fruits 500g,Delhi,Delhi,3,435,5,1239.75,189.75,Direct,Net Banking,Mobile,0,5,1050
+ORD10814,2024-11-03,November,11,Q4,Groceries,Organic Honey,Odisha,Bhubaneswar,3,505,0,1515.0,675.0,Organic Search,UPI,Desktop,0,4,840
+ORD10815,2024-02-25,February,2,Q1,Beauty,Moisturiser,Uttar Pradesh,Lucknow,3,593,10,1601.1,1001.1,Social Media,UPI,Mobile,1,2,600
+ORD10816,2024-05-07,May,5,Q2,Home & Kitchen,Pressure Cooker,Gujarat,Ahmedabad,1,1979,0,1979.0,1179.0,Direct,UPI,Mobile,1,5,800
+ORD10817,2024-09-14,September,9,Q3,Sports,Yoga Mat,Tamil Nadu,Chennai,1,954,30,667.8,267.8,Referral,Credit Card,Desktop,0,4,400
+ORD10818,2024-05-19,May,5,Q2,Home & Kitchen,Pressure Cooker,Odisha,Bhubaneswar,4,972,15,3304.8,104.8,Referral,Debit Card,Mobile,0,4,3200
+ORD10819,2024-01-09,January,1,Q1,Beauty,Hair Oil,Kerala,Kochi,2,239,15,406.3,106.3,Social Media,Net Banking,Mobile,1,5,300
+ORD10820,2024-07-09,July,7,Q3,Beauty,Moisturiser,Gujarat,Ahmedabad,4,521,0,2084.0,1284.0,Referral,Cash on Delivery,Mobile,1,5,800
+ORD10821,2024-06-20,June,6,Q2,Fashion,Kurta Set,Maharashtra,Mumbai,3,1099,0,3297.0,1497.0,Email Campaign,UPI,Mobile,0,5,1800
+ORD10822,2024-08-07,August,8,Q3,Books,UPSC Guide,Delhi,Delhi,1,625,5,593.75,193.75,Direct,Cash on Delivery,Mobile,0,4,400
+ORD10823,2024-01-06,January,1,Q1,Beauty,Moisturiser,Haryana,Gurugram,2,395,0,790.0,390.0,Referral,Wallet,Mobile,0,5,400
+ORD10824,2024-11-08,November,11,Q4,Beauty,Face Serum,Maharashtra,Mumbai,1,874,20,699.2,399.2,Referral,Debit Card,Desktop,0,3,300
+ORD10825,2024-10-10,October,10,Q4,Home & Kitchen,Bedsheet Set,Gujarat,Ahmedabad,4,1002,15,3406.8,1806.8,Social Media,Debit Card,Desktop,1,4,1600
+ORD10826,2024-04-17,April,4,Q2,Books,UPSC Guide,Maharashtra,Mumbai,5,580,5,2755.0,755.0,Organic Search,UPI,Desktop,0,5,2000
+ORD10827,2024-07-18,July,7,Q3,Fashion,Sneakers,Rajasthan,Jaipur,1,3506,10,3155.4,1655.4,Direct,UPI,Tablet,0,4,1500
+ORD10828,2024-09-20,September,9,Q3,Electronics,Smartwatch,Tamil Nadu,Chennai,2,6938,5,13182.2,6182.2,Direct,Net Banking,Mobile,0,4,7000
+ORD10829,2024-01-31,January,1,Q1,Groceries,Organic Honey,Uttar Pradesh,Bareilly,3,308,15,785.4,-54.6,Email Campaign,Credit Card,Mobile,0,3,840
+ORD10830,2024-10-17,October,10,Q4,Books,Data Science Book,Uttar Pradesh,Lucknow,1,839,5,797.05,297.05,Email Campaign,Debit Card,Mobile,1,5,500
+ORD10831,2024-12-23,December,12,Q4,Beauty,Face Serum,Haryana,Gurugram,1,343,5,325.85,25.85,Direct,UPI,Mobile,0,5,300
+ORD10832,2024-05-16,May,5,Q2,Beauty,Moisturiser,Tamil Nadu,Chennai,1,315,0,315.0,115.0,Email Campaign,Credit Card,Mobile,1,4,200
+ORD10833,2024-08-03,August,8,Q3,Electronics,Smartphone,Odisha,Bhubaneswar,2,25028,10,45050.4,15050.4,Paid Ad,UPI,Desktop,0,5,30000
+ORD10834,2024-05-25,May,5,Q2,Groceries,Dry Fruits 500g,Odisha,Bhubaneswar,2,445,0,890.0,190.0,Paid Ad,Credit Card,Desktop,0,4,700
+ORD10835,2024-11-04,November,11,Q4,Books,Data Science Book,Delhi,Delhi,5,681,20,2724.0,224.0,Social Media,Cash on Delivery,Mobile,1,5,2500
+ORD10836,2024-12-23,December,12,Q4,Fashion,Jeans,Telangana,Hyderabad,2,1378,5,2618.2,1018.2,Paid Ad,Debit Card,Desktop,0,5,1600
+ORD10837,2024-11-24,November,11,Q4,Home & Kitchen,Pressure Cooker,Delhi,Delhi,3,1251,25,2814.75,414.75,Direct,Debit Card,Mobile,0,4,2400
+ORD10838,2024-10-19,October,10,Q4,Beauty,Face Serum,Odisha,Bhubaneswar,1,612,0,612.0,312.0,Referral,Net Banking,Mobile,0,4,300
+ORD10839,2024-09-17,September,9,Q3,Electronics,Smartphone,Madhya Pradesh,Bhopal,5,26292,5,124887.0,49887.0,Social Media,UPI,Mobile,0,4,75000
+ORD10840,2024-02-29,February,2,Q1,Beauty,Hair Oil,Maharashtra,Mumbai,3,225,20,540.0,90.0,Direct,UPI,Mobile,0,5,450
+ORD10841,2024-03-23,March,3,Q1,Sports,Dumbbell Set,Karnataka,Bengaluru,1,1470,0,1470.0,670.0,Social Media,Cash on Delivery,Desktop,0,5,800
+ORD10842,2024-09-26,September,9,Q3,Beauty,Hair Oil,Uttar Pradesh,Lucknow,2,334,5,634.6,334.6,Email Campaign,Debit Card,Mobile,0,4,300
+ORD10843,2024-03-31,March,3,Q1,Books,UPSC Guide,Gujarat,Ahmedabad,1,534,0,534.0,134.0,Paid Ad,Credit Card,Mobile,0,4,400
+ORD10844,2024-04-15,April,4,Q2,Groceries,Organic Honey,Maharashtra,Mumbai,1,492,5,467.4,187.4,Direct,Debit Card,Mobile,0,5,280
+ORD10845,2024-07-04,July,7,Q3,Fashion,Saree,Tamil Nadu,Chennai,2,1327,0,2654.0,254.0,Referral,UPI,Mobile,0,4,2400
+ORD10846,2024-08-31,August,8,Q3,Beauty,Hair Oil,Haryana,Gurugram,2,273,15,464.1,164.1,Paid Ad,Credit Card,Mobile,0,5,300
+ORD10847,2024-10-08,October,10,Q4,Beauty,Face Serum,Gujarat,Ahmedabad,5,382,0,1910.0,410.0,Direct,Debit Card,Mobile,0,4,1500
+ORD10848,2024-04-10,April,4,Q2,Fashion,Kurta Set,Madhya Pradesh,Bhopal,5,963,15,4092.75,1092.75,Referral,UPI,Mobile,0,5,3000
+ORD10849,2024-05-13,May,5,Q2,Groceries,Organic Honey,Karnataka,Bengaluru,3,496,30,1041.6,201.6,Email Campaign,Debit Card,Mobile,0,4,840
+ORD10850,2024-08-23,August,8,Q3,Beauty,Hair Oil,Punjab,Chandigarh,2,191,10,343.8,43.8,Referral,UPI,Desktop,0,5,300
+ORD10851,2024-04-08,April,4,Q2,Fashion,Saree,Maharashtra,Mumbai,1,2144,25,1608.0,408.0,Organic Search,Credit Card,Mobile,0,5,1200
+ORD10852,2024-09-09,September,9,Q3,Groceries,Organic Honey,Tamil Nadu,Chennai,2,547,0,1094.0,534.0,Social Media,Net Banking,Mobile,0,4,560
+ORD10853,2024-12-17,December,12,Q4,Fashion,Sneakers,Karnataka,Bengaluru,1,2319,15,1971.15,471.15,Email Campaign,Debit Card,Mobile,0,3,1500
+ORD10854,2024-05-30,May,5,Q2,Beauty,Face Serum,Maharashtra,Mumbai,1,625,10,562.5,262.5,Direct,Debit Card,Mobile,1,4,300
+ORD10855,2024-07-13,July,7,Q3,Books,UPSC Guide,Maharashtra,Mumbai,1,451,20,360.8,-39.2,Email Campaign,UPI,Mobile,0,5,400
+ORD10856,2024-08-09,August,8,Q3,Home & Kitchen,Air Fryer,Tamil Nadu,Chennai,1,4039,25,3029.25,529.25,Referral,Debit Card,Desktop,0,4,2500
+ORD10857,2024-12-11,December,12,Q4,Beauty,Face Serum,Tamil Nadu,Chennai,4,547,15,1859.8,659.8,Referral,Credit Card,Mobile,0,5,1200
+ORD10858,2024-02-29,February,2,Q1,Electronics,Smartwatch,Maharashtra,Mumbai,2,5888,10,10598.4,3598.4,Referral,UPI,Mobile,0,4,7000
+ORD10859,2024-12-14,December,12,Q4,Groceries,Dry Fruits 500g,Telangana,Hyderabad,1,561,10,504.9,154.9,Social Media,UPI,Mobile,0,4,350
+ORD10860,2024-08-12,August,8,Q3,Fashion,Saree,Delhi,Delhi,1,3093,10,2783.7,1583.7,Social Media,Debit Card,Desktop,0,4,1200
+ORD10861,2024-07-21,July,7,Q3,Fashion,Kurta Set,West Bengal,Kolkata,4,865,5,3287.0,887.0,Direct,UPI,Desktop,0,5,2400
+ORD10862,2024-01-19,January,1,Q1,Beauty,Hair Oil,Maharashtra,Mumbai,2,180,10,324.0,24.0,Paid Ad,Credit Card,Mobile,1,5,300
+ORD10863,2024-03-03,March,3,Q1,Home & Kitchen,Pressure Cooker,Rajasthan,Jaipur,2,1885,0,3770.0,2170.0,Organic Search,Wallet,Mobile,0,5,1600
+ORD10864,2024-05-30,May,5,Q2,Electronics,Smartwatch,Haryana,Gurugram,1,5622,20,4497.6,997.6,Direct,Credit Card,Mobile,0,4,3500
+ORD10865,2024-11-16,November,11,Q4,Sports,Yoga Mat,Uttar Pradesh,Bareilly,2,910,10,1638.0,838.0,Referral,Debit Card,Mobile,0,1,800
+ORD10866,2024-03-17,March,3,Q1,Sports,Dumbbell Set,Rajasthan,Jaipur,1,2051,10,1845.9,1045.9,Organic Search,Credit Card,Desktop,0,4,800
+ORD10867,2024-01-21,January,1,Q1,Electronics,Laptop,Uttar Pradesh,Bareilly,2,53195,0,106390.0,36390.0,Paid Ad,Cash on Delivery,Mobile,0,2,70000
+ORD10868,2024-06-15,June,6,Q2,Home & Kitchen,Bedsheet Set,Tamil Nadu,Chennai,2,911,25,1366.5,566.5,Organic Search,UPI,Desktop,0,5,800
+ORD10869,2024-08-09,August,8,Q3,Beauty,Moisturiser,Haryana,Gurugram,1,501,10,450.9,250.9,Email Campaign,Debit Card,Mobile,0,4,200
+ORD10870,2024-05-28,May,5,Q2,Electronics,Smartphone,Uttar Pradesh,Bareilly,1,17159,0,17159.0,2159.0,Direct,Debit Card,Desktop,0,5,15000
+ORD10871,2024-05-11,May,5,Q2,Fashion,Saree,Tamil Nadu,Chennai,1,2262,25,1696.5,496.5,Social Media,Debit Card,Mobile,1,5,1200
+ORD10872,2024-09-06,September,9,Q3,Fashion,Kurta Set,Punjab,Chandigarh,2,947,25,1420.5,220.5,Referral,Cash on Delivery,Mobile,0,2,1200
+ORD10873,2024-10-03,October,10,Q4,Books,Data Science Book,Telangana,Hyderabad,3,589,25,1325.25,-174.75,Organic Search,Debit Card,Mobile,0,4,1500
+ORD10874,2024-03-25,March,3,Q1,Books,Data Science Book,Tamil Nadu,Chennai,1,784,20,627.2,127.2,Direct,UPI,Mobile,0,3,500
+ORD10875,2024-08-09,August,8,Q3,Home & Kitchen,Air Fryer,Punjab,Chandigarh,2,4574,0,9148.0,4148.0,Referral,Cash on Delivery,Desktop,0,2,5000
+ORD10876,2024-06-24,June,6,Q2,Home & Kitchen,Pressure Cooker,Punjab,Chandigarh,1,1511,30,1057.7,257.7,Organic Search,Credit Card,Mobile,1,4,800
+ORD10877,2024-11-12,November,11,Q4,Electronics,Earbuds,West Bengal,Kolkata,1,2731,20,2184.8,984.8,Direct,Wallet,Mobile,0,4,1200
+ORD10878,2024-07-02,July,7,Q3,Electronics,Laptop,Odisha,Bhubaneswar,2,57294,10,103129.2,33129.2,Organic Search,Debit Card,Mobile,0,4,70000
+ORD10879,2024-10-01,October,10,Q4,Electronics,Smartwatch,Telangana,Hyderabad,1,6373,25,4779.75,1279.75,Direct,Credit Card,Tablet,0,4,3500
+ORD10880,2024-01-18,January,1,Q1,Electronics,Earbuds,Madhya Pradesh,Bhopal,1,1331,0,1331.0,131.0,Email Campaign,Cash on Delivery,Mobile,0,5,1200
+ORD10881,2024-01-22,January,1,Q1,Beauty,Face Serum,Karnataka,Bengaluru,5,630,10,2835.0,1335.0,Email Campaign,UPI,Desktop,0,3,1500
+ORD10882,2024-04-18,April,4,Q2,Sports,Yoga Mat,Kerala,Kochi,1,892,10,802.8,402.8,Email Campaign,UPI,Mobile,0,4,400
+ORD10883,2024-09-30,September,9,Q3,Electronics,Earbuds,Punjab,Chandigarh,4,2462,15,8370.8,3570.8,Email Campaign,UPI,Mobile,0,4,4800
+ORD10884,2024-11-19,November,11,Q4,Electronics,Laptop,Delhi,Delhi,1,58731,0,58731.0,23731.0,Referral,Net Banking,Tablet,0,1,35000
+ORD10885,2024-07-09,July,7,Q3,Sports,Yoga Mat,Maharashtra,Mumbai,1,773,15,657.05,257.05,Organic Search,Net Banking,Mobile,0,4,400
+ORD10886,2024-02-09,February,2,Q1,Home & Kitchen,Bedsheet Set,Tamil Nadu,Chennai,2,1020,30,1428.0,628.0,Paid Ad,UPI,Mobile,0,1,800
+ORD10887,2024-04-02,April,4,Q2,Books,Data Science Book,Odisha,Bhubaneswar,1,680,25,510.0,10.0,Paid Ad,Credit Card,Mobile,0,5,500
+ORD10888,2024-12-16,December,12,Q4,Home & Kitchen,Air Fryer,Madhya Pradesh,Bhopal,1,4743,0,4743.0,2243.0,Paid Ad,Debit Card,Desktop,0,3,2500
+ORD10889,2024-11-23,November,11,Q4,Beauty,Moisturiser,Telangana,Hyderabad,2,269,20,430.4,30.4,Email Campaign,Credit Card,Mobile,0,3,400
+ORD10890,2024-06-07,June,6,Q2,Fashion,Kurta Set,Karnataka,Bengaluru,1,754,10,678.6,78.6,Referral,Credit Card,Mobile,0,3,600
+ORD10891,2024-06-27,June,6,Q2,Electronics,Laptop,Delhi,Delhi,1,40580,5,38551.0,3551.0,Referral,UPI,Desktop,0,5,35000
+ORD10892,2024-10-07,October,10,Q4,Electronics,Earbuds,Uttar Pradesh,Lucknow,1,2799,10,2519.1,1319.1,Email Campaign,UPI,Mobile,0,3,1200
+ORD10893,2024-02-07,February,2,Q1,Electronics,Smartwatch,Tamil Nadu,Chennai,2,5409,5,10277.1,3277.1,Referral,UPI,Mobile,0,5,7000
+ORD10894,2024-05-15,May,5,Q2,Home & Kitchen,Pressure Cooker,West Bengal,Kolkata,2,1886,15,3206.2,1606.2,Email Campaign,Wallet,Tablet,0,5,1600
+ORD10895,2024-02-19,February,2,Q1,Home & Kitchen,Bedsheet Set,Haryana,Gurugram,3,663,20,1591.2,391.2,Direct,Credit Card,Desktop,0,5,1200
+ORD10896,2024-12-15,December,12,Q4,Beauty,Moisturiser,Odisha,Bhubaneswar,5,504,20,2016.0,1016.0,Social Media,UPI,Mobile,0,5,1000
+ORD10897,2024-12-09,December,12,Q4,Groceries,Dry Fruits 500g,Delhi,Delhi,4,703,30,1968.4,568.4,Direct,Credit Card,Mobile,1,5,1400
+ORD10898,2024-06-11,June,6,Q2,Fashion,Kurta Set,Madhya Pradesh,Bhopal,1,963,15,818.55,218.55,Email Campaign,UPI,Mobile,0,5,600
+ORD10899,2024-04-09,April,4,Q2,Electronics,Laptop,Kerala,Kochi,2,48900,20,78240.0,8240.0,Email Campaign,Debit Card,Mobile,0,1,70000
+ORD10900,2024-06-29,June,6,Q2,Home & Kitchen,Pressure Cooker,Maharashtra,Mumbai,1,1695,10,1525.5,725.5,Direct,Credit Card,Desktop,0,5,800
+ORD10901,2024-09-15,September,9,Q3,Books,Data Science Book,Gujarat,Ahmedabad,1,747,15,634.95,134.95,Organic Search,UPI,Desktop,1,5,500
+ORD10902,2024-10-09,October,10,Q4,Books,Data Science Book,West Bengal,Kolkata,4,778,15,2645.2,645.2,Referral,UPI,Mobile,0,4,2000
+ORD10903,2024-03-14,March,3,Q1,Electronics,Laptop,Rajasthan,Jaipur,1,49756,0,49756.0,14756.0,Organic Search,Net Banking,Mobile,0,3,35000
+ORD10904,2024-05-07,May,5,Q2,Books,Data Science Book,Madhya Pradesh,Bhopal,1,681,5,646.95,146.95,Paid Ad,UPI,Desktop,0,5,500
+ORD10905,2024-09-18,September,9,Q3,Beauty,Face Serum,Punjab,Chandigarh,2,891,10,1603.8,1003.8,Paid Ad,Debit Card,Mobile,0,5,600
+ORD10906,2024-07-02,July,7,Q3,Beauty,Face Serum,Tamil Nadu,Chennai,5,818,5,3885.5,2385.5,Referral,Credit Card,Mobile,0,3,1500
+ORD10907,2024-09-22,September,9,Q3,Fashion,Kurta Set,Odisha,Bhubaneswar,1,1336,5,1269.2,669.2,Email Campaign,Cash on Delivery,Mobile,0,5,600
+ORD10908,2024-06-18,June,6,Q2,Home & Kitchen,Air Fryer,Delhi,Delhi,1,3227,15,2742.95,242.95,Referral,UPI,Mobile,0,1,2500
+ORD10909,2024-01-11,January,1,Q1,Books,UPSC Guide,Odisha,Bhubaneswar,1,585,10,526.5,126.5,Paid Ad,Debit Card,Mobile,0,2,400
+ORD10910,2024-05-10,May,5,Q2,Beauty,Moisturiser,Uttar Pradesh,Bareilly,3,356,5,1014.6,414.6,Social Media,Credit Card,Tablet,0,4,600
+ORD10911,2024-09-26,September,9,Q3,Sports,Dumbbell Set,Odisha,Bhubaneswar,2,1147,0,2294.0,694.0,Social Media,Debit Card,Desktop,0,5,1600
+ORD10912,2024-08-20,August,8,Q3,Fashion,Saree,Delhi,Delhi,1,3167,0,3167.0,1967.0,Paid Ad,Wallet,Mobile,0,3,1200
+ORD10913,2024-07-20,July,7,Q3,Electronics,Laptop,Gujarat,Ahmedabad,3,40561,20,97346.4,-7653.6,Email Campaign,Cash on Delivery,Desktop,0,4,105000
+ORD10914,2024-05-10,May,5,Q2,Electronics,Laptop,Tamil Nadu,Chennai,2,56175,0,112350.0,42350.0,Direct,Debit Card,Tablet,0,4,70000
+ORD10915,2024-11-05,November,11,Q4,Electronics,Smartphone,Karnataka,Bengaluru,5,26855,15,114133.75,39133.75,Email Campaign,Net Banking,Desktop,0,1,75000
+ORD10916,2024-08-03,August,8,Q3,Electronics,Smartwatch,Rajasthan,Jaipur,1,7360,15,6256.0,2756.0,Organic Search,UPI,Desktop,0,2,3500
+ORD10917,2024-05-06,May,5,Q2,Beauty,Face Serum,Gujarat,Ahmedabad,1,384,10,345.6,45.6,Email Campaign,UPI,Mobile,0,5,300
+ORD10918,2024-08-27,August,8,Q3,Fashion,Saree,Gujarat,Ahmedabad,1,3489,10,3140.1,1940.1,Direct,Debit Card,Desktop,0,5,1200
+ORD10919,2024-07-13,July,7,Q3,Fashion,Sneakers,Uttar Pradesh,Bareilly,2,2826,5,5369.4,2369.4,Direct,UPI,Mobile,0,3,3000
+ORD10920,2024-07-21,July,7,Q3,Groceries,Organic Honey,Odisha,Bhubaneswar,2,434,25,651.0,91.0,Paid Ad,Cash on Delivery,Mobile,0,5,560
+ORD10921,2024-11-01,November,11,Q4,Sports,Yoga Mat,Uttar Pradesh,Bareilly,1,1011,20,808.8,408.8,Referral,Credit Card,Desktop,0,4,400
+ORD10922,2024-01-11,January,1,Q1,Books,Data Science Book,Kerala,Kochi,1,820,0,820.0,320.0,Email Campaign,Credit Card,Mobile,0,5,500
+ORD10923,2024-01-02,January,1,Q1,Fashion,Saree,West Bengal,Kolkata,2,3461,10,6229.8,3829.8,Referral,Net Banking,Desktop,0,4,2400
+ORD10924,2024-12-29,December,12,Q4,Fashion,Saree,Uttar Pradesh,Lucknow,1,3344,0,3344.0,2144.0,Social Media,Cash on Delivery,Mobile,1,3,1200
+ORD10925,2024-09-29,September,9,Q3,Home & Kitchen,Air Fryer,Uttar Pradesh,Lucknow,1,5261,20,4208.8,1708.8,Direct,Wallet,Mobile,0,4,2500
+ORD10926,2024-09-13,September,9,Q3,Electronics,Smartwatch,Rajasthan,Jaipur,1,5126,20,4100.8,600.8,Social Media,UPI,Mobile,0,3,3500
+ORD10927,2024-04-17,April,4,Q2,Books,UPSC Guide,Punjab,Chandigarh,1,495,15,420.75,20.75,Direct,UPI,Mobile,0,5,400
+ORD10928,2024-09-22,September,9,Q3,Electronics,Laptop,Haryana,Gurugram,1,58872,5,55928.4,20928.4,Direct,UPI,Mobile,0,4,35000
+ORD10929,2024-02-24,February,2,Q1,Fashion,Saree,Maharashtra,Mumbai,2,1919,25,2878.5,478.5,Social Media,Debit Card,Tablet,0,4,2400
+ORD10930,2024-02-28,February,2,Q1,Electronics,Laptop,Uttar Pradesh,Lucknow,1,51742,30,36219.4,1219.4,Paid Ad,UPI,Desktop,0,3,35000
+ORD10931,2024-10-11,October,10,Q4,Home & Kitchen,Air Fryer,Odisha,Bhubaneswar,1,3099,0,3099.0,599.0,Referral,UPI,Desktop,0,4,2500
+ORD10932,2024-01-24,January,1,Q1,Books,UPSC Guide,Gujarat,Ahmedabad,4,580,10,2088.0,488.0,Organic Search,Credit Card,Desktop,0,5,1600
+ORD10933,2024-01-11,January,1,Q1,Electronics,Smartwatch,Maharashtra,Mumbai,1,4638,15,3942.3,442.3,Paid Ad,UPI,Mobile,0,4,3500
+ORD10934,2024-01-09,January,1,Q1,Fashion,Sneakers,Uttar Pradesh,Bareilly,2,3531,20,5649.6,2649.6,Social Media,UPI,Mobile,0,3,3000
+ORD10935,2024-10-27,October,10,Q4,Fashion,Saree,Maharashtra,Mumbai,2,3233,10,5819.4,3419.4,Referral,UPI,Mobile,0,4,2400
+ORD10936,2024-08-11,August,8,Q3,Home & Kitchen,Bedsheet Set,Odisha,Bhubaneswar,3,552,5,1573.2,373.2,Referral,Debit Card,Mobile,1,4,1200
+ORD10937,2024-02-28,February,2,Q1,Books,Data Science Book,Rajasthan,Jaipur,1,670,0,670.0,170.0,Organic Search,Cash on Delivery,Desktop,0,4,500
+ORD10938,2024-11-12,November,11,Q4,Sports,Yoga Mat,Kerala,Kochi,1,751,15,638.35,238.35,Paid Ad,Credit Card,Mobile,1,5,400
+ORD10939,2024-03-30,March,3,Q1,Groceries,Organic Honey,Maharashtra,Mumbai,3,437,20,1048.8,208.8,Paid Ad,UPI,Mobile,0,3,840
+ORD10940,2024-11-11,November,11,Q4,Fashion,Jeans,Delhi,Delhi,4,1320,5,5016.0,1816.0,Email Campaign,Credit Card,Mobile,0,5,3200
+ORD10941,2024-04-16,April,4,Q2,Beauty,Moisturiser,Odisha,Bhubaneswar,2,389,0,778.0,378.0,Email Campaign,Credit Card,Mobile,1,5,400
+ORD10942,2024-09-03,September,9,Q3,Groceries,Dry Fruits 500g,Maharashtra,Mumbai,2,671,10,1207.8,507.8,Social Media,Credit Card,Mobile,0,5,700
+ORD10943,2024-08-21,August,8,Q3,Fashion,Sneakers,Odisha,Bhubaneswar,1,2317,5,2201.15,701.15,Organic Search,Credit Card,Mobile,0,4,1500
+ORD10944,2024-04-02,April,4,Q2,Fashion,Sneakers,Gujarat,Ahmedabad,1,2776,15,2359.6,859.6,Referral,UPI,Mobile,1,5,1500
+ORD10945,2024-09-28,September,9,Q3,Fashion,Sneakers,Maharashtra,Mumbai,1,1843,10,1658.7,158.7,Direct,Net Banking,Mobile,0,5,1500
+ORD10946,2024-12-21,December,12,Q4,Fashion,Kurta Set,Madhya Pradesh,Bhopal,1,800,5,760.0,160.0,Direct,UPI,Mobile,0,5,600
+ORD10947,2024-09-04,September,9,Q3,Beauty,Face Serum,West Bengal,Kolkata,4,469,0,1876.0,676.0,Referral,Net Banking,Mobile,0,4,1200
+ORD10948,2024-02-09,February,2,Q1,Home & Kitchen,Bedsheet Set,Delhi,Delhi,1,555,0,555.0,155.0,Social Media,Credit Card,Mobile,0,5,400
+ORD10949,2024-03-28,March,3,Q1,Beauty,Face Serum,Madhya Pradesh,Bhopal,5,558,20,2232.0,732.0,Organic Search,Net Banking,Mobile,0,4,1500
+ORD10950,2024-07-12,July,7,Q3,Groceries,Organic Honey,Uttar Pradesh,Lucknow,5,559,30,1956.5,556.5,Social Media,Net Banking,Desktop,1,4,1400
+ORD10951,2024-05-12,May,5,Q2,Electronics,Earbuds,Madhya Pradesh,Bhopal,1,2344,0,2344.0,1144.0,Direct,Net Banking,Mobile,1,3,1200
+ORD10952,2024-04-12,April,4,Q2,Electronics,Smartphone,Uttar Pradesh,Lucknow,1,19500,10,17550.0,2550.0,Email Campaign,UPI,Desktop,0,5,15000
+ORD10953,2024-10-19,October,10,Q4,Groceries,Dry Fruits 500g,Odisha,Bhubaneswar,1,507,25,380.25,30.25,Referral,Credit Card,Desktop,0,4,350
+ORD10954,2024-04-28,April,4,Q2,Beauty,Hair Oil,Gujarat,Ahmedabad,4,228,0,912.0,312.0,Social Media,UPI,Desktop,0,3,600
+ORD10955,2024-08-11,August,8,Q3,Groceries,Dry Fruits 500g,West Bengal,Kolkata,1,718,25,538.5,188.5,Organic Search,Credit Card,Mobile,1,4,350
+ORD10956,2024-03-16,March,3,Q1,Home & Kitchen,Pressure Cooker,Delhi,Delhi,2,1498,0,2996.0,1396.0,Social Media,Debit Card,Mobile,0,3,1600
+ORD10957,2024-08-19,August,8,Q3,Fashion,Jeans,Haryana,Gurugram,2,1022,10,1839.6,239.6,Direct,Credit Card,Mobile,0,3,1600
+ORD10958,2024-07-08,July,7,Q3,Fashion,Kurta Set,Uttar Pradesh,Lucknow,1,773,30,541.1,-58.9,Referral,Credit Card,Mobile,0,2,600
+ORD10959,2024-05-19,May,5,Q2,Home & Kitchen,Bedsheet Set,Delhi,Delhi,4,632,30,1769.6,169.6,Referral,UPI,Tablet,0,5,1600
+ORD10960,2024-02-04,February,2,Q1,Electronics,Earbuds,Madhya Pradesh,Bhopal,1,1862,20,1489.6,289.6,Referral,Debit Card,Tablet,0,5,1200
+ORD10961,2024-05-20,May,5,Q2,Groceries,Dry Fruits 500g,Tamil Nadu,Chennai,3,509,5,1450.65,400.65,Direct,Debit Card,Mobile,0,4,1050
+ORD10962,2024-02-11,February,2,Q1,Beauty,Face Serum,Telangana,Hyderabad,1,394,15,334.9,34.9,Organic Search,Credit Card,Mobile,0,4,300
+ORD10963,2024-12-02,December,12,Q4,Home & Kitchen,Air Fryer,Punjab,Chandigarh,1,4540,5,4313.0,1813.0,Direct,Debit Card,Mobile,0,4,2500
+ORD10964,2024-02-21,February,2,Q1,Fashion,Jeans,Madhya Pradesh,Bhopal,2,1661,0,3322.0,1722.0,Direct,Cash on Delivery,Desktop,0,5,1600
+ORD10965,2024-11-26,November,11,Q4,Sports,Yoga Mat,Karnataka,Bengaluru,1,484,0,484.0,84.0,Social Media,Cash on Delivery,Mobile,0,4,400
+ORD10966,2024-12-15,December,12,Q4,Home & Kitchen,Air Fryer,Telangana,Hyderabad,1,3826,20,3060.8,560.8,Organic Search,Credit Card,Mobile,0,4,2500
+ORD10967,2024-07-04,July,7,Q3,Beauty,Face Serum,Odisha,Bhubaneswar,2,774,15,1315.8,715.8,Email Campaign,Net Banking,Mobile,0,2,600
+ORD10968,2024-07-14,July,7,Q3,Groceries,Dry Fruits 500g,Uttar Pradesh,Lucknow,1,685,0,685.0,335.0,Referral,Cash on Delivery,Mobile,0,5,350
+ORD10969,2024-12-26,December,12,Q4,Beauty,Hair Oil,Kerala,Kochi,2,242,20,387.2,87.2,Organic Search,Net Banking,Desktop,0,5,300
+ORD10970,2024-02-27,February,2,Q1,Groceries,Organic Honey,Kerala,Kochi,1,329,25,246.75,-33.25,Social Media,Debit Card,Mobile,0,5,280
+ORD10971,2024-09-17,September,9,Q3,Books,UPSC Guide,Karnataka,Bengaluru,1,647,25,485.25,85.25,Organic Search,Credit Card,Mobile,0,5,400
+ORD10972,2024-06-23,June,6,Q2,Sports,Dumbbell Set,Uttar Pradesh,Lucknow,1,2044,20,1635.2,835.2,Organic Search,Cash on Delivery,Mobile,0,4,800
+ORD10973,2024-07-15,July,7,Q3,Groceries,Dry Fruits 500g,Delhi,Delhi,2,691,15,1174.7,474.7,Organic Search,Cash on Delivery,Tablet,0,5,700
+ORD10974,2024-01-29,January,1,Q1,Fashion,Kurta Set,Punjab,Chandigarh,2,1045,5,1985.5,785.5,Direct,UPI,Mobile,0,2,1200
+ORD10975,2024-03-02,March,3,Q1,Groceries,Organic Honey,Uttar Pradesh,Bareilly,2,502,15,853.4,293.4,Referral,UPI,Mobile,0,5,560
+ORD10976,2024-04-13,April,4,Q2,Groceries,Organic Honey,Gujarat,Ahmedabad,2,388,30,543.2,-16.8,Paid Ad,Debit Card,Mobile,0,3,560
+ORD10977,2024-04-16,April,4,Q2,Fashion,Kurta Set,Haryana,Gurugram,2,1054,15,1791.8,591.8,Referral,UPI,Mobile,0,2,1200
+ORD10978,2024-12-30,December,12,Q4,Electronics,Smartwatch,Kerala,Kochi,1,4279,10,3851.1,351.1,Referral,Debit Card,Mobile,0,5,3500
+ORD10979,2024-03-23,March,3,Q1,Home & Kitchen,Air Fryer,Punjab,Chandigarh,2,5291,5,10052.9,5052.9,Direct,Debit Card,Desktop,0,5,5000
+ORD10980,2024-09-12,September,9,Q3,Beauty,Hair Oil,Uttar Pradesh,Bareilly,2,315,5,598.5,298.5,Direct,Net Banking,Desktop,0,3,300
+ORD10981,2024-04-05,April,4,Q2,Books,Data Science Book,Odisha,Bhubaneswar,2,774,5,1470.6,470.6,Referral,UPI,Tablet,0,4,1000
+ORD10982,2024-01-06,January,1,Q1,Fashion,Kurta Set,Delhi,Delhi,1,1365,20,1092.0,492.0,Organic Search,UPI,Mobile,0,4,600
+ORD10983,2024-04-11,April,4,Q2,Beauty,Moisturiser,Gujarat,Ahmedabad,1,400,5,380.0,180.0,Social Media,UPI,Tablet,0,5,200
+ORD10984,2024-02-18,February,2,Q1,Home & Kitchen,Bedsheet Set,Uttar Pradesh,Lucknow,1,1006,15,855.1,455.1,Referral,Cash on Delivery,Mobile,0,3,400
+ORD10985,2024-12-07,December,12,Q4,Home & Kitchen,Bedsheet Set,Telangana,Hyderabad,1,803,10,722.7,322.7,Referral,Credit Card,Mobile,0,3,400
+ORD10986,2024-11-12,November,11,Q4,Groceries,Dry Fruits 500g,Gujarat,Ahmedabad,3,528,30,1108.8,58.8,Direct,UPI,Mobile,1,5,1050
+ORD10987,2024-07-24,July,7,Q3,Home & Kitchen,Bedsheet Set,Rajasthan,Jaipur,1,1006,0,1006.0,606.0,Organic Search,Net Banking,Mobile,1,4,400
+ORD10988,2024-02-29,February,2,Q1,Beauty,Face Serum,Madhya Pradesh,Bhopal,5,390,0,1950.0,450.0,Paid Ad,Cash on Delivery,Mobile,0,3,1500
+ORD10989,2024-03-22,March,3,Q1,Fashion,Kurta Set,Gujarat,Ahmedabad,1,946,20,756.8,156.8,Social Media,Credit Card,Desktop,0,3,600
+ORD10990,2024-09-17,September,9,Q3,Home & Kitchen,Pressure Cooker,Odisha,Bhubaneswar,2,1878,5,3568.2,1968.2,Paid Ad,UPI,Desktop,0,4,1600
+ORD10991,2024-10-31,October,10,Q4,Home & Kitchen,Air Fryer,Gujarat,Ahmedabad,2,3849,5,7313.1,2313.1,Paid Ad,UPI,Mobile,0,5,5000
+ORD10992,2024-11-26,November,11,Q4,Home & Kitchen,Air Fryer,Telangana,Hyderabad,2,3492,20,5587.2,587.2,Organic Search,Cash on Delivery,Mobile,0,3,5000
+ORD10993,2024-06-07,June,6,Q2,Fashion,Sneakers,Telangana,Hyderabad,1,2702,0,2702.0,1202.0,Paid Ad,UPI,Tablet,0,5,1500
+ORD10994,2024-10-17,October,10,Q4,Home & Kitchen,Bedsheet Set,Tamil Nadu,Chennai,2,441,5,837.9,37.9,Paid Ad,UPI,Desktop,1,4,800
+ORD10995,2024-07-27,July,7,Q3,Beauty,Hair Oil,Telangana,Hyderabad,1,281,15,238.85,88.85,Referral,Debit Card,Desktop,0,3,150
+ORD10996,2024-03-21,March,3,Q1,Electronics,Smartwatch,Uttar Pradesh,Lucknow,1,6750,0,6750.0,3250.0,Email Campaign,UPI,Mobile,0,3,3500
+ORD10997,2024-11-12,November,11,Q4,Groceries,Dry Fruits 500g,Uttar Pradesh,Bareilly,1,582,0,582.0,232.0,Paid Ad,Debit Card,Mobile,0,1,350
+ORD10998,2024-10-08,October,10,Q4,Electronics,Smartwatch,West Bengal,Kolkata,1,7384,10,6645.6,3145.6,Social Media,UPI,Mobile,0,5,3500
+ORD10999,2024-08-11,August,8,Q3,Books,UPSC Guide,Uttar Pradesh,Bareilly,2,640,25,960.0,160.0,Direct,UPI,Mobile,0,4,800
+ORD11000,2024-01-23,January,1,Q1,Home & Kitchen,Bedsheet Set,Delhi,Delhi,1,445,10,400.5,0.5,Paid Ad,Credit Card,Mobile,0,4,400
